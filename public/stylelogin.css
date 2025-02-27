@@ -47,14 +47,14 @@ body {
 }
 
 .container a {
-    color: #cfb53b;
+    color:#2B5C6B;
     font-size: 13px;
     text-decoration: none;
     margin: 15px 0 10px;
 }
 
 .container button {
-    background-color: #D4AF37;
+    background-color:#2B5C6B;
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
@@ -73,8 +73,8 @@ body {
 }
 
 .container form {
-    background: rgb(128,0,0);
-    background: linear-gradient(90deg, rgba(96,0,0,1) 0%, rgba(128,0,0,1) 55%);
+    background: rgb(50,95,111);
+    background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -215,6 +215,8 @@ body {
 
 .toggle-right {
     right: 0;
+    background: rgb(120,152,159);
+background: linear-gradient(90deg, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     
     
 }
@@ -228,7 +230,7 @@ body {
     width: 110%;
     display: block;
     margin-top: -2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 }
 
 .forgot{
@@ -245,7 +247,8 @@ body {
 }
 
 .container .form-1 {
-    background-color: #800000;
+    background: rgb(120,152,159);
+background: linear-gradient(90deg, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     display: flex;
     align-items: center;
     justify-content: center;

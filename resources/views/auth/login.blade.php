@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
     <link href="stylelogin.css" rel="stylesheet">
-    <link type="image/x-icon" href="img/coba23.ico" rel="icon">
-    <link type="image/x-icon" href="img/coba23.ico" rel="shortcut icon">
+    <link type="image/x-icon" href="img/kabinetridho.png" rel="icon">
+    <link type="image/x-icon" href="img/kabinetridho.png" rel="shortcut icon">
     <title>Login Page | Senat FH</title>
   </head>
 
@@ -42,7 +42,7 @@
         <div class="toggle">
           <div class="toggle-panel toggle-right">
             <div class="img">
-              <img src="/img/coba12.png">
+              <img src="/img/kabinetridho.png">
             </div>
             <h1>Welcome Admin</h1>
             <p>Enter your personal details to use all of site features</p>

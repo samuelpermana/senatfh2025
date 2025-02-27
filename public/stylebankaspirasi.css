@@ -66,12 +66,13 @@ nav {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px #cfb53b;
+    box-shadow: 0 0 1000px 50px      #2B5C6B;
     z-index: -100;
 }
 
 section .header {
-    color: #cfb53b;
+    color:#2B5C6B;
+
     margin-bottom: 4rem;
     font-size: 3rem;
     font-weight: 700;
@@ -90,7 +91,8 @@ section .header {
 }
 
 section .header-BA {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
     margin-bottom: 2rem;
     font-size: 3rem;
     font-weight: 700;
@@ -107,8 +109,8 @@ section .header-BA {
 }
 
 .pricing .card .content {
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -129,7 +131,7 @@ section .header-BA {
     font-size: 1rem;
     padding: 1rem 2rem;
     width: 100%;
-    background: #cfb53b;
+    background:      #325f6f;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -143,7 +145,7 @@ section .header-BA {
 .panel {
     color: #18181b;
     border-radius: 15px;
-    background-color: #f1dda8;
+    background-color:#7A9A9F;
     max-height: 0;
     overflow: hidden;
     transition: 0.5s ease-out;
@@ -185,8 +187,10 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #fff;
-    background-color: #cfb53b;
-    border-color: #cfb53b;
+    background-color:      #2B5C6B;
+
+    border-color:      #2B5C6B;
+
 }
 
 footer .column h4 {
@@ -204,7 +208,8 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 .copyright {

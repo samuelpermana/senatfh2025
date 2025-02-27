@@ -10,11 +10,36 @@
     box-sizing: border-box;
 }
 
-img {
-    width: 70%;
-    display: flex;
-    margin-left: 50px;
+@keyframes flameMotion {
+    0% { transform: scale(1) translateY(0) rotate(0deg); }
+    25% { transform: scale(1.05) translateY(-5px) rotate(-1deg); }
+    50% { transform: scale(1.02) translateY(3px) rotate(1deg); }
+    75% { transform: scale(1.05) translateY(-4px) rotate(-1deg); }
+    100% { transform: scale(1) translateY(0) rotate(0deg); }
 }
+
+@keyframes pulseGlow {
+    0% { filter: brightness(1); }
+    50% { filter: brightness(1.2); }
+    100% { filter: brightness(1); }
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px; /* Sesuaikan ukuran */
+    height: auto;
+    margin-left: 150px;
+}
+
+.logo-container img {
+    width: 400%;
+    display: block;
+    animation: flameMotion 3s infinite ease-in-out, pulseGlow 2s infinite ease-in-out;
+    margin-left: 80px;
+}
+
 
 a {
     text-decoration: none;
@@ -33,6 +58,7 @@ body {
     place-items: center;
     isolation: isolate;
     overflow: hidden;
+    
 }
 
 .container-f{
@@ -50,12 +76,7 @@ body {
         alternate forwards;
     filter: blur(40px);
     z-index: -1;
-    background: linear-gradient(
-        47deg,
-        rgba(255, 88, 139, 1) 21%,
-        rgb(0 164 173) 67%,
-        rgba(118, 74, 166, 1) 81%
-    );
+    background: #2B5C6B;
 
     /*  Optional  */
     /*   box-shadow: inset 50px 50px 17px 0px #ff588b,
@@ -129,7 +150,7 @@ header .content p {
 }
 
 section .header {
-    color: #cfb53b;
+    color:#2B5C6B;
     margin-bottom: 4rem;
     font-size: 3rem;
     font-weight: 700;
@@ -147,6 +168,17 @@ section .header {
     max-width: 100px;
 }
 
+.nav-logo1 {
+    display: inline-flex;
+    align-items: center; /* Mengatur vertikal ke tengah */
+}
+
+.nav-logo1 img {
+    max-width: 190px;
+    margin-left: -30px;
+    
+}
+
 .nav-title {
     display: inline-flex;
     margin-left: 10px;
@@ -161,6 +193,8 @@ section .header {
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    
+    
 }
 
 
@@ -192,7 +226,7 @@ section .header {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px #cfb53b;
+    box-shadow: 0 0 1000px 50px #2B5C6B;
     z-index: -100;
 }
 
@@ -345,8 +379,8 @@ section .header {
 #description {
     font-size: 1.3rem;
     color: white;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(43,92,107);
+    background: linear-gradient(90deg, rgba(43,92,107,1) 0%, rgba(20,133,168,1) 35%, rgba(20,133,168,1) 70%, rgba(43,92,107,1) 100%);
     padding: 5px 20px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(255, 255, 255, 15%);
@@ -492,7 +526,7 @@ section .header {
 
 .calendar .days .day:not(.prev-date, .next-date):hover {
     color: #fff;
-    background-color: #cfb53b;
+    background-color:      #7A9A9F;
 }
 
 .calendar .days .prev-date,
@@ -504,7 +538,8 @@ section .header {
     position: relative;
     font-size: 2rem;
     color: #fff;
-    background-color: #cfb53b;
+    background-color:      #7A9A9F;
+
 }
 
 .calendar .days .active::before {
@@ -514,7 +549,8 @@ section .header {
     left: 0;
     width: 100%;
     height: 100%;
-    box-shadow: 0 0 10px 2px #cfb53b;
+    box-shadow: 0 0 10px 2px      #7A9A9F;
+
     border-radius: 10%;
 }
 
@@ -535,15 +571,16 @@ section .header {
     height: 6px;
     border-radius: 30px;
     transform: translateX(-50%);
-    background-color: #cfb53b;
+    background-color:      #7A9A9F;
 }
 
 .calendar .days .day:hover.event::after {
-    background-color: #cfb53b;
+    background-color:      #7A9A9F;
 }
 
 .calendar .days .active.event::after {
-    background-color: #cfb53b;
+    background-color:      #7A9A9F;
+
     bottom: 20%;
 }
 
@@ -560,7 +597,7 @@ section .header {
     gap: 5px;
     padding: 0 20px;
     margin-bottom: 20px;
-    color: var(--primary-clr);
+    color:      #7A9A9F;
 }
 
 .calendar .goto-today .goto {
@@ -578,7 +615,8 @@ section .header {
     border: none;
     border-radius: 5px;
     padding: 0 20px;
-    color: var(--primary-clr);
+    color:      #7A9A9F;
+
     border-radius: 5px;
 }
 
@@ -588,17 +626,21 @@ section .header {
     border-radius: 5px;
     background-color: transparent;
     cursor: pointer;
-    color: var(--primary-clr);
+    color:      #7A9A9F;
+
+}
+.fc-day-today{
+    background-color: #2B5C6B;
 }
 
 .calendar .goto-today button:hover {
     color: #fff;
-    background-color: var(--primary-clr);
+    background-color: #7A9A9F;
 }
 
 .calendar .goto-today .goto button {
     border: none;
-    border-left: 1px solid var(--primary-clr);
+    border-left: 1px solid #7A9A9F;
     border-radius: 0;
 }
 
@@ -657,7 +699,7 @@ section .header {
     padding: 0 20px;
     padding-left: 50px;
     color: #fff;
-    background: linear-gradient(90deg, #cfb53b, transparent);
+    background: linear-gradient(90deg, #7A9A9F, transparent);
     cursor: pointer;
 }
 
@@ -667,7 +709,7 @@ section .header {
 }
 
 .events .event:hover {
-    background: linear-gradient(90deg, #cfb53b, transparent);
+    background: linear-gradient(90deg, #7A9A9F, transparent);
 }
 
 .events .event .title {
@@ -837,11 +879,12 @@ section .header {
 }
 
 .add-event-body .add-event-input input:focus {
-    border-bottom: 1px solid var(--primary-clr);
+    border-bottom: 1px solid      #2B5C6B;
 }
 
 .add-event-body .add-event-input input:focus::placeholder {
-    color: var(--primary-clr);
+    color:      #2B5C6B;
+
 }
 
 .add-event-footer {
@@ -858,7 +901,7 @@ section .header {
     outline: none;
     border: none;
     color: #fff;
-    background-color: #cfb53b;
+    background-color:      #2B5C6B;
     border-radius: 5px;
     cursor: pointer;
     padding: 5px 10px;
@@ -866,7 +909,7 @@ section .header {
 }
 
 .add-event-footer .add-event-btn:hover {
-    background-color: #cfb53b;
+    background-color:      #7A9A9F;
     color: white;
 }
 
@@ -913,8 +956,10 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #fff;
-    background-color: #cfb53b;
-    border-color: #cfb53b;
+    background-color:#2B5C6B;
+
+    border-color:#2B5C6B;
+
 }
 
 footer .column h4 {
@@ -932,7 +977,7 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color:#2B5C6B;
 }
 
 .copyright {
@@ -946,8 +991,8 @@ footer .column > a:hover {
 
 /* Ganti latar belakang kalender */
 #calendar {
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%); /* Ubah warna latar belakang sesuai keinginan Anda */
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
   padding: 20px; /* Berikan padding agar konten kalender tidak terlalu dekat dengan tepi */
   border-radius: 20px;
   margin-top: -5rem;
@@ -961,9 +1006,9 @@ footer .column > a:hover {
 /* Atur tampilan tombol navigasi kalender */
 .fc-prev-button,
 .fc-next-button {
-    background-color: #d4af37; /* Warna latar tombol */
+    background-color:#78989f; /* Warna latar tombol */
     color: #fff; /* Warna teks tombol */
-    border-color: #d4af37; /* Warna garis batas tombol */
+    border-color: #78989f;/* Warna garis batas tombol */
     border-radius: 5px; /* Ubah sudut tombol */
     padding: 5px 10px; /* Atur padding tombol */
     margin: 0 5px; /* Atur margin antara tombol */
@@ -992,13 +1037,13 @@ footer .column > a:hover {
 
 /* Atur tampilan hari-hari pada saat dihover */
 .fc-day:hover { 
-  background-color: #d4af37; /* Warna latar belakang saat dihover */
+  background-color:#7A9A9F; /* Warna latar belakang saat dihover */
   opacity: 0.5; 
   cursor: pointer;  /*Ubah kursor saat dihover */
  } 
 
 .fc-today-button {
-    background-color: #d4af37;
+    background-color:#78989f;
     padding: 6px 10px;
     border-radius: 5px;
     color: white;
@@ -1029,6 +1074,170 @@ footer .column > a:hover {
     font-size: 18px;
     margin-left: 0rem;
 }
+
+.container9 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.main-news, .popular-news {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.main-news {
+    flex: 2;
+    position: relative;
+}
+
+.main-news img {
+    width: 100%;
+        height: auto;
+        display: block;
+        margin: 0;
+}
+
+.main-news .nav-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #fff;
+    color: #000;
+    border-radius: 50%;
+    padding: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+    cursor: pointer;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-news .nav-button.left {
+    left: 25px;
+}
+
+.main-news .nav-button.right {
+    right: 25px;
+}
+
+.main-news .info {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 8px;
+    border-radius: 4px;
+    right: 5px;
+}
+
+.main-news .info .tag {
+    background-color: #1d4ed8;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.main-news .info h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 8px 0 4px;
+}
+
+.main-news .info p {
+    font-size: 14px;
+    margin: 0;
+}
+
+.popular-news {
+    flex: 1;
+    padding: 16px;
+    height: 380px;
+}
+
+.popular-news h2 {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #2B5C6B;
+    padding-bottom: 8px;
+}
+
+.popular-news .news-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-top: 16px;
+    margin-left: -50px;
+}
+
+.popular-news .news-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.popular-news .news-item .info h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.popular-news .news-item .info p {
+    font-size: 12px;
+    color: #6b7280;
+    margin: 4px 0 0;
+}
+
+
+
+@media (max-width: 1024px) {
+    .main-news, .popular-news {
+        flex: 1 1 100%;
+    }
+}
+
+.slider {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+.slide {
+    min-width: 100%;
+    display: none;
+}
+.slide.active {
+    display: block;
+}
+.nav-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.nav-button.left { left: 10px; }
+.nav-button.right { right: 10px; }
 
 @media (width < 1000px) {
     .img-aktivitas-sm {

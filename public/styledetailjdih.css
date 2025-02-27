@@ -46,7 +46,8 @@ nav {
   display: inline-flex;
   margin-left: 10px;
   font-size: 1.2rem;
-  color: #cfb53b;
+  color:      #2B5C6B;
+
   font-weight: 600;
   align-items: center; /* Mengatur vertikal ke tengah */
 }
@@ -72,7 +73,8 @@ nav {
   bottom: 0;
   left: 50%; /* Menengahkan garis bawah */
   transform: translateX(-50%); /* Menyempurnakan penempatan garis bawah */
-  background-color: #cfb53b;
+  background-color:      #2B5C6B;
+
   transition: all 0.3s ease;
 }
 
@@ -88,13 +90,15 @@ nav {
 
 .blur {
   position: absolute;
-  box-shadow: 0 0 1000px 50px #cfb53b;
+  box-shadow: 0 0 1000px 50px      #2B5C6B;
+
   z-index: -100;
 }
 
 .pricing-JD .card-JD1 {
     padding: 2rem 1rem;
-    background-color: #cbb989;
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     display: flex;
     flex-direction: column;
     border: 2px solid transparent;
@@ -120,7 +124,7 @@ nav {
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
-    background-color: #8888;
+    background-color: #f5f5dc;
     font-family: 'Poppins', sans-serif;
     height: 500px;
     
@@ -140,8 +144,9 @@ nav {
     margin-top: auto;
     margin-bottom: auto;
     font-family: 'Poppins', sans-serif;
-    color: #fff;
-    border-bottom: 1px solid #fff;
+    color: #18181b;
+    border-bottom: 1px solid      #7A9A9F;
+
     font-size: calc(1vw + 5px);
   }
   
@@ -179,8 +184,10 @@ nav {
   
   footer .column .socials a:hover {
     color: #18181b;
-    background-color: #cfb53b;
-    border-color: #cfb53b;
+    background-color:      #2B5C6B;
+
+    border-color:      #2B5C6B;
+
   }
   
   footer .column h4 {
@@ -198,7 +205,8 @@ nav {
   }
   
   footer .column > a:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
   }
   
   .copyright {
