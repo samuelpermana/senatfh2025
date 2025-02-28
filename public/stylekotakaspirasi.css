@@ -120,7 +120,7 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
 
 #contact textarea {
     height: 200px;
-    text-align: left;
+    text-align: left; 
     font-size: 1.1em;
     font-family: inherit;
     margin: auto; /* Untuk membuat textarea berada di tengah */
