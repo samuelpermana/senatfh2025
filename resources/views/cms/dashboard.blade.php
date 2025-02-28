@@ -6,7 +6,7 @@
   <body>
     <h1>Dashboard CMS Senat FH Undip</h1><br>
     <div class="grid">
-      <a href="{{ url('/admin/aktivitas') }}"><button class="btn item">Aktivitas Senat</button></a>
+      <a href="{{ url('/admin/aktivitas') }}"><button class="btn item">Berita</button></a>
       <a href="{{ url('/admin/jdih') }}"><button class="btn item">JDIH</button></a>
       <a href="{{ url('/admin/rooms') }}"><button class="btn item">Ruangan</button></a>
       <a href="{{ url('/admin/room-schedules') }}"><button class="btn item">Jadwal Ruangan</button></a>

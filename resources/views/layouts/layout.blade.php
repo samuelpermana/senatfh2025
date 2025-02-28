@@ -116,7 +116,6 @@
           <img src="/img/coba1.png" alt="Logo">
         </a>
       </div>
-
       <ul class="nav-links">
         <li class="link"><a href="{{ url("/") }}">Home</a></li>
         <li class="link" id="link1"><a href="{{ url("/kotakaspirasi") }}">Kotak Aspirasi</a></li>
@@ -125,6 +124,20 @@
         <li class="link" id="link4"><a href="{{ url("/selayangpandang") }}">Selayang Pandang</a></li>
         <li class="link" id="link4">
           <div class="dropdown">
+            <div class="select">
+              <span class="selected">JDIH</span>
+              <div class="caret"></div>
+            </div>
+            <ul class="menu">
+              <li><a href="{{ route("jdih.jenis", ["id" => 1]) }}">Konstitusi</a></li>
+              <li><a href="{{ route("jdih.jenis", ["id" => 2]) }}">Peraturan Mahasiswa</a></li>
+              <li><a href="{{ route("jdih.jenis", ["id" => 4]) }}">Peraturan Senat Mahasiswa</a></li>
+              <li><a href="{{ route("jdih.jenis", ["id" => 3]) }}">Standard Operating Procedure</a></li>
+              <li><a href="{{ route("jdih.jenis", ["id" => 5]) }}">Keputusan</a></li>
+              <li><a href="{{ route("jdih.jenis", ["id" => 6]) }}">Rancangan Peraturan</a></li>
+            </ul>
+          </div>
+          {{-- <div class="dropdown">
             <button class="dropbtn">JDIH</button>
             <div class="dropdown-content">
               <a href="{{ route("jdih.jenis", ["id" => 1]) }}">Konstitusi</a>
@@ -134,11 +147,10 @@
               <a href="{{ route("jdih.jenis", ["id" => 5]) }}">Keputusan</a>
               <a href="{{ route("jdih.jenis", ["id" => 6]) }}">Rancangan Peraturan</a>
             </div>
-          </div>
+          </div> --}}
         </li>
         <li class="link" id="link6"><a href="{{ url("/peminjamanruangan") }}">Peminjaman Ruangan</a></li>
       </ul>
-
       <a href="{{ url("/login") }}"><button class="btn btn-ajukansurat" type="button">Ajukan Surat</button></a>
     </nav>
 
@@ -207,6 +219,35 @@
         }
       });
     });
+  </script>
+  {{-- script buat dropdown terbaru --}}
+  <script>
+    const dropdowns = document.querySelectorAll('.dropdown');
+    dropdowns.forEach(dropdown => {
+      const select = dropdown.querySelector('.select');
+      const caret = dropdown.querySelector('.caret');
+      const menu = dropdown.querySelector('.menu');
+      const options = dropdown.querySelectorAll('.menu li');
+      const selected = dropdown.querySelector('.selected');
+
+      select.addEventListener('click', () => {
+        select.classList.toggle('select-clicked');
+        caret.classList.toggle('caret-rotate');
+        menu.classList.toggle('menu-open');
+      });
+      options.forEach(option => {
+        option.addEventListener('click', () => {
+          selected.innerText = option.innerText;
+          select.classList.remove('select-clicked');
+          caret.classList.remove('caret-rotate');
+          menu.classList.remove('menu-open');
+          options.forEach(option => {
+            option.classList.remove('active');
+          });
+          option.classList.add('active');
+        })
+      })
+    })
   </script>
 
 </html>

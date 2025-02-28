@@ -4,7 +4,7 @@
   {{-- Content goes here --}}
 
   <body>
-    <h2>Aktivitas Senat Details</h2>
+    <h2>Berita Details</h2>
 
 
     <div>

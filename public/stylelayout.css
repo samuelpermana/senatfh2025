@@ -2,6 +2,63 @@
 
 /* ================= INI STYLE DROPDOWN MENU =================*/
 /* Style the dropdown button */
+/* css dropdown terbaru starts here */
+.dropdown {
+    min-width: 15em;
+    position: relative;
+}
+
+.dropdown * {
+    box-sizing: border-box;
+}
+
+.select {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0.5em;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.select-clicked {
+    box-shadow: 0 0 0.8rem #000000;
+}
+
+.select:hover {
+    opacity: 50%;
+}
+
+.menu {
+    list-style: none;
+    padding: 0.2em 0.5em;
+    border: 1px #000000 solid;
+    box-shadow: 0 0.5em 1em #000000;
+    border-radius: 0.5em;
+    color: #000000;
+    position: absolute;
+    top: 3em;
+    left: 50%;
+    width: 100%;
+    transform: translateX(-50%);
+    opacity: 0;
+    display: none;
+    transition: 0.2s;
+    z-index: 1;
+}
+
+.menu li {
+    padding: 0.7em 0.5em;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
+
+.menu-open {
+    display: block;
+    opacity: 1;
+}
+/* css dropdown terbaru ends here */
+
 .dropbtn {
     font-size: 16px;
     border: none;

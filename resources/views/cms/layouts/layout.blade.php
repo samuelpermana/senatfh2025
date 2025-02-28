@@ -34,7 +34,7 @@
               <li>
                 <a href="{{ url("/admin/aktivitas") }}">
                   <span class="icon"><i class="fas fa-user"></i></span>
-                  <span class="text">Aktivitas Senat</span>
+                  <span class="text">Berita</span>
                 </a>
               </li>
               <li>

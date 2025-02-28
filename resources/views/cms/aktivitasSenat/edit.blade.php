@@ -6,7 +6,7 @@
   <link href="{{ URL::asset("cms/aktivitasSenat/styleedit.css") }}" rel="stylesheet">
 
   <body>
-    <h1>Edit Aktivitas Senat</h1>
+    <h1>Edit Berita</h1>
 
 
     <form action="{{ route("admin.aktivitasSenat.update", ["id" => $aktivitasSenat->id]) }}" method="POST" enctype="multipart/form-data">

@@ -58,7 +58,7 @@
   </header>
 
   <section class="container">
-    <h2 class="header">AKTIVITAS SM FH UNDIP</h2>
+    <h2 class="header">BERITA</h2>
     <div id="slideshow-grid">
       <div id="slideshow">
         <div id="slidewindow">

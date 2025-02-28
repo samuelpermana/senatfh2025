@@ -6,7 +6,7 @@
   <link href="{{ URL::asset("cms/aktivitasSenat/stylecreate.css") }}" rel="stylesheet">
 
   <body>
-    <h1>Create Aktivitas Senat</h1>
+    <h1>Create Berita</h1>
 
 
     <form action="{{ route("admin.aktivitasSenat.store") }}" method="POST" enctype="multipart/form-data">
