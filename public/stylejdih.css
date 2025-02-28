@@ -48,6 +48,8 @@ nav {
     font-size: 1.2rem;
     color:      #2B5C6B;
 
+    color:      #2B5C6B;
+
     font-weight: 600;
     align-items: center; /* Mengatur vertikal ke tengah */
 }
@@ -74,6 +76,8 @@ nav {
     transform: translateX(-50%); /* Menyempurnakan penempatan garis bawah */
     background-color:      #2B5C6B;
 
+    background-color:      #2B5C6B;
+
     transition: all 0.3s ease;
 }
 
@@ -85,6 +89,8 @@ nav {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
+    background-color:      #2B5C6B;
+    
     background-color:      #2B5C6B;
     
     border-radius: 5px;
@@ -105,10 +111,13 @@ nav {
 .blur {
     position: absolute;
     box-shadow: 0 0 1000px 50px      #2B5C6B;
+    box-shadow: 0 0 1000px 50px      #2B5C6B;
     z-index: -100;
 }
 
 section .header-JD {
+    color:      #2B5C6B;
+
     color:      #2B5C6B;
 
     margin-bottom: 3rem;
@@ -120,6 +129,7 @@ section .header-JD {
 }
 
 section .headerJD {
+    color:      #2B5C6B;
     color:      #2B5C6B;
     margin-bottom: 3rem;
     font-size: calc(3rem + 5px);
@@ -156,6 +166,9 @@ section .headerJD {
     display: flex;
     flex-direction: row;
     width: 100%; /* Menggunakan lebar 100% agar mengisi seluruh kolom */ 
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
+    width: 100%; /* Menggunakan lebar 100% agar mengisi seluruh kolom */
     background: rgb(50,95,111);
 background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     padding: 0.3rem;
@@ -213,6 +226,9 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     color:      #2B5C6B;
     
 
+    color:      #2B5C6B;
+    
+
 }
 
 .features-JD .card-JD p,
@@ -236,10 +252,13 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     margin-top: 0;
     transition: all 0.3s ease;
     
+    
 }
 
 .features-JD .card-JD a:hover,
 .features1 .card-JD a:hover {
+    opacity: 80%;
+
     opacity: 80%;
 
 }
@@ -282,6 +301,10 @@ footer .column .socials a:hover {
 
     border-color:      #2B5C6B;
 
+    background-color:      #2B5C6B;
+
+    border-color:      #2B5C6B;
+
 }
 
 footer .column h4 {
@@ -299,6 +322,8 @@ footer .column > a {
 }
 
 footer .column > a:hover {
+    color:      #2B5C6B;
+
     color:      #2B5C6B;
 
 }

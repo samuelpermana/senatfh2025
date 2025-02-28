@@ -97,9 +97,8 @@ nav {
 
 .pricing-JD .card-JD1 {
     padding: 2rem 1rem;
-    background: rgb(50,95,111);
-background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
-    display: flex; 
+    background-color: #cbb989;
+    display: flex;
     flex-direction: column;
     border: 2px solid transparent;
     border-radius: 15px;

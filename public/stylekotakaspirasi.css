@@ -133,8 +133,8 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
 
 #contact button {
     padding: 10px 20px;
-    background:#2B5C6B;
-    color: #fff; 
+    background: #18181b;
+    color: #fff;
     border: none;
     border-radius: 3px;
     cursor: pointer;

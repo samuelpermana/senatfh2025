@@ -67,11 +67,14 @@ nav {
 .blur {
     position: absolute;
     box-shadow: 0 0 1000px 50px      #2B5C6B;
+    box-shadow: 0 0 1000px 50px #2b5c6b;
     z-index: -100;
 }
 
 section .header {
     color:#2B5C6B;
+
+    color: #2b5c6b;
 
     margin-bottom: 4rem;
     font-size: 3rem;
@@ -93,6 +96,8 @@ section .header {
 section .header-BA {
     color:      #2B5C6B;
 
+    color: #2b5c6b;
+
     margin-bottom: 2rem;
     font-size: 3rem;
     font-weight: 700;
@@ -111,6 +116,16 @@ section .header-BA {
 .pricing .card .content {
     background: rgb(50,95,111);
 background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
+    background: rgb(50, 95, 111);
+    background: linear-gradient(
+        90deg,
+        rgba(50, 95, 111, 1) 0%,
+        rgba(98, 124, 130, 1) 20%,
+        rgba(120, 152, 159, 1) 40%,
+        rgba(120, 152, 159, 1) 60%,
+        rgba(98, 124, 130, 1) 80%,
+        rgba(50, 95, 111, 1) 100%
+    );
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -132,6 +147,7 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     padding: 1rem 2rem;
     width: 100%;
     background:      #325f6f;
+    background: #325f6f;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -146,6 +162,7 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     color: #18181b;
     border-radius: 15px;
     background-color:#7A9A9F;
+    background-color: #7a9a9f;
     max-height: 0;
     overflow: hidden;
     transition: 0.5s ease-out;
@@ -191,6 +208,9 @@ footer .column .socials a:hover {
 
     border-color:      #2B5C6B;
 
+    background-color: #2b5c6b;
+
+    border-color: #2b5c6b;
 }
 
 footer .column h4 {
@@ -210,6 +230,7 @@ footer .column > a {
 footer .column > a:hover {
     color:      #2B5C6B;
 
+    color: #2b5c6b;
 }
 
 .copyright {
@@ -227,7 +248,7 @@ footer .column > a:hover {
     padding: 2rem 2rem;
 }
 
-.slobeh{
+.slobeh {
     justify-content: center;
     text-align: center;
 }

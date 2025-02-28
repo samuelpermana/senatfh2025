@@ -15,37 +15,7 @@ nextBtn.addEventListener('click', () => {
   showSlide(index);
 });
 
-prevBtn.addEventListener('click', () => {
-  index--;
-  showSlide(index);
+prev.addEventListener("click", function () {
+    let items = document.querySelectorAll(".item");
+    document.querySelector(".slide").prepend(items[items.length - 1]); // here the length of items = 6
 });
-
-showSlide(index);
-
-var swiper = new Swiper('.swiper-container', {
-    loop: true,
-    navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-    },
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
-});
- 
-var swiper = new Swiper('.swiper-container', {
-    slidesPerView: 1,
-    spaceBetween: 30,
-    navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-    },
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
-});
-
-
-
