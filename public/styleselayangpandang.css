@@ -553,8 +553,8 @@ footer .column > a:hover {
     display: flex;
     justify-content: center; /* Memposisikan secara horizontal di tengah */
     align-items: center; /* Memposisikan secara vertikal di tengah */
-    height: 300px; /* Contoh ketinggian, sesuaikan sesuai kebutuhan Anda */
-    margin-top: 100px;
+    height: 50px; /* Contoh ketinggian, sesuaikan sesuai kebutuhan Anda */
+    margin-top: px;
 }
 
 .custom-container {

@@ -1416,10 +1416,13 @@ h4 {
     height: 40px;
     border-radius: 50%;
     font-family: monospace;
-    border: 1px solid #5555;
+    border: 1px solid #2B5C6B;
     font-size: large;
     bottom: 20%;
     left: 10%;
+    background-color: #2B5C6B;
+    color: white;
+    cursor: pointer;
 }
 #next{
     left: unset;
