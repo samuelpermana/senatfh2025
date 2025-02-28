@@ -242,7 +242,7 @@ background: linear-gradient(90deg, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 8
 .enter{
     color: #fff;
     font-size: 1rem;
-    text-align: center;
+    text-align: center; 
     
 }
 

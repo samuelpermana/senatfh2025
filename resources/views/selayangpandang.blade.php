@@ -160,7 +160,7 @@
     
   </section>
   
-  <section class="container">
+  <section class="container"> 
     <div class="image">
     </div>
     <div class="pricing1">

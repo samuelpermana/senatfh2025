@@ -115,7 +115,7 @@
               <div class="introduce">
                   <div class="title">BEM FH</div>
                   <div class="topic">Advo</div>
-                  <div class="des">
+                  <div class="des"> 
                       <!-- 20 lorem -->
                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, laborum cumque dignissimos quidem atque et eligendi aperiam voluptates beatae maxime.
                   </div>

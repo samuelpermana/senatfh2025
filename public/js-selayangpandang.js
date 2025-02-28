@@ -33,7 +33,7 @@ var swiper = new Swiper('.swiper-container', {
         clickable: true,
     },
 });
-
+ 
 var swiper = new Swiper('.swiper-container', {
     slidesPerView: 1,
     spaceBetween: 30,

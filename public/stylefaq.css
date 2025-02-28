@@ -118,7 +118,7 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
 .panel {
     color: #18181b;
     padding: 0 18px;
-    border-radius: 15px;
+    border-radius: 15px; 
     background-color:#7A9A9F;
     max-height: 0;
     overflow: hidden;

@@ -1424,7 +1424,7 @@ h4 {
     color: white;
     cursor: pointer;
 }
-#next{
+#next{ 
     left: unset;
     right: 10%;
 }

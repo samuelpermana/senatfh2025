@@ -32,7 +32,7 @@
           @enderror
           <a href="{{ route("password.request") }}">Forget Your Password?</a>
           <button type="submit">Sign In</button>
-          @if (session("status"))
+          @if (session("status")) 
             <span class="error">{{ session("status") }}</span>
           @endif
         </form>

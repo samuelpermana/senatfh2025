@@ -207,7 +207,7 @@
                 case 'dark':
                     backgroundColor = '#8e7e71';
                     borderColor = '#8e7e71';
-                    break;
+                    break; 
                 case 'light':
                     backgroundColor = '#96a659';
                     borderColor = '#96a659';
