@@ -6,7 +6,7 @@
     <div class="content">
       <span class="blur"></span>
       <span class="blur"></span>
-      <h1 style="color: #d4af37">LATAR BELAKANG</h1>
+      <h1 style="color:#2B5C6B">LATAR BELAKANG</h1>
 
       <p>
         Senat Mahasiswa Fakultas Hukum Universitas Diponegoro adalah salah satu lembaga atau organisasi kemahasiswaan tinggi di lingkup Fakultas Hukum
@@ -21,7 +21,7 @@
     </div>
   </header>
 
-  <section class="container">
+  <section class="container" id = "makna-logo">
     <div class="img3">
       <img src="img/coba23.png" alt="Logo Senat FH Undip" />
     </div>
@@ -100,20 +100,72 @@
       </div>
     </div>
   </section>
+  <section class="custom-container">
+    <div class="custom-slider-wrapper">
+      <div class="custom-slider">
+        <div class="custom-slides">
+          <div class="custom-slide">
+            <div class="custom-image">
+              <img src="img/kabinetridho.png" />
+            </div>
+            <h1 class="custom-header1">MAKNA LOGO</h1>
+            <p class="custom-sub1-header">
+              Gemilang Menurut KBBI berarti bercahaya atau kiasan dari keadaan baik sekali. SM FH Undip 2024 telah memberikan kinerja yang baik dan luar biasa untuk itu Gemilang disini berarti menghadirkan eksistensi SM FH Undip yang mampu
+              memaksimalkan sinar kebermanfaatan melalui pelaknsaaan fungsi- fungsi yang dimiliki. Sebagai Ormawa Publik di FH Undip kondisi ini akan melambangkan titik Optimal FH Undip dalam memberi makna dan manfaat untuk iklim Ormawa yang
+              ada di FH Undip.
+              <br>Pemrakarsa menurut KBBI berarti pelopor atau orang yang mempelopori. Saya memahami dengan baik bahwa SM FH Undip 2024 telah bersikap aktif dalam menjalankan Fungsi Legislasi. Fungsi Anggaran. Fungsi Pengawasan, dan Fungsi
+              Aspirasi yang memberi kebermanfaatan untuk Mahasiswa FH Undip. Harapan untuk meningkatkan kinerja SM FH Undip tidak hanya sebagai Ormawa Publik di FH Undip tapi juga mampu menjadi pelopor dan prakarsa yang mengawal kebaikan dan
+              kebermanfaatan utuk FH Undip dan Undip melalui eksistensinya.
+              </br>
+            </p>
+          </div>
+          <div class="custom-slide">
+            <div class="custom-image">
+              <img src="img/kepalantangan.png" />
+            </div>
+            <h1 class="custom-header1">KEPALAN TANGAN</h1>
+            <p class="custom-sub1-header">
+              Tangan mengepal menandakan bahwa SM FH Undip 2025 memiliki tekad yang kuat sebagai pelopor pemberi kebermanfaatan melalui pelaksanaan tugas, fungsi, dan wewenang yang dimiliki terhadap Mahasiswa FH Undip.
+            </p>
+          </div>
+          <div class="custom-slide">
+            <div class="custom-image">
+              <img src="img/arusombak.png" />
+            </div>
+            <h1 class="custom-header1">ARUS OMBAK</h1>
+            <p class="custom-sub1-header">
+              1 Arus Ombak yang menjadi awal mula dari lapisan ombak melambangkan 1 budaya yang ada dalam SM FH Undip 2025 yakni budaya inisiatif sebagai pendukung 4 nilai fundamental SM FH Undip 2025.
+            </p>
+          </div>
+          <div class="custom-slide">
+            <div class="custom-image">
+              <img src="img/lapisanombak.png" />
+            </div>
+            <h1 class="custom-header1">LAPISAN OMBAK</h1>
+            <p class="custom-sub1-header">
+              4 Lapisan Ombak mempresentasikan penerapan 4 nilai SM FH Undip 2025 yakni Nilai Akuntabel, Nilai Profesional, Nilai proaktif, dan Nilai Kolaboratif yang ditanamkan oleh seluruh fungsionaris dalam menjalankan tugas, fungsi, dan
+              wewenang.
+            </p>
+          </div>
+          <div class="custom-slide">
+            <div class="custom-image">
+              <img src="img/lingkaranemas.png" />
+            </div>
+            <h1 class="custom-header1">LINGKARAN EMAS</h1>
+            <p class="custom-sub1-header">
+              Lingkaran Emas melambangkan kualitas kinerja SM FH Undip yang gemilang dalam memberi keberdampakan yang baik pada mahasiswa secara terus menerus.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- Pindahkan tombol di luar slider -->
+      <button class="custom-prev" onclick="prevCustomSlide()">&#10094;</button>
+      <button class="custom-next" onclick="nextCustomSlide()">&#10095;</button>
+    </div>
+
+  </section>
+
   <section class="container">
-    <div class="image">
-      <img src="img/coba12.png" />
-    </div>
-    <h1 class="header1">MAKNA LOGO</h1>
-    <p class="sub1-header">
-      ARYA memiliki arti bahwa laki-laki. Namun, dalam referensi lainnya Arya Juga dapat memiliki arti sebagai beberapa hal, yakni: a. Dalam Hinduisme, Arya
-      memiliki arti sebagai “SANG BANGSAWAN” atau ”TUAN” mengacu pada sapaan (nāman) yang digunakan dalam drama (nāṭya) untuk merujuk kepada kasta Brahma atau
-      orang yang lebih terhormat/tua. b. Dalam Buddhisme, Arya yang berarti "MULIA" atau "DITINGGIKAN" sering digunakan dalam teks-teks Buddhis untuk menunjuk
-      seorang pejuang spiritual atau pahlawan. WIRARAJA memiliki arti bahwa yang maknanya “RAJA YANG GAGAH PERWIRA”.
-    </p>
-    <div class="image">
-      <img src="KudaSenat.png" />
-    </div>
     <div class="pricing1">
       <div class="card">
         <div class="warna"></div>
@@ -125,7 +177,7 @@
       <div class="card1">
         <div class="warna1"></div>
         <div class="content">
-          <h4>MERAH MARUN</h4>
+          <h4>BIRU</h4>
           <h5>Melambangkan arti Humanisme yang digaungkan oleh SM FH Undip Tahun 2024</h5>
         </div>
       </div>
@@ -138,167 +190,76 @@
       </div>
     </div>
   </section>
-  <section class="container">
-    <h1 class="header">Struktur Kepengurusan</h1>
-    <h2 class="header">Senat Mahasiswa Fakultas Hukum 2024</h2>
-    <div class="ketua">
-      <div class="card-coba">
-            <div class="imgbox">
-              <img class="img-coba"
-                src="/img/zamroni-kuning.png"
-              />
-            </div>
-      
-            <div class="content1">
-              <h2>Zamroni Akhmad Affandi</h2>
-                <p class ="deskripsi">
-                  Ketua Senat Mahasiswa FH</br>FH UNDIP 2021
-                </p>
-            </div>
-      </div>
-    </div>
-    <div class="wakil">
-      <div class="wakil-wrap">
-        <div class="card-coba">
-            <div class="imgbox">
-              <img class="img-coba"
-                src="/img/rafif-kuning.png"
-              />
-            </div>
-      
-            <div class="content1">
-              <h2>Rafif Majid Hidayatullah</h2>
-                <p class ="deskripsi">
-                  Wakil I Bidang Pengawasan dan Anggaran</br>FH UNDIP 2021
-                </p>
-            </div>
-        </div>
-        <div class="card-coba">
-            <div class="imgbox">
-              <img class="img-coba"
-                src="/img/abigael-kuning.png"
-              />
-            </div>
-      
-            <div class="content1">
-              <h2>Abigael Farel Harahap</h2>
-                <p class ="deskripsi">
-                  Wakil II Bidang Aspirasi dan Legislasi</br>FH UNDIP 2021
-                </p>
-            </div>
-        </div>
-        <div class="card-coba">
-            <div class="imgbox">
-              <img class="img-coba"
-                src="/img/candra-kuning.png"
-              />
-            </div>
-      
-            <div class="content1">
-              <h2>Candra Adrianando Satrio Priambodo</h2>
-                <p class ="deskripsi">
-                  Sekretaris Jenderal</br>FH UNDIP 2021
-                </p>
-            </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <section class="container">
-    <h1 class="header">Fungsionaris Senat Mahasiswa Fakultas Hukum </h1>
+    <h1 class="header">Fungsionaris Senat Mahasiswa Fakultas Hukum</h1>
     <h1 class="j-header">KOMISI & BADAN</h1>
-    <div class="container1">
-      <div class="slide">
-        <div class="item"  style="background-image: url(/img/bksapslyng.jpg);">
-          <div class="content">
-            <div class="name">BKSAP</div>
-            <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro humas, Biro infografis, Biro Videografis</div>
-            <a href="{{ url("/tentang-bksap") }}">
-              <button>Selengkapnya</button>
-            </a>
-          </div>
-        </div>
-        <div class="item"  style="background-image: url(/img/komisi1fix.jpg);">
-          <div class="content">
+    <div class="slider-container">
+      <div class="slider">
+        <div class="slide-item" style="background-image: url(/img/komisi1fix.jpg);">
+          <div class="content9">
             <div class="name">KOMISI I</div>
             <div class="des">Komisi I adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
-            <a href="{{ url("/tentang-komisi-i") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <a href="{{ url("/tentang-komisi-i") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(/img/komisi2slyng.jpg);">
-          <div class="content">
+        <div class="slide-item" style="background-image: url(/img/komisi2slyng.jpg);">
+          <div class="content9">
             <div class="name">KOMISI II</div>
-            <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Keroharian</div>
-            <a href="{{ url("/tentang-komisi-ii") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
+            <a href="{{ url("/tentang-komisi-ii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(/img/komisi3slyng.jpg);">
-          <div class="content">
+        <div class="slide-item" style="background-image: url(/img/komisi3slyng.jpg);">
+          <div class="content9">
             <div class="name">KOMISI III</div>
-            <div class="des">Komisi III adalah komisi yang menangui terkait Bidang Hukum dan Hubungan Publik</div>
-            <a href="{{ url("/tentang-komisi-iii") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <div class="des">Komisi III adalah komisi yang menangani terkait Bidang Hukum dan Hubungan Publik</div>
+            <a href="{{ url("/tentang-komisi-iii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(/img/komisi4slyng.jpg);">
-          <div class="content">
+        <div class="slide-item" style="background-image: url(/img/komisi4slyng.jpg);">
+          <div class="content9">
             <div class="name">KOMISI IV</div>
             <div class="des">Komisi IV adalah komisi yang menaungi terkait bidang Advokasi, Akademik, Sarana, dan Prasarana</div>
-            <a href="{{ url("/tentang-komisi-iv") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <a href="{{ url("/tentang-komisi-iv") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(/img/baleg.jpg);">
-          <div class="content">
+        <div class="slide-item" style="background-image: url(/img/baleg.jpg);">
+          <div class="content9">
             <div class="name">BADAN LEGISLASI</div>
-            <div class="des">
-              Badan Legislasi merupakan alat kelengkapan yang menghasilkan produk hukum SM FH Undip dan bertanggung jawab atas proses pembentukan peraturan.
-            </div>
-            <a href="{{ url("/tentang-badan-legislasi") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <div class="des">Badan Legislasi bertanggung jawab atas proses pembentukan peraturan SM FH Undip.</div>
+            <a href="{{ url("/tentang-badan-legislasi") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(/img/badankehormatanorang.jpg);">
-          <div class="content">
+        <div class="slide-item" style="background-image: url(/img/badankehormatanorang.jpg);">
+          <div class="content9">
             <div class="name">BADAN KEHORMATAN</div>
-            <div class="des">
-              Badan Kehormatan bertujuan untuk menjaga serta menegakkan kehormatan dan keluhuran martabat SM FH Undip sebagai lembaga perwakilan mahasiswa
-            </div>
-            <a href="{{ url("/tentang-badan-kehormatan") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <div class="des">Menjaga serta menegakkan kehormatan dan keluhuran martabat SM FH Undip.</div>
+            <a href="{{ url("/tentang-badan-kehormatan") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(/img/badananggaranfix.jpg);">
-          <div class="content">
+        <div class="slide-item" style="background-image: url(/img/badananggaranfix.jpg);">
+          <div class="content9">
             <div class="name">BADAN ANGGARAN</div>
-            <div class="des">
-              Badan Anggaran bertujuan dan bertanggung jawab atas pelaksanaan fungsi anggaran yang dimiliki oleh SM FH Undip
-            </div>
-            <a href="{{ url("/tentang-badan-anggaran") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <div class="des">Bertanggung jawab atas pelaksanaan fungsi anggaran SM FH Undip.</div>
+            <a href="{{ url("/tentang-badan-anggaran") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(/img/burt.jpg);">
-          <div class="content">
+        <div class="slide-item" style="background-image: url(/img/burt.jpg);">
+          <div class="content9">
             <div class="name">BURT</div>
-            <div class="des">Badan Urusan Rumah Tangga bertujuan untuk membantu kesekertariatan dan kebendaharaan Sekertaris Jendral</div>
-            <a href="{{ url("/tentang-burt") }}">
-              <button>Selengkapnya</button>
-            </a>
+            <div class="des">Membantu kesekretariatan dan kebendaharaan Sekretaris Jenderal.</div>
+            <a href="{{ url("/tentang-burt") }}"><button>Selengkapnya</button></a>
+          </div>
+        </div>
+        <div class="slide-item" style="background-image: url(/img/bksapslyng.jpg);">
+          <div class="content9">
+            <div class="name">BKSAP</div>
+            <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro humas, Biro infografis, Biro Videografis</div>
+            <a href="{{ url("/tentang-bksap") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
       </div>
-
       <div class="button1">
         <button class="prev"><i class="fa-solid fa-arrow-left"></i></button>
         <button class="next"><i class="fa-solid fa-arrow-right"></i></button>
@@ -307,4 +268,29 @@
   </section>
 
   <script src="js-selayangpandang.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const slidesContainer = document.querySelector(".custom-slides");
+      const slides = document.querySelectorAll(".custom-slide");
+      const totalSlides = slides.length;
+      let customIndex = 0;
+
+      function showCustomSlide(index) {
+        if (!slidesContainer || totalSlides === 0) return;
+        customIndex = (index + totalSlides) % totalSlides; // Loop saat mencapai batas
+        slidesContainer.style.transform = `translateX(-${customIndex * 100}%)`;
+      }
+
+      document.querySelector(".custom-next").addEventListener("click", function() {
+        showCustomSlide(customIndex + 1);
+      });
+
+      document.querySelector(".custom-prev").addEventListener("click", function() {
+        showCustomSlide(customIndex - 1);
+      });
+
+      slidesContainer.style.transition = "transform 0.5s ease-in-out";
+      showCustomSlide(customIndex);
+    });
+  </script>
 @endsection

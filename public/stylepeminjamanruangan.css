@@ -61,7 +61,8 @@ nav {
     padding: 1rem 1.5rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #800000;
+    background-color:#2B5C6B;
+
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -71,7 +72,8 @@ nav {
     padding: 1rem 1.5rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #800000;
+    background-color:#2B5C6B;
+
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -84,7 +86,8 @@ nav {
     padding: 1rem 1.5rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #800000;
+    background-color:#2B5C6B;
+
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -116,12 +119,12 @@ nav {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px #cfb53b;
+    box-shadow: 0 0 1000px 50px      #2B5C6B;
     z-index: -100;
 }
 
 section .header {
-    color: #cfb53b;
+    color:#2B5C6B;
     margin-bottom: 4rem;
     font-size: 3rem;
     font-weight: 700;
@@ -145,8 +148,8 @@ main.table {
     width: 100%;
 
     height: 70vh;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
 
     backdrop-filter: blur(7px);
     box-shadow: 0 0.4rem 0.8rem #0005;
@@ -163,8 +166,8 @@ main.table {
 .table__header {
     width: 100%;
     height: 10%;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     padding: 0.8rem 1rem;
 
     display: flex;
@@ -492,15 +495,18 @@ thead th span.icon-arrow {
 }
 
 thead th:hover span.icon-arrow {
-    border: 1.4px solid #cfb53b;
+    border: 1.4px solid      #2B5C6B;
+
 }
 
 thead th:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 thead th.active span.icon-arrow {
-    background-color: #cfb53b;
+    background-color:      #2B5C6B;
+
     color: #fff;
 }
 
@@ -510,7 +516,8 @@ thead th.asc span.icon-arrow {
 
 thead th.active,
 tbody td.active {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 .export__file {
@@ -623,8 +630,10 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #fff;
-    background-color: #cfb53b;
-    border-color: #cfb53b;
+    background-color:      #2B5C6B;
+
+    border-color:      #2B5C6B;
+
 }
 
 footer .column h4 {
@@ -642,7 +651,8 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 .copyright {
@@ -692,8 +702,8 @@ footer .column > a:hover {
 main.table4 {
     width: 60vw;
     height: 7vh;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
 
     color: #fff;
     backdrop-filter: blur(7px);
@@ -715,8 +725,8 @@ main.table4 {
     margin-left: auto;
     margin-right: auto;
     font-family: "Poppins", sans-serif;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
 }
 
 

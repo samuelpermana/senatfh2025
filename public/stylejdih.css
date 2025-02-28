@@ -46,7 +46,8 @@ nav {
     display: inline-flex;
     margin-left: 10px;
     font-size: 1.2rem;
-    color: #cfb53b;
+    color:      #2B5C6B;
+
     font-weight: 600;
     align-items: center; /* Mengatur vertikal ke tengah */
 }
@@ -71,7 +72,8 @@ nav {
     bottom: 0;
     left: 50%; /* Menengahkan garis bawah */
     transform: translateX(-50%); /* Menyempurnakan penempatan garis bawah */
-    background-color: #cfb53b;
+    background-color:      #2B5C6B;
+
     transition: all 0.3s ease;
 }
 
@@ -83,7 +85,8 @@ nav {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #800000;
+    background-color:      #2B5C6B;
+    
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -101,12 +104,13 @@ nav {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px #cfb53b;
+    box-shadow: 0 0 1000px 50px      #2B5C6B;
     z-index: -100;
 }
 
 section .header-JD {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
     margin-bottom: 3rem;
     font-size: calc(3vw + 2rem);
     font-weight: 700;
@@ -116,7 +120,7 @@ section .header-JD {
 }
 
 section .headerJD {
-    color: #cfb53b;
+    color:      #2B5C6B;
     margin-bottom: 3rem;
     font-size: calc(3rem + 5px);
     font-weight: 700;
@@ -152,8 +156,8 @@ section .headerJD {
     display: flex;
     flex-direction: row;
     width: 100%; /* Menggunakan lebar 100% agar mengisi seluruh kolom */
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     padding: 0.3rem;
     border: 1px solid transparent;
     border-radius: 10px;
@@ -206,7 +210,9 @@ section .headerJD {
     transition: all 0.3s ease;
 }
 .features-JD .card-JD h4:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+    
+
 }
 
 .features-JD .card-JD p,
@@ -229,11 +235,13 @@ section .headerJD {
     justify-content: center;
     margin-top: 0;
     transition: all 0.3s ease;
+    
 }
 
 .features-JD .card-JD a:hover,
 .features1 .card-JD a:hover {
-    color: #cfb53b;
+    opacity: 80%;
+
 }
 
 footer {
@@ -270,8 +278,10 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #18181b;
-    background-color: #cfb53b;
-    border-color: #cfb53b;
+    background-color:      #2B5C6B;
+
+    border-color:      #2B5C6B;
+
 }
 
 footer .column h4 {
@@ -289,7 +299,8 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 .copyright {

@@ -54,7 +54,7 @@
                         </td>
 
                         <td>
-                        <a href="{{ route(auth()->user()->role->role_slug . '.agenda.edit', $agenda->id) }}" class="btn btn-primary">Edit</a>
+                        <a href="{{ route(auth()->user()->role->role_slug . '.agenda.edit', $agenda->id) }}" class="btn btn-primary">Edit </a>
                         <form action="{{ route(auth()->user()->role->role_slug . '.agenda.destroy', $agenda->id) }}" method="POST" style="display: inline-block;">
                             @csrf
                             @method('DELETE')

@@ -34,7 +34,7 @@
               <li>
                 <a href="{{ url("/admin/aktivitas") }}">
                   <span class="icon"><i class="fas fa-user"></i></span>
-                  <span class="text">Berita</span>
+                  <span class="text">Aktivitas Senat</span>
                 </a>
               </li>
               <li>
@@ -87,7 +87,7 @@
             <div class="hamburger">
               <i class="fas fa-bars"></i>
             </div>
-            <div class="logo">Senat FH <span>UNDIP</span></div>
+            
             <!-- Tombol Logout -->
             <div class="logout">
               <a href="{{ route("logout") }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">

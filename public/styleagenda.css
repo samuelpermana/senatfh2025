@@ -102,7 +102,8 @@ nav {
     display: inline-flex;
     margin-left: 10px;
     font-size: 1.2rem;
-    color: #cfb53b;
+    color:      #2B5C6B;
+
     font-weight: 600;
     align-items: center; /* Mengatur vertikal ke tengah */
 }
@@ -129,7 +130,8 @@ nav {
     bottom: 0;
     left: 50%; /* Menengahkan garis bawah */
     transform: translateX(-50%); /* Menyempurnakan penempatan garis bawah */
-    background-color: #cfb53b;
+    background-color:      #2B5C6B;
+
     transition: all 0.3s ease;
 }
 
@@ -141,7 +143,8 @@ nav {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #800000;
+    background-color:      #2B5C6B;
+
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -151,7 +154,8 @@ nav {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #800000;
+    background-color:      #2B5C6B;
+
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -166,7 +170,8 @@ nav {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px #cfb53b;
+    box-shadow: 0 0 1000px 50px      #2B5C6B;
+
     z-index: -100;
 }
 
@@ -185,8 +190,8 @@ main.table {
     width: 100%;
 
     height: 70vh;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
 
     backdrop-filter: blur(7px);
     box-shadow: 0 0.4rem 0.8rem #0005;
@@ -202,8 +207,8 @@ main.table {
 .table__header {
     width: 100%;
     height: 10%;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     padding: 0.8rem 1rem;
 
     display: flex;
@@ -302,6 +307,7 @@ td {
     border-collapse: collapse;
     padding: 1rem;
     text-align: left;
+    background-color: #f5f5dc;
 }
 
 thead th {
@@ -312,8 +318,8 @@ thead th {
     cursor: pointer;
     text-transform: capitalize;
     text-align: center;
-
     z-index: 100;
+    
 }
 
 tbody tr:nth-child(even) {
@@ -515,15 +521,18 @@ thead th span.icon-arrow {
 }
 
 thead th:hover span.icon-arrow {
-    border: 1.4px solid #cfb53b;
+    border: 1.4px solid      #2B5C6B;
+
 }
 
 thead th:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 thead th.active span.icon-arrow {
-    background-color: #cfb53b;
+    background-color:      #2B5C6B;
+
     color: #fff;
 }
 
@@ -646,12 +655,15 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #18181b;
-    background-color: #18181b;
-    border-color: #18181b;
+    background-color:      #2B5C6B;
+
+    border-color:      #2B5C6B;
+
 }
 
 footer .column h4 {
-    color: #18181b;
+    color:      #18181b;
+
     margin-bottom: 2rem;
     font-size: 1.2rem;
     font-weight: 500;
@@ -659,13 +671,15 @@ footer .column h4 {
 
 footer .column > a {
     display: block;
-    color: #18181b;
+    color:      #18181b;
+
     margin-bottom: 1rem;
     transition: all 0.3s ease;
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 .copyright {
@@ -681,14 +695,14 @@ footer .column > a:hover {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #cbb989;
+    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-top: 2rem;
 }
 
 .header {
-    color: #18181b;
+    color:      #2B5C6B;
     text-align: center;
     font-size: 40px;
     margin-bottom: 2rem;
@@ -734,15 +748,32 @@ label {
 
 .btn-primary {
     display: block;
-    width: 50%;
-    padding: 10px;
-    background-color: #18181b;
+    width: 100%;
+    padding: 1rem 2rem;
+    background-color:      #2B5C6B;
     border: none;
     border-radius: 5px;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
     margin: 0 auto;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.btn-primary2 {
+    display: block;
+    width: 50%;
+    padding: 1rem 2rem;
+    background-color:      #2B5C6B;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 0 auto;
+    margin-top: -10px;
+    margin-bottom: 10px;
 }
 
 .btn-primary1 {

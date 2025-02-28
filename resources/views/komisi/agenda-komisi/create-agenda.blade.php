@@ -35,7 +35,7 @@
             <label for="tanggal_pelaksanaan">Tanggal Pelaksanaan:</label>
             <input type="date" name="tanggal_pelaksanaan" class="form-control input-form" id="tanggal_pelaksanaan">
         </div>
-        <button type="submit" class="btn btn-primary">Buat Agenda Kerja</button>
+        <button type="submit" class="btn btn-primary2">Buat Agenda Kerja</button>
     </form>
 </section>
 

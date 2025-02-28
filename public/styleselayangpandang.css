@@ -67,7 +67,7 @@ nav {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px #cfb53b;
+    box-shadow: 0 0 1000px 50px      #2B5C6B;
     z-index: -100;
 }
 
@@ -132,7 +132,7 @@ header .image img {
 }
 
 section .header {
-    color: #cfb53b;
+    color:      #2B5C6B;
     margin-bottom: 4rem;
     font-size: 2.5rem;
     font-weight: 700;
@@ -172,8 +172,8 @@ section .header {
 .features .card {
     display: flex;
     flex: 1;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(50,95,111);
+background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
     padding: 1rem;
     border: 2px solid transparent;
     border-radius: 15px;
@@ -193,8 +193,7 @@ section .header {
     width: inherit;
     display: flex;
     flex: 1;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
     padding: 1rem;
     border: 2px solid transparent;
     border-radius: 15px;
@@ -213,12 +212,7 @@ section .header {
 .features1 .card span {
     display: flex;
     background: rgb(2, 0, 36);
-    background: linear-gradient(
-        135deg,
-        rgba(2, 0, 36, 1) 0%,
-        rgba(255, 255, 255, 1) 0%,
-        rgba(49, 100, 119, 1) 70%
-    );
+    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
     padding: 2px;
     margin: 10px 26px 10px 10px;
     font-size: 120px;
@@ -228,6 +222,9 @@ section .header {
     align-items: center;
     min-width: 150px;
     height: 150px;
+    border: 3px solid #000000;    
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.4);
+
 }
 
 .features .card h4,
@@ -235,8 +232,9 @@ section .header {
     margin-bottom: 0.5rem;
     color: #18181b;
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: bold;
     font-family: "Poppins", sans-serif;
+
 }
 
 .features .card p,
@@ -246,6 +244,7 @@ section .header {
     font-size: 0.9rem;
     text-align: justify;
     font-family: "Poppins", sans-serif;
+    font-weight: bold;
 }
 
 .features1 .card p {
@@ -384,8 +383,10 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #fff;
-    background-color: #cfb53b;
-    border-color: #cfb53b;
+    background-color:      #2B5C6B;
+
+    border-color:      #2B5C6B;
+
 }
 
 footer .column h4 {
@@ -403,7 +404,8 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color:      #2B5C6B;
+
 }
 
 .copyright {
@@ -555,38 +557,110 @@ footer .column > a:hover {
     margin-top: 100px;
 }
 
-.image img {
-    max-width: 50%; /* Lebar gambar */
-    height: auto; /* Mengatur ketinggian gambar sesuai proporsi aslinya */
-    float: left; /* Menggeser gambar ke sisi kiri */
-    margin-right: auto;
+.custom-container {
+    position: relative;
+    width: 70%;
+    overflow: hidden;
+    max-width: 2200px;
+    margin: auto;
+    padding: 5rem 2rem;
 }
 
-section .header1 {
-    color: #cfb53b;
-    margin-bottom: 1rem;
+.custom-slider-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.custom-slider {
+    display: flex;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    width: 100%;
+}
+
+.custom-slides {
+    display: flex;
+    width: 100%;
+}
+
+.custom-slide {
+    min-width: 100%;
+    flex: 0 0 100%;
+    text-align: center;
+    padding: 40px 20px;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.custom-slide h1 {
+    color: #2B5C6B;
+    margin-bottom: 3rem;
     font-size: 3rem;
     font-weight: 700;
-    line-height: 4rem;
-    float: right;
+    line-height: 1rem;
+    text-align: right;
+    margin-left: -100px;
 }
 
-.sub1-header {
-    margin-bottom: -3rem;
+
+.custom-slide p {
+    padding: 20px 40px; /* Tambahkan ruang di dalam paragraf */
     color: #18181b;
     text-align: justify;
     font-family: "Poppins", sans-serif;
     font-size: 16px;
-    float: right;
-    margin-bottom: 6rem;
+    line-height: 1.8; /* Memberikan jarak antar baris agar lebih nyaman dibaca */
+    border-radius: 50px; /* Membuat sudut lebih halus */
+    background-color: transparent; /* Warna latar belakang lembut untuk kontras */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05); /* Tambahkan efek bayangan ringan */
+    margin-top: 50px;
+    border: 3px solid #CFB53B;
+    justify-content: center;
 }
+
+
+.custom-image img {
+    max-width: 65%; /* Lebar gambar */
+    height: auto; /* Mengatur ketinggian gambar sesuai proporsi aslinya */
+    float: middle; /* Menggeser gambar ke sisi kiri */
+    margin-right: auto;
+
+}
+
+.custom-image img:hover {
+    transform: scale(1.05);
+}
+
+/* Tombol Navigasi */
+.custom-prev, .custom-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent; /* Menghilangkan background */
+    color: #2B5C6B;
+    border: none; /* Menghapus border */
+    padding: 12px 15px;
+    cursor: pointer;
+    font-size: 32px; /* Perbesar panah agar lebih terlihat */
+    transition: 0.3s ease;
+}
+
+/* Efek saat hover */
+.custom-prev:hover, .custom-next:hover {
+    color: #1A3A48; /* Warna sedikit lebih gelap saat hover */
+}
+
+/* Jarak lebih jauh ke samping */
+.custom-prev { left: 15px; }
+.custom-next { right: 15px; }
+
 
 .pricing1 .card1 {
     width: 100%;
     padding: 3rem 2rem;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
-    display: flex;
+    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
     flex-direction: column;
     border: 2px solid transparent;
     border-radius: 15px;
@@ -644,7 +718,7 @@ section .header1 {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #5c0a0a;
+    background-color: #115aff;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -652,8 +726,7 @@ section .header1 {
 
 .pricing1 .card2 {
   padding: 3rem 2rem;
-  background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+  background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
   display: flex;
   flex-direction: column;
   border: 2px solid transparent;
@@ -742,7 +815,7 @@ section .header1 {
 }
 
 section .header3 {
-    color: #cfb53b;
+    color:#2B5C6B;
     margin-bottom: 1rem;
     font-size: 3rem;
     font-weight: 700;
@@ -760,8 +833,7 @@ section .header3 {
 
 .pricing1 .card {
     padding: 3rem 2rem;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
     display: flex;
     flex-direction: column;
     border: 2px solid transparent;
@@ -883,7 +955,7 @@ section .header3 {
 }
 
 .j-header {
-    color: #cfb53b;
+    color:      #2B5C6B;
     margin-top: -2rem;
     font-size: 2.5rem;
     font-weight: 700;
@@ -895,60 +967,31 @@ section .header3 {
     position: relative;
 }
 
-.container1 {
+.slider-container {
     position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     width: 100%;
+    overflow: hidden;
+    margin-top: 2rem;
+  }
+  
+  .slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .slide-item {
+    min-width: 100%;
     height: 600px;
-    background: #18181b;
-    box-shadow: 0 30px 50px #ccc;
-    margin-top: 350px;
-    border-radius: 20px;
-}
-
-.container1 .slide .item {
-    width: 15%;
-    height: 300px;
-    position: absolute;
-    top: 50%;
-    transform: translate(0, -50%);
-    border-radius: 20px;
-    box-shadow: 0 30px 50px #505050;
-    background-position: 50% 50%;
     background-size: cover;
-    display: inline-block;
-    transition: 0.5s;
-}
-
-.slide .item:nth-child(1),
-.slide .item:nth-child(2) {
-    top: 0;
-    left: 0;
-    transform: translate(0, 0);
+    background-position: center;
     border-radius: 20px;
-    width: 100%;
-    height: 100%;
-}
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-.slide .item:nth-child(3) {
-    left: 50%;
-}
-.slide .item:nth-child(4) {
-    left: calc(50% + 220px);
-}
-.slide .item:nth-child(5) {
-    left: calc(50% + 440px);
-}
-
-/* here n = 0, 1, 2, 3,... */
-.slide .item:nth-child(n + 6) {
-    left: calc(30% + 660px);
-    opacity: 0;
-}
-
-.item .content {
+.content9 {
     position: absolute;
     top: 50%;
     left: 100px;
@@ -957,14 +1000,10 @@ section .header3 {
     color: #eee;
     transform: translate(0, -50%);
     font-family: system-ui;
-    display: none;
+    
+    
 }
-
-.slide .item:nth-child(2) .content {
-    display: block;
-}
-
-.content .name {
+.content9 .name {
     font-size: 40px;
     text-transform: uppercase;
     font-weight: bold;
@@ -973,9 +1012,10 @@ section .header3 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5),
         /* Bayangan utama */ 2px 2px 6px rgba(0, 0, 0, 0.5),
         /* Bayangan yang sedikit lebih tebal */ 2px 2px 8px rgba(0, 0, 0, 0.5);
+    
 }
 
-.content .des {
+.content9 .des {
     margin-top: 10px;
     margin-bottom: 20px;
     opacity: 0;
@@ -986,15 +1026,15 @@ section .header3 {
         /* Bayangan yang sedikit lebih tebal */ 2px 2px 8px rgba(0, 0, 0, 0.5);
     text-align: justify;
 }
-
-.content button {
+.content9 button {
     padding: 10px 20px;
     border: none;
     cursor: pointer;
     opacity: 0;
     animation: animate 1s ease-in-out 0.6s 1 forwards;
     border-radius: 10px;
-    background-color: #cfb53b;
+    background-color:#2B5C6B;
+    color: whitesmoke;
 }
 
 .button1 {
@@ -1107,6 +1147,8 @@ section .header3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+
 
 @keyframes animate {
     from {

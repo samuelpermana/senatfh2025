@@ -6,9 +6,9 @@
   <link href="{{ URL::asset("cms/aktivitasSenat/styleindex.css") }}" rel="stylesheet">
 
   <body>
-    <h1>Berita List</h1>
+    <h1>Aktivitas Senat List</h1>
 
-    <a class="btn btn-primary" href="{{ route("admin.aktivitasSenat.create") }}">Create Berita</a>
+    <a class="btn btn-primary" href="{{ route("admin.aktivitasSenat.create") }}">Create Aktivitas Senat</a>
 
     <table class="table item" border="1">
 
