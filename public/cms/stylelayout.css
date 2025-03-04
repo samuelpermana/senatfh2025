@@ -10,8 +10,7 @@
 }
 
 body {
-    background: rgb(197,197,197);
-background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 100%);
+    background: #E1EEFF;
 }
 
 .wrapper {
@@ -25,7 +24,6 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
     height: 700px;
     background: black;
     margin: 30px auto;
-    border-radius: 25px;
     display: flex;
     box-shadow: 0 1rem 2rem #0004;
 }
@@ -38,12 +36,11 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
 .vertical_bar {
     width: 300px;
     z-index: 9999;
-    background: #dedede;
+    background: #01215A;
     height: 100%;
     position: relative;
-    overflow-y: auto;  /* Menambahkan scroll vertical */
+    overflow-y: auto; /* Menambahkan scroll vertical */
     max-height: 100vh;
-
 }
 
 .vertical_bar .profile_info {
@@ -77,8 +74,6 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
     text-transform: uppercase;
     color: black;
     letter-spacing: 2px;
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
     margin-bottom: 1px;
     font-size: 15px;
 }
@@ -109,7 +104,6 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
     color: black;
     border: 1px solid black;
     display: inline-block;
-    border-radius: 50%;
     text-align: center;
     line-height: 50px;
     margin: 0 10px;
@@ -127,7 +121,7 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
 
 .main_container .top_bar {
     height: 60px;
-    background: #7d7d7d;
+    background: #01215A;
     padding: 15px 25px;
     display: flex;
     align-items: center;
@@ -180,14 +174,13 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
     color: black; /* Warna teks */
     text-decoration: none; /* Hapus garis bawah */
     padding: 5px 10px; /* Padding tombol */
-    border-radius: 5px; /* Sudut bulat */
-    background-color: #c99c33; /* Warna latar belakang */
+    background-color: #E1EEFF; /* Warna latar belakang */
     transition: background-color 0.3s ease; /* Transisi untuk efek hover */
     
 }
 
 .logout a:hover {
-    background-color: #f59c33; /* Warna latar belakang saat hover */
+    opacity: 60%; /* Warna latar belakang saat hover */
 }
 
 .logout {
@@ -219,7 +212,6 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
         position: absolute;
         top: 0;
         left: 0;
-        border-radius: 25px;
         width: 100%;
         height: 100%;
         background: rgba(0, 0, 0, 0.5);
@@ -229,9 +221,8 @@ background: linear-gradient(90deg, rgba(197,197,197,1) 0%, rgba(119,119,119,1) 1
 
         overflow: auto;
     }
-    .main_container .top_bar {
-        border-top-left-radius: 25px;
-    }
+    /* .main_container .top_bar {
+    } */
     .wrapper.active .vertical_wrap {
         visibility: visible;
     }

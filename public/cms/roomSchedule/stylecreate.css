@@ -17,9 +17,8 @@ button {
 }
 
 .btn {
-    background-color: #d1e3e2;
+    background-color: #E1EEFF;
     padding: 4px 12px;
-    border-radius: 25px;
     margin: 20px 25px 20px 5px;
     cursor: pointer;
     border: solid 1px;
