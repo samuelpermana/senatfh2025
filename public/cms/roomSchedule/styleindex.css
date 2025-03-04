@@ -1,6 +1,6 @@
 .main_container .container .item {
     width: 100%;
-    background: #e3f2f1;
+    background: #E1EEFF;
     padding: 30px;
     margin-bottom: 25px;
 }
@@ -46,9 +46,8 @@
 }
 
 .btn {
-    background-color: #d1e3e2;
+    background-color: #E1EEFF;
     padding: 4px 8px;
-    border-radius: 25px;
     margin: 20px 0 20px 0;
     cursor: pointer;
     border: solid 1px;
