@@ -116,7 +116,7 @@ body {
 
 .main_container {
     width: calc(100% - 250px);
-    background-color: #7d7d7d;
+    background-color: #fff;
 }
 
 .main_container .top_bar {
