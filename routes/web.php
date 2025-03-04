@@ -27,6 +27,7 @@ use App\Http\Controllers\MailController;
 use App\Http\Controllers\PersetujuanProposal\KomisiController;
 use App\Http\Controllers\PersetujuanProposal\BadanAnggaranController;
 use App\Http\Controllers\PersetujuanProposal\SekjenController;
+use App\Http\Controllers\Admin\BeritaController;
 
 use App\Models\AktivitasSenat;
 use App\Models\JDIH;
@@ -96,6 +97,9 @@ Route::get('/jdih/jenis/{id}', [JDIHController::class, 'jenis'])->name('jdih.jen
 Route::get('jdih/show/{id}', [JDIHController::class, 'showJDIH'])->name('jdih.show');
 Route::get('events/list', [EventAdminController::class, 'listEvent'])->name('legislasi.list');
 
+Route::get('/beritapublic/{berita}', [BeritaController::class, 'showPublic'])->name('berita.showPublic');
+Route::get('/beritamore', [BeritaController::class, 'indexPublic'])->name('berita.morePublic');
+
 // ======================== END WEBSITE ==================================
 
 // ======================== CMS ==================================
@@ -146,6 +150,15 @@ Route::group([
     Route::get('/faq/{faq}/edit', [FaqController::class, 'edit'])->name('faq.edit');
     Route::put('/faq/{faq}', [FaqController::class, 'update'])->name('faq.update');
     Route::delete('/faq/{faq}', [FaqController::class, 'destroy'])->name('faq.destroy');
+
+    Route::get('/berita', [BeritaController::class, 'index'])->name('berita.index');
+    Route::get('/berita/create', [BeritaController::class, 'create'])->name('berita.create');
+    Route::post('/beritastore', [BeritaController::class, 'store'])->name('berita.store');
+    Route::get('/beritashow/{berita}', [BeritaController::class, 'show'])->name('berita.show');
+    Route::get('/beritaedit/{berita}/edit', [BeritaController::class, 'edit'])->name('berita.edit');
+    Route::put('/berita/{berita}', [BeritaController::class, 'update'])->name('berita.update');
+    Route::delete('/beritadelete/{berita}', [BeritaController::class, 'destroy'])->name('berita.destroy');
+
 });
 
 // ======================== END CMS ==================================
@@ -374,3 +387,6 @@ Route::group([
 
 // ======================== MAILING SYSTEM ==================================
 Route::get('/mailtest', [MailController::class, 'index']);
+
+// Public route for showing a single berita
+

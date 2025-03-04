@@ -14,6 +14,7 @@
       <a href="{{ url("/admin/events") }}"><button class="btn item">Events</button></a>
       <a href="{{ url("/admin/persetujuan-proposal") }}"><button class="btn item">Persetujuan Proposal</button></a>
       <a href="{{ url("/admin/faq") }}"><button class="btn item">FAQ</button></a>
+      <a href="{{ url("/admin/berita") }}"><button class="btn item">Buat Berita</button></a>
     </div>
   </body>
 @endsection

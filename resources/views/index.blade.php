@@ -41,74 +41,24 @@
     </div>
   </div>
 
-  <section class="container9">
-    <div class="flex">
-        <!-- Main News Section -->
-        <div class="main-news">
-          <div class="slider">
-            <button class="nav-button left" onclick="prevSlide()"><i class="fas fa-chevron-left"></i></button>
-            <div class="slides">
-                <div class="slide active">
-                    <img src="img/bksapcaur.png" alt="Group of people at an event">
-                    <div class="info">
-                        <span class="tag">KETUA BKSAP</span>
-                        <h2>Ketua BKSAP: Semoga Meraki Community lebih maju dan semakin di depan</h2>
-                        <p>Dipost pada tanggal 24 Februari 2025</p>
-                    </div>
-                </div>
-                <div class="slide">
-                    <img src="img/bksapcaur.png" alt="Group of people at an event">
-                    <div class="info">
-                        <span class="tag">KETUA BKSAP</span>
-                        <h2>Ketua BKSAP: Semoga Jepara Bisa Gerakkan Ekonomi Nasional</h2>
-                        <p><i class="fas fa-calendar-alt"></i> 24 Februari 2025</p>
-                    </div>
-                </div>
-                <div class="slide">
-                    <img src="img/bksapcaur.png" alt="Person giving a speech">
-                    <div class="info">
-                        <span class="tag">KETUA BKSAP</span>
-                        <h2>Peluncuran Danantara Jepara Bangkitkan Ekonomi RI di Mata Dunia</h2>
-                        <p><i class="fas fa-calendar-alt"></i> 24 Februari 2025</p>
-                    </div>
-                </div>
-            </div>
-            <button class="nav-button right" onclick="nextSlide()"><i class="fas fa-chevron-right"></i></button>
+  <section class="latest-news">
+    <h2>Latest Berita</h2>
+    <div class="news-container">
+      @foreach(App\Models\Berita::latest()->take(3)->get() as $berita)
+        <div class="news-item">
+          <h3><a href="/beritapublic/{{ $berita->id }}">{{ $berita->title }}</a></h3>
+          <p>{{ Str::limit($berita->content, 100) }}</p>
+          <p><i class="fas fa-calendar-alt"></i> {{ $berita->created_at->format('d F Y') }}</p>
+          @if($berita->picture)
+              <img src="{{ asset('storage/' . $berita->picture) }}" alt="Picture" style="max-width: 100px;">
+          @endif
         </div>
-      </div>
-        
-        <!-- Popular News Section -->
-        <div class="popular-news">
-            <h2>HOT NEWS</h2>
-            
-            <div class="news-item">
-                <img src="img/bksapcaur.png" alt="Group of people at an event">
-                <div class="info">
-                    <h3>Ketua BKSAP: Semoga Jepara Bisa Gerakkan Ekonomi Nasional</h3>
-                    <p><i class="fas fa-calendar-alt"></i> 24 Februari 2025</p>
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <img src="img/bksapcaur.png" alt="Person giving a speech">
-                <div class="info">
-                    <h3>Peluncuran Danantara Jepara Bangkitkan Ekonomi RI di Mata Dunia</h3>
-                    <p><i class="fas fa-calendar-alt"></i> 24 Februari 2025</p>
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <img src="img/bksapcaur.png" alt="Person speaking at a meeting">
-                <div class="info">
-                    <h3>Tangkap Pelaku Tambang dan Penebangan Kayu Ilegal di Riau!</h3>
-                    <p><i class="fas fa-calendar-alt"></i> 24 Februari 2025</p>
-                </div>
-            </div>
-            
-          
-        </div>
+      @endforeach
     </div>
-</section>
+    <a href="{{ url('/beritamore') }}" class="btn">More Berita</a>
+  </section>
+
+
 
   <header class="container">
     <div class="content">
@@ -305,4 +255,6 @@ document.addEventListener('DOMContentLoaded', function() {
   </script>
   <script src="js-aktivitas-legislasi.js"></script>
   <script src="js-aktivitas-sm-fh.js"></script>
+
+
 @endsection
