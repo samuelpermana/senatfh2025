@@ -79,6 +79,12 @@
                   <span class="text">Faq</span>
                 </a>
               </li>
+              <li>
+                <a href="{{ url("/admin/berita") }}">
+                  <span class="icon"><i class="fas fa-question"></i></span>
+                  <span class="text">Buat Berita</span>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
