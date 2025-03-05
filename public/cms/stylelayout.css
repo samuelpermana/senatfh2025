@@ -61,7 +61,7 @@ body {
 
 .vertical_bar .profile_info .sub_title {
     font-size: 14px;
-    color: black;
+    color: white;
 }
 
 .vertical_bar .menu {
@@ -70,7 +70,7 @@ body {
 
 .vertical_bar .menu li a {
     display: block;
-    padding: 12px;
+    padding: 10px;
     text-transform: uppercase;
     color: white;
     letter-spacing: 2px;

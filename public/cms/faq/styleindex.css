@@ -1,6 +1,6 @@
 .main_container .container .item {
     width: 100%;
-    background: #e3f2f1;
+    background: #e1eeff;
     padding: 20px;
     margin: 25px 0 25px 0;
 }
@@ -49,7 +49,7 @@
 
 .btn {
     color: black;
-    background-color: #E1EEFF;
+    background-color: #e1eeff;
     padding: 4px 12px;
     margin: 20px 30px 20px 0;
     cursor: pointer;
@@ -72,7 +72,7 @@ button a {
 }
 
 .list-title {
-    background-color: #E1EEFF;
+    background-color: #e1eeff;
     padding: 20px;
     display: block;
 }
@@ -86,7 +86,7 @@ button a {
     padding: 10px;
     width: 100%;
     max-width: 350px;
-    background-color: #E1EEFF;
+    background-color: #e1eeff;
     margin-bottom: 10px;
 }
 

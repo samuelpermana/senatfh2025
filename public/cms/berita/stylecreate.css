@@ -4,7 +4,7 @@ form {
 
 select,
 input {
-    padding: 2px 10px;
+    padding: 2px 0px;
     font-size: 1.1rem;
 }
 
@@ -23,6 +23,7 @@ button {
     cursor: pointer;
     border: solid 1px;
     transition: 0.15s ease;
+    color: black;
 }
 
 .btn:hover {

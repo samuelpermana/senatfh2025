@@ -1,9 +1,10 @@
 @extends("cms.layouts.layout")
+<link href="{{ URL::asset("cms/berita/styleindex.css") }}" rel="stylesheet">
 
 @section('content')
     <h1>All Berita</h1>
-    <a href="/admin/berita/create">Create New Berita</a>
-    <table border="1" cellpadding="10" cellspacing="0">
+    <a class="btn btn-primary mb-2" href="/admin/berita/create">Create New Berita</a>
+    <table class="item" border="1" cellpadding="10" cellspacing="0">
         <thead>
             <tr>
                 <th>Title</th>
