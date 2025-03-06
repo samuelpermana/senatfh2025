@@ -1,5 +1,7 @@
 @extends("cms.layouts.layout")
 
+<link href="{{ URL::asset("cms/aktivitasSenat/stylecreate.css") }}" rel="stylesheet">
+
 @section('content')
     <h1>Create Berita</h1>
     <form action="/admin/beritastore" method="POST" enctype="multipart/form-data">
