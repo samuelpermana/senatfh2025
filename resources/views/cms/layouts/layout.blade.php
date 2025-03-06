@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ URL::asset("cms/stylelayout.css") }}" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <script src="https://kit.fontawesome.com/ca9a1de4e7.js" crossorigin="anonymous"></script>
     <title>CMS Senat FH Undip</title>
     <link type="image/x-icon" href="{{ URL::asset("img/coba23.ico") }}" rel="icon">
     <link type="image/x-icon" href="{{ URL::asset("img/coba23.ico") }}" rel="shortcut icon">
@@ -85,6 +85,12 @@
                   <span class="text">Buat Berita</span>
                 </a>
               </li>
+              <li>
+                <a href="{{ url("/admin/berita") }}">
+                  <span class="icon"><i class="fa-solid fa-newspaper"></i></span>
+                  <span class="text">Buat Berita</span>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
@@ -93,7 +99,7 @@
             <div class="hamburger">
               <i class="fas fa-bars"></i>
             </div>
-            
+
             <!-- Tombol Logout -->
             <div class="logout">
               <a href="{{ route("logout") }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">

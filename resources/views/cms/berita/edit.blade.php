@@ -1,4 +1,5 @@
 @extends("cms.layouts.layout")
+<link href="{{ URL::asset("cms/berita/styleedit.css") }}" rel="stylesheet">
 
 @section('content')
     <h1>Edit Berita</h1>
@@ -6,21 +7,21 @@
         @csrf
         @method('PUT')
         <div>
-            <label for="title">Title</label>
+            <label for="title">Title</label><br>
             <input type="text" name="title" id="title" value="{{ $berita->title }}" required>
         </div>
         <div>
-            <label for="content">Content</label>
+            <label for="content">Content</label><br>
             <textarea name="content" id="content" required>{{ $berita->content }}</textarea>
         </div>
         <div>
-            <label for="picture">Picture</label>
-            <input type="file" name="picture" id="picture">
+            <label for="picture">Picture</label><br>
+            <input type="file" name="picture" id="picture"><br><br>
             @if($berita->picture)
                 <img src="{{ asset('storage/' . $berita->picture) }}" alt="Current Picture" style="max-width: 100px;">
             @endif
         </div>
-        <button type="submit">Update</button>
+        <br><button class="btn" type="submit">Update</button>
     </form>
-    <a href="/admin/berita">Back to All Berita</a>
+    <br><a class="btn" href="/admin/berita">Back to All Berita</a>
 @endsection 

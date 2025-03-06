@@ -63,7 +63,7 @@
         4,
         auto
     ); /* 4 rows, height adjusts based on content */
-    gap: 30px; /* Increased space between grid items */
+    gap: 20px 40px; /* Increased space between grid items */
     place-self: center; /* Center the grid in the container */
     padding: 20px; /* Add padding around the grid */
 }

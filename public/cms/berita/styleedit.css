@@ -1,0 +1,45 @@
+form {
+  font-size: 1.5rem;
+}
+
+select,
+input {
+  padding: 2px 0px;
+  font-size: 1.1rem;
+}
+
+label {
+  margin-right: 10px;
+}
+
+button {
+  font-size: 1.3rem;
+}
+
+.btn {
+  background-color: #E1EEFF;
+  padding: 4px 12px;
+  margin: 0 30px 20px 0;
+  cursor: pointer;
+  border: solid 1px;
+  transition: 0.15s ease;
+  color: black;
+}
+
+.btn:hover {
+  opacity: 85%;
+}
+
+.btn:active {
+  opacity: 70%;
+}
+
+#back-btn {
+  translate: 120px -59px;
+  display: inline-block;
+}
+
+.form-control {
+  padding: 5px;
+  font-size: 1.2rem;
+}

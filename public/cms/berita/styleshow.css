@@ -1,0 +1,23 @@
+.description {
+    padding: 7px 14px;
+    border: 1px solid;
+    display: inline;
+}
+
+.btn {
+    background-color: #e1eeff;
+    padding: 4px 12px;
+    margin: 0 30px 20px 0;
+    cursor: pointer;
+    border: solid 1px;
+    transition: 0.15s ease;
+    color: black;
+}
+
+.btn:hover {
+    opacity: 85%;
+}
+
+.btn:active {
+    opacity: 70%;
+}
