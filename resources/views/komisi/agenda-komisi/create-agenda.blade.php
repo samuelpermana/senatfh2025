@@ -20,8 +20,8 @@
                 <input class="form-check-input" type="checkbox" value="1" name="status" id="status">
                 <label class="form-check-label" for="status">
                     Aktif
-                </label>
-            </div>
+                </label> 
+            </div> 
         </div>
         <div class="form-group">
             <label for="file">Dokumen:</label>

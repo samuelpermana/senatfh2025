@@ -18,7 +18,7 @@
         <section class="table__body">
             <table>
                 <thead>
-                    <tr>
+                    <tr> 
                         <th> No <span class="icon-arrow">&UpArrow;</span></th>
                         <th> Nama Agenda <span class="icon-arrow">&UpArrow;</span></th>
                         <th> Tanggal Pelaksanaan <span class="icon-arrow">&UpArrow;</span></th>

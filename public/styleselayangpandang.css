@@ -553,37 +553,15 @@ footer .column > a:hover {
     display: flex;
     justify-content: center; /* Memposisikan secara horizontal di tengah */
     align-items: center; /* Memposisikan secara vertikal di tengah */
-    height: 300px; /* Contoh ketinggian, sesuaikan sesuai kebutuhan Anda */
-    margin-top: 100px;
+    height: 50px; /* Contoh ketinggian, sesuaikan sesuai kebutuhan Anda */
+    margin-top: px;
 }
 
-.custom-container {
-    position: relative;
-    width: 70%;
-    overflow: hidden;
-    max-width: 2200px;
-    margin: auto;
-    padding: 5rem 2rem;
-}
-
-.custom-slider-wrapper {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    border-radius: 12px;
-}
-
-.custom-slider {
-    display: flex;
-    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
-    width: 100%;
-}
-
-.custom-slides {
-    display: flex;
-    width: 100%;
+.image img {
+    max-width: 50%; /* Lebar gambar */
+    height: auto; /* Mengatur ketinggian gambar sesuai proporsi aslinya */
+    float: left; /* Menggeser gambar ke sisi kiri */
+    margin-right: auto;
 }
 
 .custom-slide {

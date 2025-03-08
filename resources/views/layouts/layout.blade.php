@@ -116,7 +116,6 @@
           <img src="/img/coba1.png" alt="Logo">
         </a>
       </div>
-      
 
       <ul class="nav-links">
         <li class="link"><a href="{{ url("/") }}">Home</a></li>

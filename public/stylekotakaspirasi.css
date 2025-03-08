@@ -111,7 +111,7 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     background-color: #f5f5dc;
 }
 
-.message-container {
+.message-container { 
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -120,7 +120,7 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
 
 #contact textarea {
     height: 200px;
-    text-align: left;
+    text-align: left; 
     font-size: 1.1em;
     font-family: inherit;
     margin: auto; /* Untuk membuat textarea berada di tengah */
@@ -133,7 +133,7 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
 
 #contact button {
     padding: 10px 20px;
-    background:#2B5C6B;
+    background: #18181b;
     color: #fff;
     border: none;
     border-radius: 3px;

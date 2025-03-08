@@ -22,16 +22,14 @@
 }
 
 .custom-form .btn {
-    background-color: #d1e3e2;
+    background-color: #E1EEFF;
     padding: 10px 16px;
-    border-radius: 25px;
     margin: 20px 30px 20px 0;
     cursor: pointer;
     border: solid 1px;
     transition: 0.15s ease;
 
     width: 50%;
-
 }
 
 .custom-form .btn:hover {
@@ -42,8 +40,6 @@
     opacity: 0.7;
 }
 
-
 .main_container .top_bar {
     border-top-right-radius: 0;
 }
-
