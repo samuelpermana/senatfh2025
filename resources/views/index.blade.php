@@ -67,12 +67,12 @@
         <div class="slider">
           <button class="nav-button left" onclick="prevSlide()"><i class="fas fa-chevron-left"></i></button>
           <div class="slides">
-            @foreach (App\Models\Berita::latest()->take(3)->get() as $berita)
+            @foreach (App\Models\Berita::latest()->take(4)->get() as $berita)
               <div class="slide">
                 <img src="{{ asset("storage/" . $berita->picture) }}" alt="Picture">
                 <div class="info">
-                  <span class="tag">Latest Berita</span>
-                  <h2><a class="berita_title" href="/beritapublic/{{ $berita->id }}">{{ $berita->title }}</a></h2>
+                  <span class="tag"><a class="berita_title" href="/beritapublic/{{ $berita->id }}">{{ $berita->title }}</a></span>
+                  <h2>{{ Str::limit($berita->content, 100) }}</h2>
                   <p><i class="fas fa-calendar-alt"></i> {{ $berita->created_at->format("d F Y") }}</p>
                 </div>
               </div>

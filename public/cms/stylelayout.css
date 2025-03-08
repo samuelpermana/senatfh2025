@@ -65,12 +65,12 @@ body {
 }
 
 .vertical_bar .menu {
-    padding-left: 0px;
+    padding-left: 25px;
 }
 
 .vertical_bar .menu li a {
     display: block;
-    padding: 10px;
+    padding: 10px 12px;
     text-transform: uppercase;
     color: white;
     letter-spacing: 2px;

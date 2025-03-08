@@ -125,7 +125,7 @@
         <li class="link" id="link4"><a href="{{ url("/selayangpandang") }}">Selayang Pandang</a></li>
         <li class="link" id="link4">
           <div class="dropdown">
-            <button class="dropbtn">JDIH</button>
+            <a class="dropbtn">JDIH</a>
             <div class="dropdown-content">
               <a href="{{ route("jdih.jenis", ["id" => 1]) }}">Konstitusi</a>
               <a href="{{ route("jdih.jenis", ["id" => 2]) }}">Peraturan Mahasiswa</a>
