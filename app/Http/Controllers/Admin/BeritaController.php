@@ -25,7 +25,7 @@ class BeritaController extends Controller
         $request->validate([
             'title' => 'required|string|max:255',
             'content' => 'required',
-            'picture' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+            'picture' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:5120', // 5MB limit
         ]);
 
         $data = $request->all();
@@ -56,7 +56,7 @@ class BeritaController extends Controller
         $request->validate([
             'title' => 'required|string|max:255',
             'content' => 'required',
-            'picture' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+            'picture' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:5120', // 5MB limit
         ]);
 
         $berita = Berita::findOrFail($id);
