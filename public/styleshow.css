@@ -1,0 +1,113 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #fff6ea;
+}
+
+.news-container {
+    width:80%;
+    max-width: 10000px;
+    background: transparent;
+    padding: 30px;
+    margin: 40px auto;
+    border-radius: 0px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+}
+
+/* ======== Header ======== */
+.news-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.news-title {
+    color: #2B5C6B;
+    color: #2b5c6b;
+    margin-bottom: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 4rem;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+
+/* ======== Content ======== */
+.news-content {
+    color: #444;
+    font-size: 1.1em;
+    line-height: 1.8;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+/* ======== Image Styling ======== */
+/* ======== Image Styling ======== */
+.news-image-container {
+    display: flex; /* Menggunakan Flexbox */
+    justify-content: center; /* Memposisikan elemen anak di tengah secara horizontal */
+    align-items: center; /* Memposisikan elemen anak di tengah secara vertikal */
+    margin: 20px 0;
+}
+
+.news-image {
+    width: 70%;
+    max-width: 700px;
+    display: block; /* Pastikan gambar tidak inline agar margin auto berfungsi */
+    margin: 0 auto; /* Memusatkan gambar */
+}
+
+
+
+/* ======== Footer ======== */
+.news-footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.return-link {
+    display: inline-block;
+    padding: 12px 20px;
+background-color: #2B5C6B;  
+  color: white;
+    font-size: 1em;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+}
+
+.return-link:hover {
+background-color: #2B5C6B;    
+transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 91, 187, 0.4);
+}
+
+/* Jika tidak ada gambar */
+.no-picture {
+    text-align: center;
+    font-size: 1em;
+    color: #888;
+    font-style: italic;
+}
+
+/* ======== Responsiveness ======== */
+@media (max-width: 768px) {
+    .news-container {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .news-title {
+        font-size: 2em;
+    }
+
+    .news-content {
+        font-size: 1em;
+        line-height: 1.6;
+    }
+
+    .return-link {
+        padding: 10px 15px;
+        font-size: 0.9em;
+    }
+}

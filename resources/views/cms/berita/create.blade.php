@@ -10,8 +10,8 @@
       <input id="title" name="title" type="text" required>
     </div>
     <div>
-      <label for="content">Content</label><br>
-      <textarea id="content" name="content" required></textarea>
+      <label  for="content">Content</label><br>
+      <textarea class="content-input" id="content" name="content" required></textarea>
     </div>
     <div>
       <label for="picture">Picture</label><br>

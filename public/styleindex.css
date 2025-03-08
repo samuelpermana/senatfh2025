@@ -2311,7 +2311,7 @@ footer .column > a:hover {
 
 .main-news img {
     width: 100%;
-    height: auto;
+    height: 550px;
     aspect-ratio: 4/3;
     object-fit: cover;
     margin: 0;
@@ -2380,7 +2380,7 @@ footer .column > a:hover {
 
 .popular-news {
     padding: 16px;
-    height: 380px;
+    height: 550px;
 }
 
 .popular-news h2 {

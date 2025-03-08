@@ -67,7 +67,7 @@
         <div class="slider">
           <button class="nav-button left" onclick="prevSlide()"><i class="fas fa-chevron-left"></i></button>
           <div class="slides">
-            @foreach (App\Models\Berita::latest()->take(3)->get() as $berita)
+            @foreach (App\Models\Berita::latest()->take(5)->get() as $berita)
               <div class="slide">
                 <img src="{{ asset("storage/" . $berita->picture) }}" alt="Picture">
                 <div class="info">
@@ -87,7 +87,7 @@
         <div class="popular-news">
           <h2>HOT NEWS</h2>
 
-          @foreach (App\Models\Berita::latest()->take(3)->get() as $berita)
+          @foreach (App\Models\Berita::latest()->take(5)->get() as $berita)
             <div class="news-item">
               <img src="{{ asset("storage/" . $berita->picture) }}" alt="Picture" style="max-width: 100px;">
               <div class="info">
@@ -97,7 +97,6 @@
             </div>
           @endforeach
         </div>
-        <br><a class="btn" href="{{ url("/beritamore") }}">More Berita</a>
       </div>
     </div>
   </section>
