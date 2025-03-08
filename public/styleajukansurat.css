@@ -74,7 +74,7 @@ nav {
     bottom: 0;
     left: 50%; /* Menengahkan garis bawah */
     transform: translateX(-50%); /* Menyempurnakan penempatan garis bawah */
-    background-color: #cfb53b;
+    background-color: #2B5C6B;
     transition: all 0.3s ease;
 }
 
@@ -86,14 +86,14 @@ nav {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #800000;
+    background-color: #2B5C6B;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 .btn:hover {
-    background-color: #cfb53b;
+    background-color: #2B5C6B;
 }
 
 .container {
@@ -104,20 +104,21 @@ nav {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px #cfb53b;
+    box-shadow: 0 0 1000px 50px #2B5C6B;
     z-index: -100;
 }
 
 .container-AJ {
     width: 100%;
     max-width: 650px;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
+
     padding: 10px;
     margin: 0 28px;
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
 }
 
 .form-title {
@@ -153,7 +154,7 @@ nav {
     width: 95%;
     color: #18181b;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 600;
     margin: 5px 0;
     font-family: "Poppins", sans-serif
 }
@@ -178,7 +179,7 @@ nav {
     display: block;
     margin-bottom: 0.5rem;
     font-size: 1rem;
-    color: #888;
+    color: white;
     font-family: "Poppins", sans-serif;
 }
 
@@ -219,7 +220,7 @@ nav {
 
 .form-submit-btn input {
     display: block;
-    width: 50%;
+    width: 30%;
     margin-top: 10px;
     font-size: 20px;
     padding: 10px;
@@ -227,7 +228,7 @@ nav {
     border-radius: 10px;
     cursor: pointer;
     color: rgb(255, 255, 255);
-    background: #18181b;
+    background: #2B5C6B;
     transition: 0.3s ease;
     margin: 0 auto;
 }

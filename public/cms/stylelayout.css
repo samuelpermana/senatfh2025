@@ -24,7 +24,7 @@ body {
     height: 700px;
     background: #fff;
     margin: 30px auto;
-    border-radius: 25px;
+    border-radius: 0px;
     display: flex;
 }
 
@@ -38,8 +38,8 @@ body {
     z-index: 9999;
     background: #3d5654;
     height: 100%;
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
     position: relative;
     overflow-y: auto;  /* Menambahkan scroll vertical */
     max-height: 100vh;
@@ -68,7 +68,7 @@ body {
 }
 
 .vertical_bar .menu {
-    padding-left: 25px;
+    padding-left: 0px;
 }
 
 .vertical_bar .menu li a {
@@ -77,8 +77,8 @@ body {
     text-transform: uppercase;
     color: #fff;
     letter-spacing: 2px;
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
     margin-bottom: 1px;
     font-size: 15px;
 }
@@ -127,7 +127,7 @@ body {
 .main_container .top_bar {
     height: 60px;
     background: #425c5a;
-    border-top-right-radius: 25px;
+    border-top-right-radius: 0px;
     padding: 15px 25px;
     display: flex;
     align-items: center;
