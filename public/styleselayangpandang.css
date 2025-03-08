@@ -67,7 +67,7 @@ nav {
 
 .blur {
     position: absolute;
-    box-shadow: 0 0 1000px 50px      #2B5C6B;
+    box-shadow: 0 0 1000px 50px #2b5c6b;
     z-index: -100;
 }
 
@@ -132,7 +132,7 @@ header .image img {
 }
 
 section .header {
-    color:      #2B5C6B;
+    color: #2b5c6b;
     margin-bottom: 4rem;
     font-size: 2.5rem;
     font-weight: 700;
@@ -172,8 +172,16 @@ section .header {
 .features .card {
     display: flex;
     flex: 1;
-    background: rgb(50,95,111);
-background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%, rgba(120,152,159,1) 40%, rgba(120,152,159,1) 60%, rgba(98,124,130,1) 80%, rgba(50,95,111,1) 100%);
+    background: rgb(50, 95, 111);
+    background: linear-gradient(
+        90deg,
+        rgba(50, 95, 111, 1) 0%,
+        rgba(98, 124, 130, 1) 20%,
+        rgba(120, 152, 159, 1) 40%,
+        rgba(120, 152, 159, 1) 60%,
+        rgba(98, 124, 130, 1) 80%,
+        rgba(50, 95, 111, 1) 100%
+    );
     padding: 1rem;
     border: 2px solid transparent;
     border-radius: 15px;
@@ -193,7 +201,15 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     width: inherit;
     display: flex;
     flex: 1;
-    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
+    background: linear-gradient(
+        90deg,
+        rgba(50, 95, 111, 1) 0%,
+        rgba(98, 124, 130, 1) 20%,
+        rgba(120, 152, 159, 1) 40%,
+        rgba(120, 152, 159, 1) 60%,
+        rgba(98, 124, 130, 1) 80%,
+        rgba(50, 95, 111, 1) 100%
+    );
     padding: 1rem;
     border: 2px solid transparent;
     border-radius: 15px;
@@ -212,7 +228,15 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
 .features1 .card span {
     display: flex;
     background: rgb(2, 0, 36);
-    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
+    background: linear-gradient(
+        90deg,
+        rgba(50, 95, 111, 1) 0%,
+        rgba(98, 124, 130, 1) 20%,
+        rgba(120, 152, 159, 1) 40%,
+        rgba(120, 152, 159, 1) 60%,
+        rgba(98, 124, 130, 1) 80%,
+        rgba(50, 95, 111, 1) 100%
+    );
     padding: 2px;
     margin: 10px 26px 10px 10px;
     font-size: 120px;
@@ -222,9 +246,8 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     align-items: center;
     min-width: 150px;
     height: 150px;
-    border: 3px solid #000000;    
+    border: 3px solid #000000;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.4);
-
 }
 
 .features .card h4,
@@ -234,7 +257,6 @@ background: linear-gradient(90deg, rgba(50,95,111,1) 0%, rgba(98,124,130,1) 20%,
     font-size: 1.2rem;
     font-weight: bold;
     font-family: "Poppins", sans-serif;
-
 }
 
 .features .card p,
@@ -383,10 +405,9 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #fff;
-    background-color:      #2B5C6B;
+    background-color: #2b5c6b;
 
-    border-color:      #2B5C6B;
-
+    border-color: #2b5c6b;
 }
 
 footer .column h4 {
@@ -404,8 +425,7 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color:      #2B5C6B;
-
+    color: #2b5c6b;
 }
 
 .copyright {
@@ -553,15 +573,37 @@ footer .column > a:hover {
     display: flex;
     justify-content: center; /* Memposisikan secara horizontal di tengah */
     align-items: center; /* Memposisikan secara vertikal di tengah */
-    height: 50px; /* Contoh ketinggian, sesuaikan sesuai kebutuhan Anda */
-    margin-top: px;
+    height: 300px; /* Contoh ketinggian, sesuaikan sesuai kebutuhan Anda */
+    margin-top: 100px;
 }
 
-.image img {
-    max-width: 50%; /* Lebar gambar */
-    height: auto; /* Mengatur ketinggian gambar sesuai proporsi aslinya */
-    float: left; /* Menggeser gambar ke sisi kiri */
-    margin-right: auto;
+.custom-container {
+    position: relative;
+    width: 70%;
+    overflow: hidden;
+    max-width: 2200px;
+    margin: auto;
+    padding: 5rem 2rem;
+}
+
+.custom-slider-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.custom-slider {
+    display: flex;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    width: 100%;
+}
+
+.custom-slides {
+    display: flex;
+    width: 100%;
 }
 
 .custom-slide {
@@ -573,7 +615,7 @@ footer .column > a:hover {
 }
 
 .custom-slide h1 {
-    color: #2B5C6B;
+    color: #2b5c6b;
     margin-bottom: 3rem;
     font-size: 3rem;
     font-weight: 700;
@@ -581,7 +623,6 @@ footer .column > a:hover {
     text-align: right;
     margin-left: -100px;
 }
-
 
 .custom-slide p {
     padding: 20px 40px; /* Tambahkan ruang di dalam paragraf */
@@ -594,17 +635,15 @@ footer .column > a:hover {
     background-color: transparent; /* Warna latar belakang lembut untuk kontras */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05); /* Tambahkan efek bayangan ringan */
     margin-top: 50px;
-    border: 3px solid #CFB53B;
+    border: 3px solid #cfb53b;
     justify-content: center;
 }
-
 
 .custom-image img {
     max-width: 65%; /* Lebar gambar */
     height: auto; /* Mengatur ketinggian gambar sesuai proporsi aslinya */
     float: middle; /* Menggeser gambar ke sisi kiri */
     margin-right: auto;
-
 }
 
 .custom-image img:hover {
@@ -612,12 +651,13 @@ footer .column > a:hover {
 }
 
 /* Tombol Navigasi */
-.custom-prev, .custom-next {
+.custom-prev,
+.custom-next {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     background: transparent; /* Menghilangkan background */
-    color: #2B5C6B;
+    color: #2b5c6b;
     border: none; /* Menghapus border */
     padding: 12px 15px;
     cursor: pointer;
@@ -626,19 +666,31 @@ footer .column > a:hover {
 }
 
 /* Efek saat hover */
-.custom-prev:hover, .custom-next:hover {
-    color: #1A3A48; /* Warna sedikit lebih gelap saat hover */
+.custom-prev:hover,
+.custom-next:hover {
+    color: #1a3a48; /* Warna sedikit lebih gelap saat hover */
 }
 
 /* Jarak lebih jauh ke samping */
-.custom-prev { left: 15px; }
-.custom-next { right: 15px; }
-
+.custom-prev {
+    left: 15px;
+}
+.custom-next {
+    right: 15px;
+}
 
 .pricing1 .card1 {
     width: 100%;
     padding: 3rem 2rem;
-    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
+    background: linear-gradient(
+        90deg,
+        rgba(50, 95, 111, 1) 0%,
+        rgba(98, 124, 130, 1) 20%,
+        rgba(120, 152, 159, 1) 40%,
+        rgba(120, 152, 159, 1) 60%,
+        rgba(98, 124, 130, 1) 80%,
+        rgba(50, 95, 111, 1) 100%
+    );
     flex-direction: column;
     border: 2px solid transparent;
     border-radius: 15px;
@@ -703,14 +755,22 @@ footer .column > a:hover {
 }
 
 .pricing1 .card2 {
-  padding: 3rem 2rem;
-  background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
-  display: flex;
-  flex-direction: column;
-  border: 2px solid transparent;
-  border-radius: 15px;
-  transition: all 0.3s ease;
-  margin: 0;
+    padding: 3rem 2rem;
+    background: linear-gradient(
+        90deg,
+        rgba(50, 95, 111, 1) 0%,
+        rgba(98, 124, 130, 1) 20%,
+        rgba(120, 152, 159, 1) 40%,
+        rgba(120, 152, 159, 1) 60%,
+        rgba(98, 124, 130, 1) 80%,
+        rgba(50, 95, 111, 1) 100%
+    );
+    display: flex;
+    flex-direction: column;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    margin: 0;
 }
 
 .pricing1 .card2 .content {
@@ -729,7 +789,7 @@ footer .column > a:hover {
 }
 
 .pricing1 .card2 h5 {
-/*     margin-bottom: 1rem;
+    /*     margin-bottom: 1rem;
     color: #18181b;
     font-size: 1rem;
     font-weight: 500;
@@ -747,7 +807,6 @@ footer .column > a:hover {
     letter-spacing: 0.1px;
     font-family: "Poppins", sans-serif;
     word-spacing: 0.05em;
-
 }
 
 .pricing1 .card2 h3 {
@@ -793,7 +852,7 @@ footer .column > a:hover {
 }
 
 section .header3 {
-    color:#2B5C6B;
+    color: #2b5c6b;
     margin-bottom: 1rem;
     font-size: 3rem;
     font-weight: 700;
@@ -811,7 +870,15 @@ section .header3 {
 
 .pricing1 .card {
     padding: 3rem 2rem;
-    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
+    background: linear-gradient(
+        90deg,
+        rgba(50, 95, 111, 1) 0%,
+        rgba(98, 124, 130, 1) 20%,
+        rgba(120, 152, 159, 1) 40%,
+        rgba(120, 152, 159, 1) 60%,
+        rgba(98, 124, 130, 1) 80%,
+        rgba(50, 95, 111, 1) 100%
+    );
     display: flex;
     flex-direction: column;
     border: 2px solid transparent;
@@ -933,7 +1000,7 @@ section .header3 {
 }
 
 .j-header {
-    color:      #2B5C6B;
+    color: #2b5c6b;
     margin-top: -2rem;
     font-size: 2.5rem;
     font-weight: 700;
@@ -950,14 +1017,14 @@ section .header3 {
     width: 100%;
     overflow: hidden;
     margin-top: 2rem;
-  }
-  
-  .slider {
+}
+
+.slider {
     display: flex;
     transition: transform 0.5s ease-in-out;
-  }
-  
-  .slide-item {
+}
+
+.slide-item {
     min-width: 100%;
     height: 600px;
     background-size: cover;
@@ -967,7 +1034,7 @@ section .header3 {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+}
 
 .content9 {
     position: absolute;
@@ -978,8 +1045,6 @@ section .header3 {
     color: #eee;
     transform: translate(0, -50%);
     font-family: system-ui;
-    
-    
 }
 .content9 .name {
     font-size: 40px;
@@ -990,7 +1055,6 @@ section .header3 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5),
         /* Bayangan utama */ 2px 2px 6px rgba(0, 0, 0, 0.5),
         /* Bayangan yang sedikit lebih tebal */ 2px 2px 8px rgba(0, 0, 0, 0.5);
-    
 }
 
 .content9 .des {
@@ -1011,7 +1075,7 @@ section .header3 {
     opacity: 0;
     animation: animate 1s ease-in-out 0.6s 1 forwards;
     border-radius: 10px;
-    background-color:#2B5C6B;
+    background-color: #2b5c6b;
     color: whitesmoke;
 }
 
@@ -1053,12 +1117,20 @@ section .header3 {
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
     transition: 0.3s;
     padding: 30px 50px;
-    background: rgb(208,172,77);
-    background: linear-gradient(90deg, rgba(208,172,77,1) 10%, rgba(226,204,142,1) 40%, rgba(226,204,142,1) 60%, rgba(208,172,77,1) 90%);
+    background: rgb(208, 172, 77);
+    background: linear-gradient(
+        90deg,
+        rgba(208, 172, 77, 1) 10%,
+        rgba(226, 204, 142, 1) 40%,
+        rgba(226, 204, 142, 1) 60%,
+        rgba(208, 172, 77, 1) 90%
+    );
     cursor: pointer;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5), /* Bayangan utama */ 1px 1px 5px rgba(0, 0, 0, 0.5), /* Bayangan yang sedikit lebih tebal */ 1px 1px 7px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5),
+        /* Bayangan utama */ 1px 1px 5px rgba(0, 0, 0, 0.5),
+        /* Bayangan yang sedikit lebih tebal */ 1px 1px 7px rgba(0, 0, 0, 0.5);
 }
-.deskripsi{
+.deskripsi {
     text-shadow: none;
     font-weight: 30px;
     font-family: "Poppins", sans-serif;
@@ -1095,7 +1167,7 @@ section .header3 {
     transform: translateY(-180px);
 }
 
-.content1{
+.content1 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1103,14 +1175,12 @@ section .header3 {
 }
 
 .content1 h2 {
-
-  color: #CFB53B;
-  width: 250px;
+    color: #cfb53b;
+    width: 250px;
 }
 
-.content1 p{
+.content1 p {
     margin-top: 10px;
-
 }
 
 .container-f {
@@ -1125,8 +1195,6 @@ section .header3 {
     margin-left: auto;
     margin-right: auto;
 }
-
-
 
 @keyframes animate {
     from {
