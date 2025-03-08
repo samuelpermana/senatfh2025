@@ -2305,15 +2305,16 @@ footer .column > a:hover {
 }
 
 .main-news {
-    flex: 2;
+    flex: 3;
     position: relative;
 }
 
 .main-news img {
     width: 100%;
     height: auto;
-    aspect-ratio: 16/9;
+    aspect-ratio: 4/3;
     object-fit: cover;
+    margin: 0;
 }
 
 .main-news .nav-button {
@@ -2344,13 +2345,13 @@ footer .column > a:hover {
 
 .main-news .info {
     position: absolute;
-    bottom: 5px;
-    left: 5px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
     color: #fff;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.3);
     padding: 8px;
     border-radius: 4px;
-    right: 5px;
 }
 
 .main-news .info .tag {
@@ -2358,22 +2359,23 @@ footer .column > a:hover {
     font-size: 12px;
     font-weight: bold;
     padding: 4px 8px;
+    margin: 0 8px;
     border-radius: 4px;
 }
 
 .main-news .info h2 {
     font-size: 24px;
     font-weight: bold;
-    margin: 8px 0 4px;
+    margin: 8px 8px 4px;
 }
 
 .main-news .info p {
     font-size: 14px;
-    margin: 0;
+    margin: 0 8px;
 }
 
 .div-popular-news {
-    flex: 1;
+    flex: 2;
 }
 
 .popular-news {
