@@ -202,7 +202,7 @@
       </div>
       <div class="arrows">
         <button id="prev">
-          << /button>
+          < </button>
             <button id="next">></button>
             <button id="back">Lihat Semua &#8599</button>
       </div>
