@@ -1,58 +1,27 @@
 @extends("layouts.layout")
+@section('content')
+<link href="{{ asset('styleshow.css') }}" rel="stylesheet">
 
-@section("content")
-  <style>
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
-      border-radius: 8px;
-    }
+<section class="news-header">
+    <h1 class="news-title">{{ $berita->title }}</h1>
+</section>
 
-    h1 {
-      text-align: center;
-      font-size: 24px;
-      font-weight: bold;
-      color: #333;
-      margin-bottom: 16px;
-    }
+<div class="news-container">
 
-    p {
-      text-align: center;
-      font-size: 16px;
-      color: #666;
-      margin-bottom: 20px;
-    }
+    <section class="news-body">
+        @if($berita->picture)
+            <div class="news-image-container">
+                <img class="news-image" src="{{ asset('storage/' . $berita->picture) }}" alt="Picture">
+            </div>
+        @else
+            <p class="no-picture">No Picture</p>
+        @endif
+        <p class="news-content">{{ $berita->content }}</p>
+    </section>
 
-    .image-container {
-      text-align: center;
-      margin-bottom: 40px;
-    }
+    <section class="news-footer">
+        <a href="/" class="return-link">Back to Home</a>
+    </section>
+</div>
 
-    .berita-img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 8px;
-      margin: 0 auto;
-    }
-  </style>
-
-  <div class="container">
-    <h1>{{ $berita->title }}</h1>
-
-    @if ($berita->picture)
-      <div class="image-container">
-        <img class="berita-img" src="{{ asset("storage/" . $berita->picture) }}" alt="Picture">
-      </div>
-    @else
-      <p style="text-align: center; font-style: italic; color: #888;">No Picture Available</p>
-    @endif
-
-    <p>{{ $berita->content }}</p>
-
-    <div style="text-align: center;">
-      <br><a class="btn back" href="/">Back to Home</a>
-    </div>
-  </div>
-@endsection
+@endsection 
