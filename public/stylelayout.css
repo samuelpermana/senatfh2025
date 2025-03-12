@@ -87,6 +87,11 @@ nav {
     align-items: center; /* Mengatur vertikal ke tengah */
 }
 
+.nav-logo1 {
+    display: inline-flex;
+    align-items: center; /* Mengatur vertikal ke tengah */
+}
+
 .nav-logo img {
     max-width: 100px;
 }
@@ -97,6 +102,7 @@ nav {
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    margin-left: -80px;
 }
 
 .link a {

@@ -247,8 +247,8 @@ section .header {
   .table__body {
     width: 98%;
     max-height: calc(89% - 1.6rem);
-    background: rgb(208, 172, 77);
-    background: linear-gradient(90deg, rgba(208, 172, 77, 1) 10%, rgba(226, 204, 142, 1) 40%, rgba(226, 204, 142, 1) 60%, rgba(208, 172, 77, 1) 90%);
+    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
+
   
     margin: .8rem auto;
     border-radius: .6rem;
@@ -437,7 +437,7 @@ section .header {
     position: absolute;
     left: 0;
     top: 19px;
-    background: #cfb53b;
+    background: #2B5C6B;
     width: 100%;
     height: 2px;
     transform: translateX(-50%);
@@ -462,7 +462,7 @@ section .header {
     height: 35px;
     width: 35px;
 
-    background: #cfb53b;
+    background: #2B5C6B;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -500,14 +500,14 @@ section .header {
 }
 .current-item .progress-count:after{
     background: #fff;
-    border: 2px solid #cfb53b;
+    border: 2px solid #2B5C6B;
 }
 .current-item .progress-count{
-    color: #cfb53b;
+    color: #2B5C6B;
 }
 
 .header-revisi{
-  color: #cfb53b;
+  color: #2B5C6B;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -518,7 +518,7 @@ section .header {
   padding: 0.5rem 1rem;
   font-size: 1rem;
   color: #fff;
-  background-color: #800000;
+  background-color: #2B5C6B;
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -547,7 +547,7 @@ section .header {
   }
   
   thead th:hover span.icon-arrow{
-    border: 1.4px solid #cfb53b;
+    border: 1.4px solid #2B5C6B;
   }
   
   thead th:hover {
@@ -555,7 +555,7 @@ section .header {
   }
   
   thead th.active span.icon-arrow{
-    background-color: #cfb53b;
+    background-color: #2B5C6B;
     color: #fff;
   }
   
@@ -564,7 +564,7 @@ section .header {
   }
   
   thead th.active,tbody td.active {
-    color: #cfb53b;
+    color: #2B5C6B;
   }
   
   .export__file {

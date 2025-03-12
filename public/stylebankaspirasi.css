@@ -18,6 +18,16 @@ a {
     text-decoration: none;
 }
 
+.nav-logo1 {
+    display: inline-flex;
+    align-items: center; /* Mengatur vertikal ke tengah */
+}
+
+.nav-logo1 img {
+    max-width: 190px;
+    margin-left: -30px;
+}
+
 body {
     font-family: "Poppins", sans-serif;
     background-color: #fff6ea;
