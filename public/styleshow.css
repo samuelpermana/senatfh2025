@@ -4,7 +4,7 @@ body {
 }
 
 .news-container {
-    width:80%;
+    width: 80%;
     max-width: 10000px;
     background: transparent;
     padding: 30px;
@@ -20,7 +20,7 @@ body {
 }
 
 .news-title {
-    color: #2B5C6B;
+    color: #2b5c6b;
     color: #2b5c6b;
     margin-bottom: 2rem;
     font-size: 3rem;
@@ -29,7 +29,6 @@ body {
     text-align: center;
     margin-top: 5rem;
 }
-
 
 /* ======== Content ======== */
 .news-content {
@@ -51,12 +50,12 @@ body {
 
 .news-image {
     width: 70%;
-    max-width: 700px;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    /* max-width: 700px; */
     display: block; /* Pastikan gambar tidak inline agar margin auto berfungsi */
     margin: 0 auto; /* Memusatkan gambar */
 }
-
-
 
 /* ======== Footer ======== */
 .news-footer {
@@ -67,8 +66,8 @@ body {
 .return-link {
     display: inline-block;
     padding: 12px 20px;
-background-color: #2B5C6B;  
-  color: white;
+    background-color: #2b5c6b;
+    color: white;
     font-size: 1em;
     font-weight: 500;
     text-decoration: none;
@@ -77,8 +76,8 @@ background-color: #2B5C6B;
 }
 
 .return-link:hover {
-background-color: #2B5C6B;    
-transform: translateY(-2px);
+    background-color: #2b5c6b;
+    transform: translateY(-2px);
     box-shadow: 0 4px 10px rgba(0, 91, 187, 0.4);
 }
 

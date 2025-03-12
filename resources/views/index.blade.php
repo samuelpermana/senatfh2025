@@ -173,40 +173,40 @@
 
             switch (category) {
               case 'success':
-                backgroundColor = '#2B6172';
-                borderColor = '#2B6172';
+                backgroundColor = '#dfcdb2';
+                borderColor = '#dfcdb2';
                 break;
               case 'danger':
-                backgroundColor = '#FDF4E6';
-                borderColor = '#FDF4E6';
+                backgroundColor = '#fdf4e6';
+                borderColor = '#fdf4e6';
                 break;
               case 'warning':
-                backgroundColor = '#FEFEFE';
-                borderColor = '#FEFEFE';
+                backgroundColor = '#fefefe';
+                borderColor = '#fefefe';
                 break;
               case 'info':
-                backgroundColor = '#AEAAAA';
-                borderColor = '#AEAAAA';
+                backgroundColor = '#f7ffdf';
+                borderColor = '#f7ffdf';
                 break;
               case 'primary':
-                backgroundColor = '#A13D3E';
-                borderColor = '#A13D3E';
+                backgroundColor = '#b09782';
+                borderColor = '#b09782';
                 break;
               case 'secondary':
-                backgroundColor = '#94e51a';
-                borderColor = '#94e51a';
+                backgroundColor = '#918072';
+                borderColor = '#918072';
                 break;
               case 'dark':
                 backgroundColor = '#8e7e71';
                 borderColor = '#8e7e71';
                 break;
               case 'light':
-                backgroundColor = '#96a659';
-                borderColor = '#96a659';
+                backgroundColor = '#b18c6e';
+                borderColor = '#b18c6e';
                 break;
               case 'link':
-                backgroundColor = '#84629d';
-                borderColor = '#84629d';
+                backgroundColor = '#e4c89b';
+                borderColor = '#e4c89b';
                 break;
               default:
                 backgroundColor = '#CCCCCC';

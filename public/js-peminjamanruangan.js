@@ -98,9 +98,9 @@ const toPDF = function (customers_table) {
     }, 400);
 };
 
-pdf_btn.onclick = () => {
-    toPDF(customers_table);
-};
+// pdf_btn.onclick = () => {
+//     toPDF(customers_table);
+// };
 
 // 4. Converting HTML table to JSON
 
@@ -140,10 +140,10 @@ const toJSON = function (table) {
     return JSON.stringify(table_data, null, 4);
 };
 
-json_btn.onclick = () => {
-    const json = toJSON(customers_table);
-    downloadFile(json, "json");
-};
+// json_btn.onclick = () => {
+//     const json = toJSON(customers_table);
+//     downloadFile(json, "json");
+// };
 
 // 5. Converting HTML table to CSV File
 
@@ -188,10 +188,10 @@ const toCSV = function (table) {
     return headings + "\n" + table_data;
 };
 
-csv_btn.onclick = () => {
-    const csv = toCSV(customers_table);
-    downloadFile(csv, "csv", "customer orders");
-};
+// csv_btn.onclick = () => {
+//     const csv = toCSV(customers_table);
+//     downloadFile(csv, "csv", "customer orders");
+// };
 
 // 6. Converting HTML table to EXCEL File
 
@@ -236,10 +236,10 @@ const toExcel = function (table) {
     return headings + "\n" + table_data;
 };
 
-excel_btn.onclick = () => {
-    const excel = toExcel(customers_table);
-    downloadFile(excel, "excel");
-};
+// excel_btn.onclick = () => {
+//     const excel = toExcel(customers_table);
+//     downloadFile(excel, "excel");
+// };
 
 const downloadFile = function (data, fileType, fileName = "") {
     const a = document.createElement("a");
