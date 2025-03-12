@@ -23,5 +23,24 @@
         <a href="/" class="return-link">Back to Home</a>
     </section>
 </div>
+<section>
+    <div class="container1">
+        <h1>BERITA TERKAIT</h1>
+        <div class="border-b-2"></div>
+        <div class="grid">
+            @foreach (App\Models\Berita::latest()->take(3)->get() as $berita)
+                <div class="card">
+                    <img src="{{ asset('storage/' . $berita->picture) }}" alt="Picture" style="max-width: 600px; height: auto;">
+                    <div class="content">
+                        <h2><a href="/beritapublic/{{ $berita->id }}" style="color:black">{{ $berita->title }}</a></h2>
+                        <p><i class="fas fa-calendar-alt"></i> {{ $berita->created_at->format("d F Y") }}</p>
+                    </div>
+                </div>
+            @endforeach
+        </div>
+    </div>
+    <a class="btn1" href="{{ url("/beritamore") }}">More Berita</a>
+    
+</section>
 
 @endsection 

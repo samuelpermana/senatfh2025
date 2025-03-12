@@ -193,7 +193,7 @@
 
   <section class="container">
     <h1 class="header">Fungsionaris Senat Mahasiswa Fakultas Hukum</h1>
-    <h1 class="j-header">KOMISI & BADAN</h1>
+    <h1 class="j-header">ALAT KELENGKAPAN</h1>
     <div class="slider-container">
       <div class="slider">
         <div class="slide-item" style="background-image: url(/img/komisi1fix.jpg);">

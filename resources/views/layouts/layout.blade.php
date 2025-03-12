@@ -116,6 +116,11 @@
           <img src="/img/coba1.png" alt="Logo">
         </a>
       </div>
+      <div class="nav-logo1">
+        <a href="{{ url("/") }}">
+          <img src="/img/kabinetridho.png" alt="Logo">
+        </a>
+      </div>
 
       <ul class="nav-links">
         <li class="link"><a href="{{ url("/") }}">Home</a></li>
