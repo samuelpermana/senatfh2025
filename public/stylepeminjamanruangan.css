@@ -23,16 +23,6 @@ body {
   background-color: #fff6ea;
 }
 
-.nav-logo1 img {
-    max-width: 190px;
-    margin-left: -30px;
-}
-
-.nav-logo1 {
-    display: inline-flex;
-    align-items: center; /* Mengatur vertikal ke tengah */
-}
-
 nav {
   width: 100%;
   margin: 0 auto; /* Menggunakan auto untuk memastikan navbar berada di tengah */
@@ -43,15 +33,6 @@ nav {
   gap: 2rem;
 }
 
-.nav-logo {
-  display: inline-flex;
-  align-items: center; /* Mengatur vertikal ke tengah */
-}
-
-.nav-logo img {
-  max-width: 100px;
-}
-
 .nav-title {
     display: inline-flex;
     margin-left: 10px;
@@ -60,15 +41,8 @@ nav {
     font-weight: 600;
     align-items: center; /* Mengatur vertikal ke tengah */
 }
-.nav-links {
-  list-style: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
 .btn {
-  padding: 1rem 1.5rem;
   font-size: 1rem;
   color: #fff;
   background-color: #2b5c6b;
@@ -767,7 +741,7 @@ main.table4 {
   );
 }
 
-@media (width < 900px) {
+@media (width < 1000px) {
   .nav-links {
     display: none;
   }

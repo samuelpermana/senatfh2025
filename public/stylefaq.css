@@ -210,7 +210,7 @@ footer .column > a:hover {
     padding: 2rem 2rem;
 }
 
-@media (width < 900px) {
+@media (width < 1000px) {
     .nav-links {
         display: none;
     }

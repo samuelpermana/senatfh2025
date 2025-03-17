@@ -265,7 +265,6 @@ footer .column > a:hover {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: var(--container-color);
     padding: 0 1rem;
     z-index: -2rem;
     margin-top: 2rem;
@@ -317,7 +316,7 @@ footer .column > a:hover {
   }
   
 
-@media (width < 1300px) {
+@media (width < 1000px) {
     .header__container {
         display: flex;
         align-items: center;
@@ -364,7 +363,7 @@ footer .column > a:hover {
     }
 }
 
-@media (width < 900px) {
+@media (width < 1000px) {
 
     .header__container {
         display: flex;

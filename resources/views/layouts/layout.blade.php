@@ -32,7 +32,6 @@
       <div class="header__container">
         <div class="header__toggle">
           <i class='bx bx-menu' id="header-toggle"></i>
-
         </div>
       </div>
     </header>
@@ -116,33 +115,36 @@
           <img src="/img/coba1.png" alt="Logo">
         </a>
       </div>
+
       <div class="nav-logo1">
         <a href="{{ url("/") }}">
           <img src="/img/kabinetridho.png" alt="Logo">
         </a>
       </div>
 
-      <ul class="nav-links">
-        <li class="link"><a href="{{ url("/") }}">Home</a></li>
-        <li class="link" id="link1"><a href="{{ url("/kotakaspirasi") }}">Kotak Aspirasi</a></li>
-        <li class="link" id="link2"><a href="{{ url("/faq") }}">FAQ</a></li>
-        <li class="link" id="link3"><a href="{{ url("/bankaspirasi") }}">Bank Aspirasi</a></li>
-        <li class="link" id="link4"><a href="{{ url("/selayangpandang") }}">Selayang Pandang</a></li>
-        <li class="link" id="link4">
-          <div class="dropdown">
-            <a class="dropbtn">JDIH</a>
-            <div class="dropdown-content">
-              <a href="{{ route("jdih.jenis", ["id" => 1]) }}">Konstitusi</a>
-              <a href="{{ route("jdih.jenis", ["id" => 2]) }}">Peraturan Mahasiswa</a>
-              <a href="{{ route("jdih.jenis", ["id" => 4]) }}">Peraturan Senat Mahasiswa</a>
-              <a href="{{ route("jdih.jenis", ["id" => 3]) }}">Standard Operating Procedure</a>
-              <a href="{{ route("jdih.jenis", ["id" => 5]) }}">Keputusan</a>
-              <a href="{{ route("jdih.jenis", ["id" => 6]) }}">Rancangan Peraturan</a>
+      <div c>
+        <ul class="nav-links">
+          <li class="link"><a href="{{ url("/") }}">Home</a></li>
+          <li class="link" id="link1"><a href="{{ url("/kotakaspirasi") }}">Kotak Aspirasi</a></li>
+          <li class="link" id="link2"><a href="{{ url("/faq") }}">FAQ</a></li>
+          <li class="link" id="link3"><a href="{{ url("/bankaspirasi") }}">Bank Aspirasi</a></li>
+          <li class="link" id="link4"><a href="{{ url("/selayangpandang") }}">Selayang Pandang</a></li>
+          <li class="link" id="link4">
+            <div class="dropdown">
+              <a class="dropbtn">JDIH</a>
+              <div class="dropdown-content">
+                <a href="{{ route("jdih.jenis", ["id" => 1]) }}">Konstitusi</a>
+                <a href="{{ route("jdih.jenis", ["id" => 2]) }}">Peraturan Mahasiswa</a>
+                <a href="{{ route("jdih.jenis", ["id" => 4]) }}">Peraturan Senat Mahasiswa</a>
+                <a href="{{ route("jdih.jenis", ["id" => 3]) }}">Standard Operating Procedure</a>
+                <a href="{{ route("jdih.jenis", ["id" => 5]) }}">Keputusan</a>
+                <a href="{{ route("jdih.jenis", ["id" => 6]) }}">Rancangan Peraturan</a>
+              </div>
             </div>
-          </div>
-        </li>
-        <li class="link" id="link6"><a href="{{ url("/peminjamanruangan") }}">Peminjaman Ruangan</a></li>
-      </ul>
+          </li>
+          <li class="link" id="link6"><a href="{{ url("/peminjamanruangan") }}">Peminjaman Ruangan</a></li>
+        </ul>
+      </div>
 
       <a href="{{ url("/login") }}"><button class="btn btn-ajukansurat" type="button">Ajukan Surat</button></a>
     </nav>
