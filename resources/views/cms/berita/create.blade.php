@@ -17,6 +17,10 @@
       <label for="picture">Picture</label><br>
       <input id="picture" name="picture" type="file">
     </div>
+    <div>
+      <label for="jabatan">Jabatan</label><br>
+      <input id="jabatan" name="jabatan" type="text">
+    </div>
     <button class="btn" type="submit">Submit</button>
   </form>
   <br><a class="btn" href="/admin/berita">Back to All Berita</a>

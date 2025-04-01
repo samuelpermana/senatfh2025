@@ -26,6 +26,7 @@ class BeritaController extends Controller
             'title' => 'required|string|max:255',
             'content' => 'required',
             'picture' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:5120', // 5MB limit
+            'jabatan' => 'nullable|string|max:255',
         ]);
 
         $data = $request->all();
@@ -57,6 +58,7 @@ class BeritaController extends Controller
             'title' => 'required|string|max:255',
             'content' => 'required',
             'picture' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:5120', // 5MB limit
+            'jabatan' => 'nullable|string|max:255',
         ]);
 
         $berita = Berita::findOrFail($id);
