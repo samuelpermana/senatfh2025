@@ -21,6 +21,10 @@
                 <img src="{{ asset('storage/' . $berita->picture) }}" alt="Current Picture" style="max-width: 100px;">
             @endif
         </div>
+        <div>
+            <label for="jabatan">Jabatan</label><br>
+            <input type="text" name="jabatan" id="jabatan" value="{{ $berita->jabatan }}">
+        </div>
         <br><button class="btn" type="submit">Update</button>
     </form>
     <br><a class="btn" href="/admin/berita">Back to All Berita</a>

@@ -16,6 +16,7 @@ class BeritaFactory extends Factory
             'title' => $this->faker->sentence,
             'content' => $this->faker->paragraphs(3, true),
             'picture' => null, // Assuming no picture for simplicity
+            'jabatan' => $this->faker->jobTitle, // Adding a random job title for the jabatan field
         ];
     }
 } 

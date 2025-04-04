@@ -13,6 +13,7 @@ class CreateBeritaTable extends Migration
             $table->string('title');
             $table->text('content');
             $table->string('picture')->nullable();
+            $table->string('jabatan')->nullable();
             $table->timestamps();
         });
     }

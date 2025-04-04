@@ -71,8 +71,8 @@
               <div class="slide">
                 <img src="{{ asset("storage/" . $berita->picture) }}" alt="Picture">
                 <div class="info">
-                  <span class="tag"><a class="berita_title" href="/beritapublic/{{ $berita->id }}">{{ $berita->title }}</a></span>
-                  <h2>{{ Str::limit($berita->content, 100) }}</h2>
+                  <span class="tag"><a class="berita_title" href="/beritapublic/{{ $berita->id }}">{{ $berita->jabatan }}</a></span>
+                  <h2>{{ $berita->title }}</h2>
                   <p><i class="fas fa-calendar-alt"></i> {{ $berita->created_at->format("d F Y") }}</p>
                 </div>
               </div>
@@ -93,6 +93,7 @@
               <div class="info">
                 <h3><a class="berita_title" href="/beritapublic/{{ $berita->id }}" style="color:black">{{ $berita->title }}</a></h3>
                 <p><i class="fas fa-calendar-alt"></i> {{ $berita->created_at->format("d F Y") }}</p>
+                <p><i class="fas fa-briefcase"></i> {{ $berita->jabatan }}</p>
               </div>
             </div>
           @endforeach
