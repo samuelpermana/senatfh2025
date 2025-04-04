@@ -34,12 +34,12 @@ nav {
 }
 
 .nav-title {
-    display: inline-flex;
-    margin-left: 10px;
-    font-size: 1.2rem;
-    color: #2B5C6B;
-    font-weight: 600;
-    align-items: center; /* Mengatur vertikal ke tengah */
+  display: inline-flex;
+  margin-left: 10px;
+  font-size: 1.2rem;
+  color: #2b5c6b;
+  font-weight: 600;
+  align-items: center; /* Mengatur vertikal ke tengah */
 }
 
 .btn {
@@ -383,15 +383,15 @@ tbody tr.hide td img {
 }
 
 .step-wizard-item + .step-wizard-item:after {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 19px;
-    background: #2B5C6B;
-    width: 100%;
-    height: 2px;
-    transform: translateX(-50%);
-    z-index: -10;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 19px;
+  background: #2b5c6b;
+  width: 100%;
+  height: 2px;
+  transform: translateX(-50%);
+  z-index: -10;
 }
 .progress-count {
   height: 40px;
@@ -412,13 +412,13 @@ tbody tr.hide td img {
   height: 35px;
   width: 35px;
 
-    background: #2B5C6B;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    border-radius: 50%;
-    z-index: -10;
+  background: #2b5c6b;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  z-index: -10;
 }
 .progress-count:before {
   content: "";
@@ -449,19 +449,19 @@ tbody tr.hide td img {
   opacity: 0.5;
 }
 .current-item .progress-count:after {
-    background: #fff;
-    border: 2px solid #2B5C6B;
+  background: #fff;
+  border: 2px solid #2b5c6b;
 }
 .current-item .progress-count {
-    color: #2B5C6B;
+  color: #2b5c6b;
 }
 
 .header-revisi {
-    color: #2B5C6B;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  color: #2b5c6b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .btn-revisi {

@@ -290,9 +290,7 @@ addEventTitle.addEventListener("input", (e) => {
 
 function defineProperty() {
   var osccred = document.createElement("div");
-  osccred.innerHTML =
-    
-  osccred.style.position = "";
+  osccred.innerHTML = osccred.style.position = "";
   osccred.style.bottom = "0";
   osccred.style.right = "0";
   osccred.style.fontSize = "10px";
@@ -533,10 +531,3 @@ eventsContainer.addEventListener("click", (e) => {
     }
   }
 });
-
-
-
-
-
-
-
