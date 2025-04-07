@@ -155,8 +155,13 @@
       <span class="blur"></span>
       <span class="blur"></span>
       <div class="column">
-        <div class="logo">
-          <img src="/img/coba1.png">
+        <div class="logo-container1">
+          <div class="logo1">
+            <img src="/img/coba1.png" alt="Logo 1">
+          </div>
+          <div class="logo1-2">
+            <img src="/img/meraki1.png" alt="Logo 2">
+          </div>
         </div>
         <p>SENAT MAHASISWA FAKULTAS HUKUM UNDIP</p>
         <p class="address">

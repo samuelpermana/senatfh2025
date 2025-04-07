@@ -178,6 +178,8 @@ footer {
 footer .column .logo {
   max-width: 100px;
   margin-bottom: 2rem;
+  align-items: center; 
+  gap: 10px; 
 }
 
 footer .column p {
@@ -534,6 +536,23 @@ footer .column > a:hover {
 /*===== Show menu =====*/
 .show-menu {
   left: 0;
+}
+
+.logo-container1 {
+  display: flex;
+  align-items: center; /* agar vertikal sejajar */
+  gap: 0; /* jarak antar logo, bisa diatur */
+  margin-bottom: 20px;
+  margin-left: -40px;
+}
+
+.logo1 img {
+  max-height: 100px; /* atur ukuran sesuai kebutuhan */
+}
+
+.logo1-2 img {
+  max-height: 220px; /* atur ukuran sesuai kebutuhan */
+  margin-left: -0.2rem;
 }
 
 @media (width < 1000px) {
