@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(https://images6.alphacoders.com/439/439546.jpg);">
+        <div class="item" style="background-image: url(/img/foto-grup/Komisi-2.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
             <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
@@ -16,7 +16,7 @@
             </a>
           </div>
         </div>
-        <div class="item"  style="background-image: url(img/komisi2slyng.jpg);">
+        <div class="item"  style="background-image: url(/img/foto-grup/Komisi-2.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
             <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
@@ -112,11 +112,10 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/felicia-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/ketua/Kms M Fadhlurrohman Fayyadh.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Felicia Adelyne Rustani</h2>
+          <h2>Kms M Fadhlurrohman Fayyadh</h2>
           <p class="deskripsi">
             Ketua Komisi</br>FH UNDIP 2022
           </p>
@@ -124,11 +123,10 @@
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/zaneta-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/senator/Dayinda Shofia Nabila.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Zaneta Budinska</h2>
+          <h2>Dayinda Shofia Nabila</h2>
           <p class="deskripsi">
             Senator Anggota</br>FH UNDIP 2022
           </p>
@@ -138,11 +136,10 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/zalfaritsa-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/senator/Gading Kain TImoer.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Zalfaritza Adelia Sukmadevi</h2>
+          <h2>Gading Kain Timoer</h2>
           <p class="deskripsi">
             Senator Anggota</br>FH UNDIP 2022
           </p>
@@ -150,11 +147,10 @@
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/yosef-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/senator/Laksita Satyaning Kuncoro.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Yosef Galih Wiharto</h2>
+          <h2>Laksita Satyaning Kuncoro</h2>
           <p class="deskripsi">
             Senator Anggota</br>FH UNDIP 2023
           </p>
@@ -164,11 +160,10 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/naufal-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/staff/Adinda Yasmin Ariyani.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Muhammad Abrar Naufal</h2>
+          <h2>Adinda Yasmin Ariyani</h2>
           <p class="deskripsi">
             Staff Ahli</br>FH UNDIP 2023
           </p>
@@ -176,11 +171,10 @@
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/naila-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/staff/Irene Alfrianti.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Naila Dwi Nur Aisyah Kamila</h2>
+          <h2>Irene Alfrianti</h2>
           <p class="deskripsi">
           Staff Ahli</br>FH UNDIP 2023
           </p>
@@ -190,11 +184,10 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/bened-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/staff/Mochamad Luthfi Bakri.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Benedictus Adrian Wijanarko</h2>
+          <h2>Mochamad Luthfi Bakri</h2>
           <p class="deskripsi">
           Staff Ahli</br>FH UNDIP 2023
           </p>
@@ -202,37 +195,10 @@
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/chelsi-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/staff/Muhammad Hisyam Aimanuddin.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Chelsi Natasya Dimasandra</h2>
-          <p class="deskripsi">
-          Staff Ahli</br>FH UNDIP 2023
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="/img/franklin-kuning.png" />
-        </div>
-
-        <div class="content1">
-          <h2>Franklin Fernando</h2>
-          <p class="deskripsi">
-          Staff Ahli</br>FH UNDIP 2023
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="/img/ferdi-kuning.png" />
-        </div>
-
-        <div class="content1">
-          <h2>Ferdi Prasetiyo</h2>
+          <h2>Muhammad Hisyam Aimanuddin</h2>
           <p class="deskripsi">
           Staff Ahli</br>FH UNDIP 2023
           </p>
@@ -242,11 +208,10 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/diandra-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/staff/Naelah Zahra Adelia.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Diandra Karenina</h2>
+          <h2>Naelah Zahra Adelia</h2>
           <p class="deskripsi">
           Staff Ahli</br>FH UNDIP 2023
           </p>
@@ -254,11 +219,34 @@
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="/img/firman-kuning.png" />
+          <img class="img-coba" src="img/komisi-2/staff/Octafiani Ramadhani.jpg" />
         </div>
-
         <div class="content1">
-          <h2>Firman Maulana Kurniawan</h2>
+          <h2>Octafiani Ramadhani</h2>
+          <p class="deskripsi">
+          Staff Ahli</br>FH UNDIP 2023
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/komisi-2/staff/Tegar Setiawan.jpg" />
+        </div>
+        <div class="content1">
+          <h2>Tegar Setiawan</h2>
+          <p class="deskripsi">
+          Staff Ahli</br>FH UNDIP 2023
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/komisi-2/staff/Zulfa Afifa Aprilia.jpg" />
+        </div>
+        <div class="content1">
+          <h2>Zulfa Afifa Aprilia</h2>
           <p class="deskripsi">
           Staff Ahli</br>FH UNDIP 2023
           </p>

@@ -196,63 +196,63 @@
     <h1 class="j-header">ALAT KELENGKAPAN</h1>
     <div class="slider-container">
       <div class="slider">
-        <div class="slide-item" style="background-image: url(/img/komisi1fix.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-1.jpg);">
           <div class="content9">
             <div class="name">KOMISI I</div>
             <div class="des">Komisi I adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
             <a href="{{ url("/tentang-komisi-i") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/komisi2slyng.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-2.jpg);">
           <div class="content9">
             <div class="name">KOMISI II</div>
             <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
             <a href="{{ url("/tentang-komisi-ii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/komisi3slyng.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-3.jpg);">
           <div class="content9">
             <div class="name">KOMISI III</div>
             <div class="des">Komisi III adalah komisi yang menangani terkait Bidang Hukum dan Hubungan Publik</div>
             <a href="{{ url("/tentang-komisi-iii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/komisi4slyng.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-4.jpg);">
           <div class="content9">
             <div class="name">KOMISI IV</div>
             <div class="des">Komisi IV adalah komisi yang menaungi terkait bidang Advokasi, Akademik, Sarana, dan Prasarana</div>
             <a href="{{ url("/tentang-komisi-iv") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/baleg.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/Badan-Legislasi.jpg);">
           <div class="content9">
             <div class="name">BADAN LEGISLASI</div>
             <div class="des">Badan Legislasi bertanggung jawab atas proses pembentukan peraturan SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-legislasi") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/badankehormatanorang.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/Badan-Kehormatan.jpg);">
           <div class="content9">
             <div class="name">BADAN KEHORMATAN</div>
             <div class="des">Menjaga serta menegakkan kehormatan dan keluhuran martabat SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-kehormatan") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/badananggaranfix.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/Badan-Anggaran.jpg);">
           <div class="content9">
             <div class="name">BADAN ANGGARAN</div>
             <div class="des">Bertanggung jawab atas pelaksanaan fungsi anggaran SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-anggaran") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/burt.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/BURT.jpg);">
           <div class="content9">
             <div class="name">BURT</div>
             <div class="des">Membantu kesekretariatan dan kebendaharaan Sekretaris Jenderal.</div>
             <a href="{{ url("/tentang-burt") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/bksapslyng.jpg);">
+        <div class="slide-item" style="background-image: url(/img/foto-grup/BKSAP.jpg);">
           <div class="content9">
             <div class="name">BKSAP</div>
             <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro humas, Biro infografis, Biro Videografis</div>
