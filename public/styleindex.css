@@ -945,6 +945,8 @@ footer {
 footer .column .logo {
   max-width: 100px;
   margin-bottom: 2rem;
+  align-items: center; 
+  gap: 10px; 
 }
 
 footer .column p {
