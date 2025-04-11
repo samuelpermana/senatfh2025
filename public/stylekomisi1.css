@@ -795,6 +795,7 @@ footer .column > a:hover {
     transform: translate(0, -50%);
     font-family: system-ui;
     display: none;
+    margin-top: 70px;
 }
 
 .slide .item:nth-child(2) .content {

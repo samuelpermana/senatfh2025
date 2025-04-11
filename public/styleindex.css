@@ -1372,6 +1372,7 @@ section .header {
 
 .nav-logo img {
   max-width: 100px;
+  
 }
 
 .nav-logo1 {
@@ -1381,7 +1382,7 @@ section .header {
 
 .nav-logo1 img {
   max-width: 190px;
-  margin-left: -30px;
+  margin-left: -90px;
 }
 
 .nav-title {
