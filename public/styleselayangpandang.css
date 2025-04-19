@@ -1055,6 +1055,7 @@ section .header3 {
   color: #eee;
   transform: translate(0, -50%);
   font-family: system-ui;
+  margin-top: 80px;
 }
 .content9 .name {
   font-size: 40px;

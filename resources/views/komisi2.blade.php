@@ -107,6 +107,246 @@
     @endforeach
   </section>
 
+  <section>
+    <div class="section-header6">
+      <h2 class="modern-header1">Mitra Kerja Komisi II</h2>
+    </div>
+    <div class="carousel">
+      <div class="list">
+        <div class="item">
+          <img src="img/mitra-kerja2/mikat.png">
+          <div class="introduce">
+            <div class="title">BEM FH</div>
+            <div class="topic">MIKAT</div>
+            <div class="des">
+              Bidang Minat dan Bakat BEM FH UNDIP adalah bidang yang mewadahi mahasiswa Fakultas Hukum UNDIP dalam lingkup Seni, Budaya, dan Olahraga. yang mana memiliki lima fungsi yaitu Menjaring, Merangkul, Memfasilitasi, Mengoptimalkan, serta mengapresiasi. bidang minat dan bakat merupakan sebuah wadah untuk mahasiswa untuk mengembangkan potensi mahasiswa dan ranah Non Akademik agar nantinya mahasiswa Hukum Undip bukan hanya mahir dalam ranah akademik melainkan mahir juga dalam ranah Non Akademik .
+
+            </div>
+            <button class="seeMore">Selengkapnya </button>
+          </div>
+          <div class="detail">
+            <div class="title">MIKAT</div>
+            <div class="des">
+              Bidang Minat dan Bakat BEM FH UNDIP adalah bidang yang mewadahi mahasiswa Fakultas Hukum UNDIP dalam lingkup Seni, Budaya, dan Olahraga. yang mana memiliki lima fungsi yaitu Menjaring, Merangkul, Memfasilitasi, Mengoptimalkan, serta mengapresiasi. bidang minat dan bakat merupakan sebuah wadah untuk mahasiswa untuk mengembangkan potensi mahasiswa dan ranah Non Akademik agar nantinya mahasiswa Hukum Undip bukan hanya mahir dalam ranah akademik melainkan mahir juga dalam ranah Non Akademik .
+            </div>
+
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/mitra-kerja2/basket.png">
+          <div class="introduce">
+            <div class="title"></div>
+            <div class="topic">BASKET</div>
+            <div class="des">
+              Law Undip Basketball, atau yang lebih dikenal sebagai Basket Fakultas Hukum Universitas Diponegoro, merupakan wadah bagi mahasiswa FH Undip untuk mengekspresikan minat dan bakat dalam olahraga basket, sekaligus membangun komunitas yang positif dan solid. Mahasiswa bukan hanya sekadar bermain basket, tetapi juga belajar tentang kerja sama tim, sportivitas, dan kepemimpinan.
+            </div>
+            <button class="seeMore">Selengkapnya </button>
+          </div>
+          <div class="detail">
+            <div class="title">BASKET</div>
+            <div class="des">
+              Law Undip Basketball, atau yang lebih dikenal sebagai Basket Fakultas Hukum Universitas Diponegoro, merupakan wadah bagi mahasiswa FH Undip untuk mengekspresikan minat dan bakat dalam olahraga basket, sekaligus membangun komunitas yang positif dan solid. Mahasiswa bukan hanya sekadar bermain basket, tetapi juga belajar tentang kerja sama tim, sportivitas, dan kepemimpinan.
+              Law Undip Basketball memiliki visi untuk terus berkembang dan menjadi salah satu UKM-F unggulan di FH Undip. UKM-F Basket FH Undip juga bertujuan meningkatkan kualitas pelatihan,  berpartisipasi dalam lebih banyak turnamen,  dan terus memberikan kontribusi positif bagi mahasiswa dan lingkungan kampus.  Dengan semangat juang dan kerja keras yang tinggi,  Law Undip Basketball siap untuk mencapai tujuannya dan menjadi kebanggaan Fakultas Hukum Universitas Diponegoro.
+            </div>
+
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/mitra-kerja2/kki.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">KKI</div>
+            <div class="des">
+              Koordinator Kegiatan Islam (KKI) FH Undip adalah Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berperan sebagai Lembaga Dakwah Fakultas (LDF) di Fakultas Hukum Universitas Diponegoro. KKI menaungi berbagai kegiatan keislaman di lingkungan FH Undip dengan tujuan membangun atmosfer akademik dan spiritual yang kondusif bagi mahasiswa. Melalui program-programnya, KKI berupaya menghadirkan nilai-nilai Islam dalam kehidupan kampus, baik dalam aspek ibadah, keilmuan, maupun sosial. Dengan semangat kebersamaan, KKI FH Undip 2025 melalui Kabinet Pilar Kebaikan berkomitmen untuk menjadi wadah dakwah yang inspiratif dan memberikan manfaat bagi seluruh civitas akademika Fakultas Hukum Universitas Diponegoro.
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">KKI</div>
+            <div class="des">
+              Koordinator Kegiatan Islam (KKI) FH Undip adalah Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berperan sebagai Lembaga Dakwah Fakultas (LDF) di Fakultas Hukum Universitas Diponegoro. KKI menaungi berbagai kegiatan keislaman di lingkungan FH Undip dengan tujuan membangun atmosfer akademik dan spiritual yang kondusif bagi mahasiswa. Melalui program-programnya, KKI berupaya menghadirkan nilai-nilai Islam dalam kehidupan kampus, baik dalam aspek ibadah, keilmuan, maupun sosial. Dengan semangat kebersamaan, KKI FH Undip 2025 melalui Kabinet Pilar Kebaikan berkomitmen untuk menjadi wadah dakwah yang inspiratif dan memberikan manfaat bagi seluruh civitas akademika Fakultas Hukum Universitas Diponegoro.
+            </div>
+
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/mitra-kerja2/teater.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">THEMIS</div>
+            <div class="des">
+              Unit Kegiatan Mahasiswa Fakultas (UKM-F) Teater Themis adalah Organisasi di Fakultas Hukum Universitas Diponegoro yang berfokus pada pengembangan minat dan bakat di bidang seni khususnya teater, baik dalam hal keaktoran, penulisan naskah, hingga manajemen produksi teater. Selain itu, Teater Themis juga mewadahi anggotanya untuk mengasah bakat seni lainnya, seperti seni rupa, musik, dan lain-lainnya.
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">THEMIS</div>
+            <div class="des">
+              Unit Kegiatan Mahasiswa Fakultas (UKM-F) Teater Themis adalah Organisasi di Fakultas Hukum Universitas Diponegoro yang berfokus pada pengembangan minat dan bakat di bidang seni khususnya teater, baik dalam hal keaktoran, penulisan naskah, hingga manajemen produksi teater. Selain itu, Teater Themis juga mewadahi anggotanya untuk mengasah bakat seni lainnya, seperti seni rupa, musik, dan lain-lainnya.
+            </div>
+
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/mitra-kerja2/pmk.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">PMK</div>
+            <div class="des">
+              PMK FH UNDIP adalah Persekutuan Mahasiswa Kristen Fakultas Hukum Universitas Diponegoro, sebuah komunitas yang menjadi wadah bagi mahasiswa Kristen untuk bertumbuh dalam iman, mempererat kebersamaan, serta mengaplikasikan nilai-nilai Kristiani dalam kehidupan akademik dan sosial. Sebagai Unit Pelaksana Kegiatan yang bersifat independen, PMK FH UNDIP tidak terikat dengan gereja, organisasi, atau lembaga mana pun, tetapi tetap berlandaskan pada ajaran Yesus Kristus, terutama Amanat Agung yang menekankan pentingnya pemberitaan Injil, serta Hukum Kasih yang mengajarkan kasih kepada Tuhan dan sesama sebagai inti kehidupan Kristen.
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">PMK</div>
+            <div class="des">
+              PMK FH UNDIP adalah Persekutuan Mahasiswa Kristen Fakultas Hukum Universitas Diponegoro, sebuah komunitas yang menjadi wadah bagi mahasiswa Kristen untuk bertumbuh dalam iman, mempererat kebersamaan, serta mengaplikasikan nilai-nilai Kristiani dalam kehidupan akademik dan sosial. Sebagai Unit Pelaksana Kegiatan yang bersifat independen, PMK FH UNDIP tidak terikat dengan gereja, organisasi, atau lembaga mana pun, tetapi tetap berlandaskan pada ajaran Yesus Kristus, terutama Amanat Agung yang menekankan pentingnya pemberitaan Injil, serta Hukum Kasih yang mengajarkan kasih kepada Tuhan dan sesama sebagai inti kehidupan Kristen. Lebih dari sekadar komunitas rohani, PMK FH UNDIP berfungsi sebagai tempat pembinaan iman, pengembangan wawasan, serta penguatan karakter bagi mahasiswa Kristen agar mereka dapat menjadi individu yang berintegritas dan memiliki dampak positif bagi lingkungan sekitarnya. Organisasi ini tidak hanya mendorong pertumbuhan spiritual, tetapi juga mendukung anggotanya dalam menghadapi tantangan dunia akademik serta membekali mereka dengan nilai-nilai kepemimpinan dan tanggung jawab sosial.
+            </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/mitra-kerja2/psdm.png">
+          <div class="introduce">
+            <div class="title">BEM FH</div>
+            <div class="topic">PSDM</div>
+            <div class="des">
+              Bidang Pengembangan Sumber Daya Mahasiswa Badan Eksekutif Mahasiswa Fakultas Hukum Universitas Diponegoro (PSDM BEM FH Undip) adalah garda terdepan kaderisasi dalam hal pembentukan, pembinaan, dan pengkaryaan mahasiswa. Tujuannya adalah untuk meningkatkan dan mempertahankan kualitas sumber daya
+              mahasiswa di Fakultas Hukum, serta mewujudkan sumber daya manusia yang unggul dan berkarakter dengan berorientasi pada nilai-nilai karakter mahasiswa yang terstruktur dan berkelanjutan. Bidang PSDM BEM FH Undip 2025 memiliki 3 (tiga) divisi bidang dan
+              4 (empat) program kerja.
+
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">PSDM</div>
+            <div class="des">
+              Bidang Pengembangan Sumber Daya Mahasiswa Badan Eksekutif Mahasiswa Fakultas Hukum Universitas Diponegoro (PSDM BEM FH Undip) adalah garda terdepan kaderisasi dalam hal pembentukan, pembinaan, dan pengkaryaan mahasiswa. Tujuannya adalah untuk meningkatkan dan mempertahankan kualitas sumber daya
+              mahasiswa di Fakultas Hukum, serta mewujudkan sumber daya manusia yang unggul dan berkarakter dengan berorientasi pada nilai-nilai karakter mahasiswa yang terstruktur dan berkelanjutan. Bidang PSDM BEM FH Undip 2025 memiliki 3 (tiga) divisi bidang dan
+              4 (empat) program kerja.
+            </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/mitra-kerja2/prmk.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">PRMK</div>
+            <div class="des">
+              Pelayanan Rohani Mahasiswa Katolik atau yang lebih akrab disapa PRMK merupakan salah satu UKM yang berdiri di Universitas Diponegoro. PRMK FH UNDIP sendiri merupakan UKM yang mewadahi pengembangan minat dan bakat di bidang kerohanian katolik. Bertujuan untuk memperdalam iman Katolik dan mengembangkan potensi rohani mahasiswa khususnya mahasiswa dalam lingkup FH di UNDIP
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">PRMK</div>
+            <div class="des">
+              Pelayanan Rohani Mahasiswa Katolik atau yang lebih akrab disapa PRMK merupakan salah satu UKM yang berdiri di Universitas Diponegoro. PRMK FH UNDIP sendiri merupakan UKM yang mewadahi pengembangan minat dan bakat di bidang kerohanian katolik. Bertujuan untuk memperdalam iman Katolik dan mengembangkan potensi rohani mahasiswa khususnya mahasiswa dalam lingkup FH di UNDIP
+            </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/mitra-kerja2/bola.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">Bola</div>
+            <div class="des">
+              Fakultas Hukum Universitas Diponegoro memiliki berbagai organisasi mahasiswa yang bertujuan sebagai wadah untuk memfasilitasi mahasiswa Fakultas Hukum itu sendiri. Unit Kegiatan Mahasiswa Bola FH Universitas Diponegoro yang selanjutnya disingkat UKM – F Bola FH Undip merupakan salah satu unit pelaksana kegiatan di lingkup Fakultas Hukum Universitas Diponegoro yang mewadahi pengembangan minat dan bakat di bidang olahraga sepakbola dan futsal. Adapun dasar pembentukan UKM ini dilatarbelakangi oleh tingginya minat mahasiswa fakultas Hukum Universitas Diponegoro terhadap bola khususnya sepak bola dan futsal. 
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">Bola</div>
+            <div class="des">
+              Fakultas Hukum Universitas Diponegoro memiliki berbagai organisasi mahasiswa yang bertujuan sebagai wadah untuk memfasilitasi mahasiswa Fakultas Hukum itu sendiri. Unit Kegiatan Mahasiswa Bola FH Universitas Diponegoro yang selanjutnya disingkat UKM – F Bola FH Undip merupakan salah satu unit pelaksana kegiatan di lingkup Fakultas Hukum Universitas Diponegoro yang mewadahi pengembangan minat dan bakat di bidang olahraga sepakbola dan futsal. Adapun dasar pembentukan UKM ini dilatarbelakangi oleh tingginya minat mahasiswa fakultas Hukum Universitas Diponegoro terhadap bola khususnya sepak bola dan futsal. UKM F ini didukung, diarahkan serta didorong dari pihak Dekanat Fakultas Hukum Undip yang juga mendukung para mahasiswa berkompetisi selain dari bidang akademik harus juga dalam bidang non – akademik. Tujuan utama dari UKM F Bola Fakultas Hukum Undip yaitu sebagai wadah bagi mahasiswa agar minat dan bakat nya dapat tersalurkan dengan baik dan harapannya sampi pada generasi selanjutnya. Pada tahun ini, UKM – F Bola FH Universitas Diponegoro membawa program – program kerja yang yang menarik seperti Ormawa Cup, Bola Berbagi, Malam Akrab, Gugus Cup, Bincang Bola dan Piala Hukum.
+            </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/mitra-kerja2/bola.png">
+          <div class="introduce">
+            <div class="title">BEM FH</div>
+            <div class="topic">EKOTIF</div>
+            <div class="des">
+              Bidang Ekonomi Kreatif BEM FH Undip 2025 merupakan sebuah bidang yang bertujuan sebagai wadah bagi Mahasiswa FH Undip yang memiliki Minat & Potensi di dalam dunia Ekonomi, Bisnis, dan Kewirausahaan.
+              EKOTIF BEM FH Undip 2025 hadir sebagai motor penggerak untuk memanaskan iklim kewirausahaan di lingkungan FH Undip, meningkatkan sense of crisis Mahasiswa FH Undip seputar isu hukum yang bersinggungan dengan perekonomian, dan menjadi salah satu sumber utama pendanaan bagi BEM FH Undip,
+              dst.
+
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">EKOTIF</div>
+            <div class="des">
+              Bidang Ekonomi Kreatif BEM FH Undip 2025 merupakan sebuah bidang yang bertujuan sebagai wadah bagi Mahasiswa FH Undip yang memiliki Minat & Potensi di dalam dunia Ekonomi, Bisnis, dan Kewirausahaan.
+              EKOTIF BEM FH Undip 2025 hadir sebagai motor penggerak untuk memanaskan iklim kewirausahaan di lingkungan FH Undip, meningkatkan sense of crisis Mahasiswa FH Undip seputar isu hukum yang bersinggungan dengan perekonomian, dan menjadi salah satu sumber utama pendanaan bagi BEM FH Undip,
+              dst.
+
+            </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/mitra-kerja2/bola.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">Bela Diri</div>
+            <div class="des">
+              UKM-F Bela Diri adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang merupakan sebuah organisasi ini berfokus terhadap pengembangan kemampuan bela diri dan karakter mahasiswa di ruang lingkup Fakultas Hukum Universitas Diponegoro. 
+              UKM-F Bela Diri terdiri dari 4 Cabang Olahraga yakni : Karate, ⁠Taekwondo, ⁠KickBoxing dan Silat.
+
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">Bela Diri</div>
+            <div class="des">
+              UKM-F Bela Diri adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang merupakan sebuah organisasi ini berfokus terhadap pengembangan kemampuan bela diri dan karakter mahasiswa di ruang lingkup Fakultas Hukum Universitas Diponegoro. UKM-F Bela Diri terdiri dari 4 Cabang Olahraga yakni : Karate, ⁠Taekwondo, ⁠KickBoxing dan Silat. 
+              Dalam keberjalanan UKM-F ini optimisme, konsistensi dan kerja keras para anggota UKM-F Bela Diri serta dukungan dari pihak Dekanat Fakultas Hukum Universitas Diponegoro telah membuat UKM-F Bela Diri berhasil mencetak banyak sekali delegasi-delegasi pertandingan di kancah tingkat Nasional sampai Internasional.
+              UKM-F Bela Diri telah membanggakan nama Fakultas Hukum Universitas Diponegoro disetiap partisipasinya dalam turnament-turnament yang telah mereka ikuti.
+
+            </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/mitra-kerja2/bola.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">PSM SDG</div>
+            <div class="des">
+              Paduan Suara Mahasiswa (PSM) Satya Dharma Gita Fakultas Hukum Universitas Diponegoro merupakan unit kegiatan mahasiswa yang bergerak di bidang seni vokal dan paduan suara. “Satya Dharma Gita“ mencerminkan semangat organisasi dalam berkarya dengan penuh dedikasi. Sejak awal berdiri, organisasi ini telah berkomitmen untuk meningkatkan kualitas musikalitas para anggotanya sehingga terus berkembang menjadi salah satu paduan suara terkemuka di tingkat nasional dan internasional. PSM SDG memperoleh prestasi gemilang belakangan ini, yaitu Juara Grand Prix pada 3rd Soegijapranata International Choir Competition 2024, Gold Medal di 1st Thailand International Choir Competition 2024, serta menjadi Finalis Grand Champion di 12th Bali International Choir Festival 2023. Selain aktif mengikuti perlombaan, PSM SDG juga berpartisipasi dalam acara-acara resmi universitas.
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">PSM SDG</div>
+            <div class="des">
+              Sejak 2001, PSM SDG telah aktif menyelenggarakan festival paduan suara bergengsi yaitu Satya Dharma Gita Choir Festival dan telah berlangsung sebanyak sembilan kali. Tahun 2025, SDGCF mengadakan edisi kesepuluh dengan skala internasional, yaitu The 10th Satya Dharma Gita International Choir Festival, menunjukkan komitmen PSM SDG untuk terus memperluas jangkauan dan meningkatkan kualitas acara. 
+              Tidak hanya berkomitmen pada kompetisi, tetapi juga pada pembangunan karakter anggota PSM SDG melalui disiplin, kreativitas dan kerja sama tim. Sebagai salah satu paduan suara terkemuka di Indonesia, PSM SDG bertekad untuk menjadi inspirasi bagi generasi muda dalam berkarya dan akan terus melangkah maju dengan semangat inovasi dan dedikasi tinggi.
+
+            </div>
+
+          </div>
+        </div>
+
+        
+      </div>
+      <div class="arrows">
+        <button id="prev">
+          < </button>
+            <button id="next">></button>
+            <button id="back">Lihat Semua &#8599</button>
+      </div>
+    </div>
+  </section>
+
   <section class="container">
     <h2 class="header">Anggota Komisi II</h2>
     <div class="anggota-4">
