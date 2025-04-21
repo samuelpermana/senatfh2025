@@ -177,6 +177,7 @@ section .header {
 .nav-logo {
   display: inline-flex;
   align-items: center; /* Mengatur vertikal ke tengah */
+  margin-left: 50px;
 }
 
 .nav-logo img {
@@ -189,8 +190,8 @@ section .header {
 }
 
 .nav-logo1 img {
-  max-width: 190px;
-  margin-left: -30px;
+  max-width: 100px;
+  margin-left: -40px;
 }
 
 .nav-title {
@@ -206,7 +207,8 @@ section .header {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2rem;
+  gap: 3rem;
+  margin-left: -50px;
 }
 
 .btn-as {
@@ -1248,9 +1250,7 @@ footer .column > a:hover {
   margin-left: 80px;
 }
 
-a {
-  text-decoration: none;
-}
+
 
 body {
   font-family: "Poppins", sans-serif;
@@ -1381,7 +1381,7 @@ section .header {
 }
 
 .nav-logo1 img {
-  max-width: 190px;
+  max-width: 100px;
   margin-left: -90px;
 }
 
@@ -2361,9 +2361,10 @@ footer .column > a:hover {
   background-color: #1d4ed8;
   font-size: 12px;
   font-weight: bold;
-  padding: 4px 8px;
+  padding: 6px 10px;
   margin: 0 8px;
   border-radius: 4px;
+  
 }
 
 .main-news .info h2 {

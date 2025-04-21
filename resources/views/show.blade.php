@@ -39,8 +39,10 @@
             @endforeach
         </div>
     </div>
-    <a class="btn1" href="{{ url("/beritamore") }}">More Berita</a>
-    
-</section>
+    </section>
+    <div class="btn-wrapper">
+        <a class="btn1" href="{{ url('/beritamore') }}">More Berita</a>
+      </div>
+      
 
 @endsection 

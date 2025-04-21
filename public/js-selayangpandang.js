@@ -5,17 +5,17 @@ const prevBtn = document.querySelector(".prev");
 let index = 0;
 
 function showSlide(i) {
-  if (i >= slides.length) index = 0;
-  if (i < 0) index = slides.length - 1;
-  slider.style.transform = `translateX(${-index * 100}%)`;
+  if (i >= slides.length) index = 0; // Reset to first slide
+  if (i < 0) index = slides.length - 1; // Go to last slide if index is negative
+  slider.style.transform = `translateX(${-index * 100}%)`; // Adjust slider position
 }
 
 nextBtn.addEventListener("click", () => {
   index++;
-  showSlide(index);
+  showSlide(index); // Move to the next slide
 });
 
 prevBtn.addEventListener("click", function () {
-  let items = document.querySelectorAll(".item");
-  document.querySelector(".slide").prepend(items[items.length - 1]); // here the length of items = 6
+  index--;
+  showSlide(index); // Move to the previous slide
 });

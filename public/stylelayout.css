@@ -551,8 +551,9 @@ footer .column > a:hover {
 }
 
 .logo1-2 img {
-  max-height: 220px; /* atur ukuran sesuai kebutuhan */
-  margin-left: -0.2rem;
+  max-height: 110px; /* atur ukuran sesuai kebutuhan */
+  margin-left: 20px;
+  
 }
 
 @media (width < 1000px) {

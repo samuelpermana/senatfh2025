@@ -83,6 +83,9 @@ Route::get('/tentang-badan-kehormatan', [AgendaWebController::class, 'badanKehor
 Route::get('/tentang-badan-legislasi', [AgendaWebController::class, 'badanLegislasi'])->name('tentang.badanLegislasi');
 Route::get('/tentang-bksap', [AgendaWebController::class, 'Bksap'])->name('tentang.bksap');
 Route::get('/tentang-burt', [AgendaWebController::class, 'burt'])->name('tentang.burt');
+Route::get('/pimpinaninti', function () {
+    return view('pimpinaninti');
+});
 
 
 
@@ -162,6 +165,7 @@ Route::group([
 });
 
 // ======================== END CMS ==================================
+// ======================== pimpinan inti ============================
 
 // ========================---------- KOMISI ----------==================================
 // ======================== KOMISI I==================================

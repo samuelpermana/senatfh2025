@@ -117,7 +117,7 @@
         serta menyampaikan aspirasi dan gagasan Anda untuk kemajuan bersama.
         Terima kasih telah mengunjungi situs web Senat FH Undip. Mari bersama-sama menciptakan lingkungan belajar yang inspiratif dan berdaya saing tinggi bagi mahasiswa FH Undip.Viva Legislativa!
       </p>
-      <a class="btn" href="{{ url("/selayangpandang#makna-logo") }}">Makna Logo</a>
+      <a class="btn" href="{{ url("/selayangpandang#makna-logoparlemen") }}">Makna Logo</a>
     </div>
     <div class="logo-container">
       <img src="img/kabinetridho.png" alt="Logo Api">

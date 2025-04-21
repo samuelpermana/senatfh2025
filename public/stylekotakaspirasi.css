@@ -41,6 +41,7 @@ nav {
 .nav-logo {
   display: inline-flex;
   align-items: center; /* Mengatur vertikal ke tengah */
+  margin-left: 50px;
 }
 
 .nav-logo img {
@@ -48,8 +49,8 @@ nav {
 }
 
 .nav-logo1 img {
-  max-width: 190px;
-  margin-left: -30px;
+  max-width: 100px;
+  margin-left: -90px;
 }
 
 .nav-title {
@@ -66,6 +67,7 @@ nav {
   align-items: center;
   justify-content: center;
   gap: 2rem;
+  margin-left: -50px;
 }
 
 .container {
@@ -151,7 +153,7 @@ nav {
 
 #contact button {
   padding: 10px 20px;
-  background: #18181b;
+  background: #2b5c6b;
   color: #fff;
   border: none;
   border-radius: 3px;

@@ -149,18 +149,24 @@ h1 {
     font-size: 14px;
 }
 
-.btn1{
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh; /* atau sesuai kebutuhan tinggi container */
+}
+
+.btn1 {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
     background: #2B5C6B;
     border-radius: 5px;
     cursor: pointer;
-    transition: all 0.3sease;
-    margin: 0 ;
-    align-items: center;
-    justify-content: center;
+    transition: all 0.3s ease; /* perbaiki typo '0.3sease' */
+    text-decoration: none; /* hilangkan underline */
 }
+
 
 /* ======== Responsiveness ======== */
 @media (max-width: 768px) {

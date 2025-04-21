@@ -160,7 +160,7 @@
             <img src="/img/coba1.png" alt="Logo 1">
           </div>
           <div class="logo1-2">
-            <img src="/img/meraki1.png" alt="Logo 2">
+            <img src="/img/merakiungu.png" alt="Logo 2">
           </div>
         </div>
         <p>SENAT MAHASISWA FAKULTAS HUKUM UNDIP</p>

@@ -105,7 +105,7 @@
       <div class="custom-slider">
         <div class="custom-slides">
           <div class="custom-slide">
-            <div class="custom-image">
+            <div class="custom-image" id="makna-logoparlemen">
               <img src="img/kabinetridho.png" />
             </div>
             <h1 class="custom-header1">MAKNA LOGO</h1>
@@ -196,6 +196,13 @@
     <h1 class="j-header">ALAT KELENGKAPAN</h1>
     <div class="slider-container">
       <div class="slider">
+        <div class="slide-item" style="background-image: url(/img/pimpinan-inti/foto-grup/IMG_3546.JPG);">
+          <div class="content9">
+            <div class="name">PIMPINAN INTI</div>
+            <div class="des">Komisi I adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
+            <a href="{{ url("/pimpinaninti") }}"><button>Selengkapnya</button></a>
+          </div>
+        </div>
         <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-1.jpg);">
           <div class="content9">
             <div class="name">KOMISI I</div>
