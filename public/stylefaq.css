@@ -62,15 +62,6 @@ nav {
   font-weight: 600;
   align-items: center; /* Mengatur vertikal ke tengah */
 }
-.nav-links {
-  list-style: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 2rem;
-  margin-left: -50px;
-
-}
 
 .container {
   max-width: 1200px;

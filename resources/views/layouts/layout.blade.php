@@ -114,14 +114,10 @@
         <a href="{{ url("/") }}">
           <img src="/img/coba1.png" alt="Logo">
         </a>
-      </div>
-
-      <div class="nav-logo1">
         <a href="{{ url("/") }}">
           <img src="/img/kabinetridho.png" alt="Logo">
         </a>
       </div>
-
       <div c>
         <ul class="nav-links">
           <li class="link"><a href="{{ url("/") }}">Home</a></li>
@@ -219,6 +215,33 @@
         }
       });
     });
+  </script>
+  <script>
+    const showMenu = (headerToggle, navbarId) => {
+      const toggleBtn = document.getElementById(headerToggle),
+        nav = document.getElementById(navbarId);
+
+      // Validate that variables exist
+      if (toggleBtn && nav) {
+        toggleBtn.addEventListener('click', () => {
+          // Toggle the show-menu class
+          nav.classList.toggle('show-menu');
+          // Change icon
+          toggleBtn.classList.toggle('bx-x');
+        });
+      }
+    };
+    showMenu('header-toggle', 'navbar');
+
+    /*==================== LINK ACTIVE ====================*/
+    const linkColor = document.querySelectorAll('.nav-links');
+
+    function colorLink() {
+      linkColor.forEach(l => l.classList.remove('active'));
+      this.classList.add('active');
+    }
+
+    linkColor.forEach(l => l.addEventListener('click', colorLink));
   </script>
 
 </html>
