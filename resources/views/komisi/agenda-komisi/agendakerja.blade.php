@@ -69,5 +69,6 @@
         </section>
     </main>
     <script src={{asset("script5.js")}}></script>
+    <script src={{asset("js-peminjamanruangan.js")}}></script>
 
     @endsection
