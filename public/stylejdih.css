@@ -429,7 +429,7 @@ footer .column > a:hover {
     display: none;
   }
   .features-JD {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);  
   }
 }
 

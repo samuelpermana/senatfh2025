@@ -209,6 +209,7 @@
 
           </div>
         </div>
+
         <div class="item">
           <img src="img/mitra-kerja2/psdm.png">
           <div class="introduce">
@@ -232,6 +233,7 @@
 
           </div>
         </div>
+
         <div class="item">
           <img src="img/mitra-kerja2/prmk.png">
           <div class="introduce">
@@ -250,6 +252,7 @@
 
           </div>
         </div>
+
         <div class="item">
           <img src="img/mitra-kerja2/bola.png">
           <div class="introduce">
@@ -268,8 +271,9 @@
 
           </div>
         </div>
+
         <div class="item">
-          <img src="img/mitra-kerja2/bola.png">
+          <img src="img/mitra-kerja2/ekotif.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
             <div class="topic">EKOTIF</div>
@@ -292,8 +296,9 @@
 
           </div>
         </div>
+
         <div class="item">
-          <img src="img/mitra-kerja2/bola.png">
+          <img src="img/mitra-kerja2/beladiri.png">
           <div class="introduce">
             <div class="title">UKM-F</div>
             <div class="topic">Bela Diri</div>
@@ -315,8 +320,9 @@
 
           </div>
         </div>
+        
         <div class="item">
-          <img src="img/mitra-kerja2/bola.png">
+          <img src="img/mitra-kerja2/sdg.png">
           <div class="introduce">
             <div class="title">UKM-F</div>
             <div class="topic">PSM SDG</div>
@@ -355,7 +361,7 @@
           <img class="img-coba" src="img/komisi-2/ketua/Kms M Fadhlurrohman Fayyadh.jpg" />
         </div>
         <div class="content1">
-          <h2>Kms M Fadhlurrohman Fayyadh</h2>
+          <h2>Kms. M. Fadhlurrohman Fayyadh</h2>
           <p class="deskripsi">
             Ketua Komisi</br>FH UNDIP 2022
           </p>
@@ -366,7 +372,7 @@
           <img class="img-coba" src="img/komisi-2/senator/Dayinda Shofia Nabila.jpg" />
         </div>
         <div class="content1">
-          <h2>Dayinda Shofia Nabila</h2>
+          <h2>Dayinta Shofia Nabila</h2>
           <p class="deskripsi">
             Senator Anggota</br>FH UNDIP 2022
           </p>

@@ -115,7 +115,7 @@
     <div class="carousel">
       <div class="list">
         <div class="item">
-          <img src="img/mitra-kerja4/advo.png">
+          <img src="img/mitra-kerja4/bemadvo.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
             <div class="topic">ADVO KESMA</div>
@@ -134,7 +134,7 @@
         </div>
 
         <div class="item">
-          <img src="img/mitra-kerja4/kapro.png">
+          <img src="img/mitra-kerja4/bemkapro.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
             <div class="topic">KAPRO</div>

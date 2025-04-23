@@ -74,16 +74,17 @@
             <div class="title">UKM-F</div>
             <div class="topic">KSHI</div>
             <div class="des">
-              Kelompok Studi Hukum Islam, Kelompok Studi Hukum Islam adalah organisasi yang merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang independen dan profesional dalam bidang pengkajian dan penelitian yang berfokus kepada hukum Islam dan hukum kontemporer sebagai sarana sosialisasi di kalangan civitas akademika FH Undip dan masyarakat. KSHI FH Undip didirikan pada tanggal 15 Juni 2000 di Fakultas Hukum Universitas Diponegoro, Semarang, Jawa Tengah.
+              Kelompok Studi Hukum Islam, Kelompok Studi Hukum Islam adalah organisasi yang merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang independen dan profesional dalam bidang pengkajian dan penelitian yang berfokus kepada hukum
+              Islam dan hukum kontemporer sebagai sarana sosialisasi di kalangan civitas akademika FH Undip dan masyarakat. KSHI FH Undip didirikan pada tanggal 15 Juni 2000 di Fakultas Hukum Universitas Diponegoro, Semarang, Jawa Tengah.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
           <div class="detail">
             <div class="title">KSHI</div>
             <div class="des">
-              Kelompok Studi Hukum Islam, Kelompok Studi Hukum Islam adalah organisasi yang merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang independen dan profesional dalam bidang pengkajian dan penelitian yang berfokus kepada hukum Islam dan hukum kontemporer sebagai sarana sosialisasi di kalangan civitas akademika FH Undip dan masyarakat. KSHI FH Undip didirikan pada tanggal 15 Juni 2000 di Fakultas Hukum Universitas Diponegoro, Semarang, Jawa Tengah.
+              Kelompok Studi Hukum Islam, Kelompok Studi Hukum Islam adalah organisasi yang merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang independen dan profesional dalam bidang pengkajian dan penelitian yang berfokus kepada hukum
+              Islam dan hukum kontemporer sebagai sarana sosialisasi di kalangan civitas akademika FH Undip dan masyarakat. KSHI FH Undip didirikan pada tanggal 15 Juni 2000 di Fakultas Hukum Universitas Diponegoro, Semarang, Jawa Tengah.
             </div>
-
           </div>
         </div>
 
@@ -93,16 +94,18 @@
             <div class="title">UKM-F</div>
             <div class="topic">KSBA</div>
             <div class="des">
-              Kelompok Studi Bahasa Asing atau biasa dikenal dengan KSBA merupakan salah satu Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berada di bawah naungan Fakultas Hukum Universitas Diponegoro (FH UNDIP) dan telah berdiri sejak tanggal 9 Januari 1999. Visi dari KSBA adalah menumbuhkan dan mengembangkan wawasan anggota KSBA FH UNDIP mengenai bahasa dan budaya asing, serta kepekaan terhadap isu-isu hukum.
+              Kelompok Studi Bahasa Asing atau biasa dikenal dengan KSBA merupakan salah satu Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berada di bawah naungan Fakultas Hukum Universitas Diponegoro (FH UNDIP) dan telah berdiri sejak
+              tanggal 9 Januari 1999. Visi dari KSBA adalah menumbuhkan dan mengembangkan wawasan anggota KSBA FH UNDIP mengenai bahasa dan budaya asing, serta kepekaan terhadap isu-isu hukum.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
           <div class="detail">
             <div class="title">KSBA</div>
             <div class="des">
-              Kelompok Studi Bahasa Asing atau biasa dikenal dengan KSBA merupakan salah satu Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berada di bawah naungan Fakultas Hukum Universitas Diponegoro (FH UNDIP) dan telah berdiri sejak tanggal 9 Januari 1999. Visi dari KSBA adalah menumbuhkan dan mengembangkan wawasan anggota KSBA FH UNDIP mengenai bahasa dan budaya asing, serta kepekaan terhadap isu-isu hukum. Dengan demikian, fokus dari organisasi ini adalah pada diskusi, kajian dan pengembangan yang berkaitan dengan bahasa serta kebudayaan asing yang juga berhubungan dengan permasalahan-permasalahan hukum secara nasional maupun internasional.
+              Kelompok Studi Bahasa Asing atau biasa dikenal dengan KSBA merupakan salah satu Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berada di bawah naungan Fakultas Hukum Universitas Diponegoro (FH UNDIP) dan telah berdiri sejak
+              tanggal 9 Januari 1999. Visi dari KSBA adalah menumbuhkan dan mengembangkan wawasan anggota KSBA FH UNDIP mengenai bahasa dan budaya asing, serta kepekaan terhadap isu-isu hukum. Dengan demikian, fokus dari organisasi ini adalah
+              pada diskusi, kajian dan pengembangan yang berkaitan dengan bahasa serta kebudayaan asing yang juga berhubungan dengan permasalahan-permasalahan hukum secara nasional maupun internasional.
             </div>
-
           </div>
         </div>
 
@@ -112,14 +115,16 @@
             <div class="title">BEM FH</div>
             <div class="topic">Riskel</div>
             <div class="des">
-              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan Bidang roda penggerak kaderisasi riset dan wadah bagi mahasiswa dalam mengembangkan potensi riset guna menciptakan mahasiswa/i FH Undip yang intelek di ranah riset dan keilmuan untuk menciptakan iklim riset yang optimal demi kebermanfaatan FH Undip, Undip, dan masyarakat.
+              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan Bidang roda penggerak kaderisasi riset dan wadah bagi mahasiswa dalam mengembangkan potensi riset guna menciptakan mahasiswa/i FH Undip yang intelek di ranah riset dan
+              keilmuan untuk menciptakan iklim riset yang optimal demi kebermanfaatan FH Undip, Undip, dan masyarakat.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">Riskel</div>
             <div class="des">
-              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan Bidang roda penggerak kaderisasi riset dan wadah bagi mahasiswa dalam mengembangkan potensi riset guna menciptakan mahasiswa/i FH Undip yang intelek di ranah riset dan keilmuan untuk menciptakan iklim riset yang optimal demi kebermanfaatan FH Undip, Undip, dan masyarakat.
+              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan Bidang roda penggerak kaderisasi riset dan wadah bagi mahasiswa dalam mengembangkan potensi riset guna menciptakan mahasiswa/i FH Undip yang intelek di ranah riset dan
+              keilmuan untuk menciptakan iklim riset yang optimal demi kebermanfaatan FH Undip, Undip, dan masyarakat.
             </div>
 
           </div>
@@ -131,14 +136,19 @@
             <div class="title">UKM-F</div>
             <div class="topic">ALSA</div>
             <div class="des">
-              Asian Law Students’ Association adalah organisasi non-politik dan non-profit yang menyambut keragaman budaya, memajukan profesionalisme, serta etos kerja keras yang merupakan ciri khas orang Asia. ALSA akan terus berkembang sebagai wadah bagi mahasiswa hukum yang cerdas dan berkembang sebagai pemimpin masa depan serta pemain kunci dari perkembangan hukum di Asia.
+              Asian Law Students’ Association adalah organisasi non-politik dan non-profit yang menyambut keragaman budaya, memajukan profesionalisme, serta etos kerja keras yang merupakan ciri khas orang Asia. ALSA akan terus berkembang
+              sebagai wadah bagi mahasiswa hukum yang cerdas dan berkembang sebagai pemimpin masa depan serta pemain kunci dari perkembangan hukum di Asia.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">ALSA</div>
             <div class="des">
-              Asian Law Students’ Association adalah organisasi non-politik dan non-profit yang menyambut keragaman budaya, memajukan profesionalisme, serta etos kerja keras yang merupakan ciri khas orang Asia. ALSA akan terus berkembang sebagai wadah bagi mahasiswa hukum yang cerdas dan berkembang sebagai pemimpin masa depan serta pemain kunci dari perkembangan hukum di Asia. Globalisasi membuat pembentukan organisasi ini menjadi penting saat itu, dimana perbedaan sistem hukum di negara masing-masing anggota perlu dipersatukan untuk mempersiapkan mahasiswa hukum di seluruh Asia agar dapat bersaing dalam era tersebut.ALSA Local Chapter Universitas Diponegoro (ALSA LC Undip) merupakan salah satu Local Chapter di Indonesia dan merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) dalam lingkup Fakultas Hukum Universitas Diponegoro yang berdiri pada tanggal 1 Juni 1994. Setelah 3 dekade berdiri, tepatnya sudah berumur 30 tahun, ALSA LC Undip secara nyata telah memberi kontribusi baik bagi Civitas Akademika Fakultas Hukum Universitas Diponegoro maupun masyarakat secara luas.
+              Asian Law Students’ Association adalah organisasi non-politik dan non-profit yang menyambut keragaman budaya, memajukan profesionalisme, serta etos kerja keras yang merupakan ciri khas orang Asia. ALSA akan terus berkembang
+              sebagai wadah bagi mahasiswa hukum yang cerdas dan berkembang sebagai pemimpin masa depan serta pemain kunci dari perkembangan hukum di Asia. Globalisasi membuat pembentukan organisasi ini menjadi penting saat itu, dimana
+              perbedaan sistem hukum di negara masing-masing anggota perlu dipersatukan untuk mempersiapkan mahasiswa hukum di seluruh Asia agar dapat bersaing dalam era tersebut.ALSA Local Chapter Universitas Diponegoro (ALSA LC Undip)
+              merupakan salah satu Local Chapter di Indonesia dan merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) dalam lingkup Fakultas Hukum Universitas Diponegoro yang berdiri pada tanggal 1 Juni 1994. Setelah 3 dekade berdiri, tepatnya
+              sudah berumur 30 tahun, ALSA LC Undip secara nyata telah memberi kontribusi baik bagi Civitas Akademika Fakultas Hukum Universitas Diponegoro maupun masyarakat secara luas.
             </div>
 
           </div>
@@ -150,20 +160,42 @@
             <div class="title">UKM-F</div>
             <div class="topic">Pseudo</div>
             <div class="des">
-              UKM-F Pseudorechtspraak merupakan salah satu Unit Kegiatan Mahasiswa Fakultas di lingkungan Fakultas Hukum Universitas Diponegoro yang bergerak pada bidang riset dan keilmuan, khususnya pada bidang hukum praktis. Pseudorechtspraak sendiri bermakna peradilan semu yang diambil dari bahasa belanda (rechtspraak: peradilan) dan bahasa latin (pseudo: semu).
+              UKM-F Pseudorechtspraak merupakan salah satu Unit Kegiatan Mahasiswa Fakultas di lingkungan Fakultas Hukum Universitas Diponegoro yang bergerak pada bidang riset dan keilmuan, khususnya pada bidang hukum praktis.
+              Pseudorechtspraak sendiri bermakna peradilan semu yang diambil dari bahasa belanda (rechtspraak: peradilan) dan bahasa latin (pseudo: semu).
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">Pseudo</div>
             <div class="des">
-              UKM-F Pseudorechtspraak merupakan salah satu Unit Kegiatan Mahasiswa Fakultas di lingkungan Fakultas Hukum Universitas Diponegoro yang bergerak pada bidang riset dan keilmuan, khususnya pada bidang hukum praktis. Pseudorechtspraak sendiri bermakna peradilan semu yang diambil dari bahasa belanda (rechtspraak: peradilan) dan bahasa latin (pseudo: semu). Pseudorechtspraak berdedikasi untuk memberikan wadah kepada mahasiswa Fakultas Hukum Universitas Diponegoro untuk belajar dan berproses dengan nilai kekeluargaan yang tinggi mengasah ketrampilan dalam berpraktik hukum baik dalam ranah litigasi maupun non litigasi sehingga dapat menghasilkan insan hukum yang berkualitas dan berkompeten untuk memberikan manfaat kepada masyarakat luas sebagai generasi hukum masa depan.
+              UKM-F Pseudorechtspraak merupakan salah satu Unit Kegiatan Mahasiswa Fakultas di lingkungan Fakultas Hukum Universitas Diponegoro yang bergerak pada bidang riset dan keilmuan, khususnya pada bidang hukum praktis.
+              Pseudorechtspraak sendiri bermakna peradilan semu yang diambil dari bahasa belanda (rechtspraak: peradilan) dan bahasa latin (pseudo: semu). Pseudorechtspraak berdedikasi untuk memberikan wadah kepada mahasiswa Fakultas Hukum
+              Universitas Diponegoro untuk belajar dan berproses dengan nilai kekeluargaan yang tinggi mengasah ketrampilan dalam berpraktik hukum baik dalam ranah litigasi maupun non litigasi sehingga dapat menghasilkan insan hukum yang
+              berkualitas dan berkompeten untuk memberikan manfaat kepada masyarakat luas sebagai generasi hukum masa depan.
             </div>
 
           </div>
         </div>
 
-        
+        <div class="item">
+          <img src="img/mitra-kerja1/krd.png">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">KRD</div>
+            <div class="des">
+              belom ada
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">Pseudo</div>
+            <div class="des">
+              belom ada
+            </div>
+
+          </div>
+        </div>
+
       </div>
       <div class="arrows">
         <button id="prev">
@@ -231,7 +263,7 @@
         </div>
 
         <div class="content1">
-          <h2>Immanuerla Sharleen Baragita Panunggal</h2>
+          <h2>Immanuela Sharleen Baragita Panunggal</h2>
           <p class="deskripsi">
             Ketua Komisi I</br>FH UNDIP 2022
           </p>

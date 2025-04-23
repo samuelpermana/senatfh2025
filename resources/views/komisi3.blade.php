@@ -113,7 +113,7 @@
     <div class="carousel">
       <div class="list">
         <div class="item">
-          <img src="img/mitra-kerja3/gk.png">
+          <img src="img/mitra-kerja3/gema keadilan.png">
           <div class="introduce">
             <div class="title">UKM-F</div>
             <div class="topic">Gema Keadilan</div>
@@ -170,7 +170,7 @@
         </div>
 
         <div class="item">
-          <img src="img/mitra-kerja3/pp.png">
+          <img src="img/mitra-kerja3/2">
           <div class="introduce">
             <div class="title">UKM-F</div>
             <div class="topic">Pemberdaya Perempuan</div>
