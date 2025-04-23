@@ -74,8 +74,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">KSHI</div>
             <div class="des">
-              Kelompok Studi Hukum Islam, Kelompok Studi Hukum Islam adalah organisasi yang merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang independen dan profesional dalam bidang pengkajian dan penelitian yang berfokus kepada hukum
-              Islam dan hukum kontemporer sebagai sarana sosialisasi di kalangan civitas akademika FH Undip dan masyarakat. KSHI FH Undip didirikan pada tanggal 15 Juni 2000 di Fakultas Hukum Universitas Diponegoro, Semarang, Jawa Tengah.
+              KSHI FH Undip adalah UKM-F independen dan profesional yang fokus pada kajian hukum Islam dan kontemporer sebagai sarana sosialisasi di lingkungan FH Undip dan masyarakat. Didirikan pada 15 Juni 2000.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
@@ -94,8 +93,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">KSBA</div>
             <div class="des">
-              Kelompok Studi Bahasa Asing atau biasa dikenal dengan KSBA merupakan salah satu Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berada di bawah naungan Fakultas Hukum Universitas Diponegoro (FH UNDIP) dan telah berdiri sejak
-              tanggal 9 Januari 1999. Visi dari KSBA adalah menumbuhkan dan mengembangkan wawasan anggota KSBA FH UNDIP mengenai bahasa dan budaya asing, serta kepekaan terhadap isu-isu hukum.
+              KSBA (Kelompok Studi Bahasa Asing) adalah UKM-F di bawah FH Undip sejak 9 Januari 1999 yang berfokus pada pengembangan wawasan bahasa, budaya asing, dan isu hukum bagi anggotanya.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
@@ -115,8 +113,8 @@
             <div class="title">BEM FH</div>
             <div class="topic">Riskel</div>
             <div class="des">
-              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan Bidang roda penggerak kaderisasi riset dan wadah bagi mahasiswa dalam mengembangkan potensi riset guna menciptakan mahasiswa/i FH Undip yang intelek di ranah riset dan
-              keilmuan untuk menciptakan iklim riset yang optimal demi kebermanfaatan FH Undip, Undip, dan masyarakat.
+              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan motor penggerak kaderisasi riset dan wadah pengembangan potensi mahasiswa di bidang riset dan keilmuan, guna menciptakan iklim riset yang intelek dan berdampak bagi FH Undip,
+              Undip, dan masyarakat.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
@@ -136,8 +134,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">ALSA</div>
             <div class="des">
-              Asian Law Students’ Association adalah organisasi non-politik dan non-profit yang menyambut keragaman budaya, memajukan profesionalisme, serta etos kerja keras yang merupakan ciri khas orang Asia. ALSA akan terus berkembang
-              sebagai wadah bagi mahasiswa hukum yang cerdas dan berkembang sebagai pemimpin masa depan serta pemain kunci dari perkembangan hukum di Asia.
+              Asian Law Students’ Association (ALSA) adalah organisasi non-politik dan non-profit yang mewadahi mahasiswa hukum Asia untuk tumbuh sebagai profesional, pemimpin masa depan, dan aktor kunci dalam perkembangan hukum di Asia.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
@@ -183,14 +180,18 @@
             <div class="title">UKM-F</div>
             <div class="topic">KRD</div>
             <div class="des">
-              belom ada
+              KRD FH Undip adalah UKM-F yang fokus pada pengembangan keilmuan, kompetisi, dan organisasi sejak 2009. KRD mewadahi mahasiswa dalam berbagai lomba hukum serta mendorong terbentuknya intelektual muda yang berdampak bagi
+              masyarakat.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">Pseudo</div>
             <div class="des">
-              belom ada
+              Kelompok Riset dan Debat Fakultas Hukum Universitas Diponegoro (KRD FH UNDIP) adalah unit kegiatan mahasiswa yang berorientasi pada pengembangan keilmuan, kompetisi, dan dinamika organisasi. KRD FH UNDIP berdiri sejak tahun 2009
+              dengan nama awal “Komunitas Riset dan Debat”. Keberjalanan KRD terus berorientasi dan memfokuskan dirinya demi menciptakan intelektual muda yang mampu memberikan dampak bagi masyarakat secara keseluruhan. Eksistensi KRD turut
+              menjadi sarana bagi para mahasiswa FH Undip untuk merasakan dunia kompetisi, meliputi debat hukum, penulisan hukum, contract drafting, legal opinion, dan perlombaan kajian hukum lainnya serta tidak hanya berfokus pada aspek
+              keilmuan, tetapi turut menjadi UKM-F keilmuan yang memberikan strategi serta fokus terhadap pengembangan skill organisasi.
             </div>
 
           </div>

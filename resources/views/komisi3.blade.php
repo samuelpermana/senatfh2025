@@ -118,14 +118,18 @@
             <div class="title">UKM-F</div>
             <div class="topic">Gema Keadilan</div>
             <div class="des">
-              Lembaga Pers Mahasiswa (LPM) Gema Keadilan yang merupakan salah satu unit kegiatan mahasiswa (UKM) tingkat fakultas dan merupakan UKM-F tertua yang ada di lingkup Fakultas Hukum Universitas Diponegoro. Lembaga pers mahasiswa berfungsi sebagai media informasi dalam lingkungan kampus, tempat untuk menyampaikan aspirasi, dan juga dapat sebagai sarana mengembangkan skill mahasiswa. Memiliki slogan aktif, dinamis, kritis, LPM Gema Keadilan memiliki tujuan sebagai wadah bagi mahasiswa/i untuk menyalurkan ide kreatif dalam bentuk tulisan dan melahirkan pikiran segar guna mengaktualisasikan diri dalam merespon permasalahan di masyarakat terutama di lingkungan Fakultas dan Universitas.
+              LPM Gema Keadilan FH Undip adalah UKM-F tertua yang berfungsi sebagai media informasi, tempat menyampaikan aspirasi, dan pengembangan skill mahasiswa. Dengan slogan "aktif, dinamis, kritis," LPM ini menjadi wadah untuk
+              menyalurkan ide kreatif dan merespon permasalahan di masyarakat, terutama di lingkungan fakultas dan universitas.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
           <div class="detail">
             <div class="title">Gema Keadilan</div>
             <div class="des">
-              Lembaga Pers Mahasiswa (LPM) Gema Keadilan yang merupakan salah satu unit kegiatan mahasiswa (UKM) tingkat fakultas dan merupakan UKM-F tertua yang ada di lingkup Fakultas Hukum Universitas Diponegoro. Lembaga pers mahasiswa berfungsi sebagai media informasi dalam lingkungan kampus, tempat untuk menyampaikan aspirasi, dan juga dapat sebagai sarana mengembangkan skill mahasiswa. Memiliki slogan aktif, dinamis, kritis, LPM Gema Keadilan memiliki tujuan sebagai wadah bagi mahasiswa/i untuk menyalurkan ide kreatif dalam bentuk tulisan dan melahirkan pikiran segar guna mengaktualisasikan diri dalam merespon permasalahan di masyarakat terutama di lingkungan Fakultas dan Universitas. Kontribusi LPM Gema Keadilan dalam melakukan kajian terhadap isu - isu yang terjadi di lingkup fakultas maupun universitas telah diakui oleh banyak pihak terutama dari kalangan mahasiswa.
+              Lembaga Pers Mahasiswa (LPM) Gema Keadilan yang merupakan salah satu unit kegiatan mahasiswa (UKM) tingkat fakultas dan merupakan UKM-F tertua yang ada di lingkup Fakultas Hukum Universitas Diponegoro. Lembaga pers mahasiswa
+              berfungsi sebagai media informasi dalam lingkungan kampus, tempat untuk menyampaikan aspirasi, dan juga dapat sebagai sarana mengembangkan skill mahasiswa. Memiliki slogan aktif, dinamis, kritis, LPM Gema Keadilan memiliki
+              tujuan sebagai wadah bagi mahasiswa/i untuk menyalurkan ide kreatif dalam bentuk tulisan dan melahirkan pikiran segar guna mengaktualisasikan diri dalam merespon permasalahan di masyarakat terutama di lingkungan Fakultas dan
+              Universitas. Kontribusi LPM Gema Keadilan dalam melakukan kajian terhadap isu - isu yang terjadi di lingkup fakultas maupun universitas telah diakui oleh banyak pihak terutama dari kalangan mahasiswa.
             </div>
 
           </div>
@@ -137,14 +141,18 @@
             <div class="title">UKM-F</div>
             <div class="topic">KDKS</div>
             <div class="des">
-              Kelompok Diskusi Kelas Sosial Fakultas Hukum Universitas Diponegoro (KDKS FH Undip) merupakan Unit Kegiatan Mahasiswa Fakultas Hukum yang secara resmi didirikan oleh Prof. Satjipto Rahardjo pada 21 Desember 2001. KDKS FH Undip awalnya ditujukan sebagai wadah untuk mengulas beragam permasalahan di tengah masyarakat yang disebabkan oleh perbedaan kelas sosial. Namun seiring berkembangnya waktu, arah gerak UKM-F ini menjadi melebar ke segala aspek kehidupan, sesuai dengan kebutuhan mahasiswa dan masyarakat. KDKS FH Undip melalui bidang-bidangnya, setidaknya memberikan wadah kepada mahasiswa agar bisa melakukan pengabdian, penelitian, pengembangan sumber daya, pengajaran, dan banyak hal lainnya. Dengan kata lain, walau dari segi penamaan UKM-F ini berkaitan erat dengan 'diskusi' dan 'sosial', beragam hal bisa dikembangkan melalui KDKS FH Undip.
+              KDKS FH Undip, yang didirikan pada 21 Desember 2001 oleh Prof. Satjipto Rahardjo, awalnya berfokus pada permasalahan kelas sosial di masyarakat. Seiring waktu, UKM-F ini berkembang untuk mencakup berbagai aspek kehidupan,
+              memberikan wadah bagi mahasiswa untuk pengabdian, penelitian, pengembangan sumber daya, dan pengajaran.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
           <div class="detail">
             <div class="title">KDKS</div>
             <div class="des">
-              Kelompok Diskusi Kelas Sosial Fakultas Hukum Universitas Diponegoro (KDKS FH Undip) merupakan Unit Kegiatan Mahasiswa Fakultas Hukum yang secara resmi didirikan oleh Prof. Satjipto Rahardjo pada 21 Desember 2001. KDKS FH Undip awalnya ditujukan sebagai wadah untuk mengulas beragam permasalahan di tengah masyarakat yang disebabkan oleh perbedaan kelas sosial. Namun seiring berkembangnya waktu, arah gerak UKM-F ini menjadi melebar ke segala aspek kehidupan, sesuai dengan kebutuhan mahasiswa dan masyarakat. KDKS FH Undip melalui bidang-bidangnya, setidaknya memberikan wadah kepada mahasiswa agar bisa melakukan pengabdian, penelitian, pengembangan sumber daya, pengajaran, dan banyak hal lainnya. Dengan kata lain, walau dari segi penamaan UKM-F ini berkaitan erat dengan 'diskusi' dan 'sosial', beragam hal bisa dikembangkan melalui KDKS FH Undip.
+              Kelompok Diskusi Kelas Sosial Fakultas Hukum Universitas Diponegoro (KDKS FH Undip) merupakan Unit Kegiatan Mahasiswa Fakultas Hukum yang secara resmi didirikan oleh Prof. Satjipto Rahardjo pada 21 Desember 2001. KDKS FH Undip
+              awalnya ditujukan sebagai wadah untuk mengulas beragam permasalahan di tengah masyarakat yang disebabkan oleh perbedaan kelas sosial. Namun seiring berkembangnya waktu, arah gerak UKM-F ini menjadi melebar ke segala aspek
+              kehidupan, sesuai dengan kebutuhan mahasiswa dan masyarakat. KDKS FH Undip melalui bidang-bidangnya, setidaknya memberikan wadah kepada mahasiswa agar bisa melakukan pengabdian, penelitian, pengembangan sumber daya, pengajaran,
+              dan banyak hal lainnya. Dengan kata lain, walau dari segi penamaan UKM-F ini berkaitan erat dengan 'diskusi' dan 'sosial', beragam hal bisa dikembangkan melalui KDKS FH Undip.
             </div>
 
           </div>
@@ -156,34 +164,38 @@
             <div class="title">BEM FH</div>
             <div class="topic">KMI</div>
             <div class="des">
-              Kantor Media Informasi BEM FH Undip adalah supporting system BEM FH Undip yang bertugas menjalankan fungsi sebagai pusat dan jembatan informasi, meningkatkan citra positif BEM FH Undip, dan melakukan dokumentasi serta publikasi kegiatan dari BEM FH Undip.
+              Kantor Media Informasi BEM FH Undip berfungsi sebagai pusat informasi, meningkatkan citra positif BEM FH Undip, serta mendokumentasikan dan mempublikasikan kegiatan BEM FH Undip.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">KMI</div>
             <div class="des">
-              Kantor Media Informasi BEM FH Undip adalah supporting system BEM FH Undip yang bertugas menjalankan fungsi sebagai pusat dan jembatan informasi, meningkatkan citra positif BEM FH Undip, dan melakukan dokumentasi serta publikasi kegiatan dari BEM FH Undip.
+              Kantor Media Informasi BEM FH Undip adalah supporting system BEM FH Undip yang bertugas menjalankan fungsi sebagai pusat dan jembatan informasi, meningkatkan citra positif BEM FH Undip, dan melakukan dokumentasi serta publikasi
+              kegiatan dari BEM FH Undip.
             </div>
 
           </div>
         </div>
 
         <div class="item">
-          <img src="img/mitra-kerja3/2">
+          <img src="img/mitra-kerja3/pp.png">
           <div class="introduce">
             <div class="title">UKM-F</div>
             <div class="topic">Pemberdaya Perempuan</div>
             <div class="des">
-              bentar yah blom dikasih kasih :(
-              </div>
+              Bidang Pemberdayaan Perempuan fokus pada pemerataan akses dan kontrol dalam ekonomi, politik, sosial, dan budaya untuk mencapai kesetaraan gender, dengan melibatkan pemberdayaan baik perempuan maupun laki-laki. Meskipun
+              demikian, perempuan tetap menjadi kelompok rentan secara historis.
+            </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">Pemberdaya Perempuan</div>
             <div class="des">
-              bentar yah blom dikasih kasih :(
-              </div>
+              Bidang Pemberdayaan Perempuan merupakan bidang yang berfokus melakukan upaya pemerataan akses dan kontrol atas ekonomi, politik, sosial, dan budaya pada perempuan dan mahasiswa dengan tujuan tercapainya kesetaraan gender.
+              Hakikatnya, tidak hanya perempuan saja yang perlu untuk diberdayakan tetapi juga lelaki terkhususnya seluruh mahasiswa FH
+              Undip, juga esensi yang diperlukan tidak hanya memberdayakan namun juga memberikan perlindungan bagi sesama. Namun, perempuan tetaplah kelompok rentan dan tidak diuntungkan secara sejarah (historically disadvantaged)
+            </div>
 
           </div>
         </div>
@@ -194,21 +206,19 @@
             <div class="title">BEM FH</div>
             <div class="topic">DIMAS</div>
             <div class="des">
-              Pengabdian Masyarakat, Sebuah Makna dan Tujuan
-              Pengabdian sejatinya merupakan sebuah tindakan yang berlandaskan ketulusan hati. Pengabdian adalah proses, cara, dan perbuatan untuk mencurahkan waktu, pikiran, dan tenaga demi kebermanfaatan bagi masyarakat, tanpa mengharapkan imbalan apapun, serta didasari oleh keikhlasan sejati.
-              Hadirnya Bidang Pengabdian Masyarakat adalah sebagai respon atas berbagai permasalahan sosial yang dihadapi oleh masyarakat dan sebagai wadah untuk mewujudkan cita-cita bangsa akan kesejahteraan masyarakat melalui aksi nyata dan sinergi mahasiswa.
-              Dalam perjalanannya, Bidang Pengabdian Masyarakat mengedepankan analisis dan diskusi mendalam sebab segala permasalahan yang ada di dalam masyarakat tidak muncul begitu saja. Bidang Pengabdian Masyarakat merupakan bidang yang berfokus pada pengkaderan serta menciptakan perjuangan demi tercapainya kesejahteraan pada masyarakat miskin kota dan masyarakat desa.
+              Bidang Pengabdian Masyarakat fokus pada tindakan tulus untuk memberikan waktu, pikiran, dan tenaga demi kebermanfaatan masyarakat tanpa imbalan. Bidang ini hadir sebagai respons terhadap permasalahan sosial, berfokus pada
+              pengkaderan dan perjuangan untuk kesejahteraan masyarakat miskin kota dan desa.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">DIMAS</div>
             <div class="des">
-              Pengabdian Masyarakat, Sebuah Makna dan Tujuan
-              Pengabdian sejatinya merupakan sebuah tindakan yang berlandaskan ketulusan hati. Pengabdian adalah proses, cara, dan perbuatan untuk mencurahkan waktu, pikiran, dan tenaga demi kebermanfaatan bagi masyarakat, tanpa mengharapkan imbalan apapun, serta didasari oleh keikhlasan sejati.
-              Hadirnya Bidang Pengabdian Masyarakat adalah sebagai respon atas berbagai permasalahan sosial yang dihadapi oleh masyarakat dan sebagai wadah untuk mewujudkan cita-cita bangsa akan kesejahteraan masyarakat melalui aksi nyata dan sinergi mahasiswa.
-              Dalam perjalanannya, Bidang Pengabdian Masyarakat mengedepankan analisis dan diskusi mendalam sebab segala permasalahan yang ada di dalam masyarakat tidak muncul begitu saja. Bidang Pengabdian Masyarakat merupakan bidang yang berfokus pada pengkaderan serta menciptakan perjuangan demi tercapainya kesejahteraan pada masyarakat miskin kota dan masyarakat desa.            </div>
-
+              Pengabdian Masyarakat, Sebuah Makna dan Tujuan Pengabdian sejatinya merupakan sebuah tindakan yang berlandaskan ketulusan hati. Pengabdian adalah proses, cara, dan perbuatan untuk mencurahkan waktu, pikiran, dan tenaga demi
+              kebermanfaatan bagi masyarakat, tanpa mengharapkan imbalan apapun, serta didasari oleh keikhlasan sejati. Hadirnya Bidang Pengabdian Masyarakat adalah sebagai respon atas berbagai permasalahan sosial yang dihadapi oleh
+              masyarakat dan sebagai wadah untuk mewujudkan cita-cita bangsa akan kesejahteraan masyarakat melalui aksi nyata dan sinergi mahasiswa. Dalam perjalanannya, Bidang Pengabdian Masyarakat mengedepankan analisis dan diskusi mendalam
+              sebab segala permasalahan yang ada di dalam masyarakat tidak muncul begitu saja. Bidang Pengabdian Masyarakat merupakan bidang yang berfokus pada pengkaderan serta menciptakan perjuangan demi tercapainya kesejahteraan pada
+              masyarakat miskin kota dan masyarakat desa. </div>
           </div>
         </div>
         <div class="item">
@@ -217,15 +227,19 @@
             <div class="title">BEM FH</div>
             <div class="topic">HALMAS</div>
             <div class="des">
-              Sebagai perwajahan BEM FH, baik dalam lingkup internal maupun eksternal, keberadaan HALMAS di internal kampus dirancang untuk membina hubungan yang erat baik dengan organisasi mahasiswa maupun UKM-F di Fakultas Hukum. Hal ini bertujuan untuk menghasilkan keharmonisan dan keselarasan yang optimal. HALMAS juga berperan sebagai pengawal aktif terhadap isu-isu serta permasalahan internal mahasiswa Undip, terutama yang berasal dari Fakultas Hukum Undip dan FH Jepara, dalam hal ini sebagai perpanjangan tangan kepada stakeholder yang terkait.
+              HALMAS BEM FH Undip berperan membina hubungan erat dengan organisasi mahasiswa dan UKM-F di Fakultas Hukum untuk menciptakan keharmonisan internal. Selain itu, HALMAS juga mengawal isu-isu dan permasalahan internal mahasiswa
+              Undip, khususnya dari FH Undip dan FH Jepara, sebagai perpanjangan tangan kepada stakeholder terkait.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">HALMAS</div>
             <div class="des">
-              Sebagai perwajahan BEM FH, baik dalam lingkup internal maupun eksternal, keberadaan HALMAS di internal kampus dirancang untuk membina hubungan yang erat baik dengan organisasi mahasiswa maupun UKM-F di Fakultas Hukum. Hal ini bertujuan untuk menghasilkan keharmonisan dan keselarasan yang optimal. HALMAS juga berperan sebagai pengawal aktif terhadap isu-isu serta permasalahan internal mahasiswa Undip, terutama yang berasal dari Fakultas Hukum Undip dan FH Jepara, dalam hal ini sebagai perpanjangan tangan kepada stakeholder yang terkait.
-              Dengan menjadi perpanjangan tangan, diharapkan HALMAS dapat menjalin kerjasama dengan mitra di luar lingkup Fakultas Hukum, seperti organisasi mahasiswa di luar fakultas, alumni, dan berbagai pihak terkait, guna membangun hubungan yang baik, harmonis, dan memberikan makna yang signifikan dalam upaya memperkuat silaturahmi.
+              Sebagai perwajahan BEM FH, baik dalam lingkup internal maupun eksternal, keberadaan HALMAS di internal kampus dirancang untuk membina hubungan yang erat baik dengan organisasi mahasiswa maupun UKM-F di Fakultas Hukum. Hal ini
+              bertujuan untuk menghasilkan keharmonisan dan keselarasan yang optimal. HALMAS juga berperan sebagai pengawal aktif terhadap isu-isu serta permasalahan internal mahasiswa Undip, terutama yang berasal dari Fakultas Hukum Undip
+              dan FH Jepara, dalam hal ini sebagai perpanjangan tangan kepada stakeholder yang terkait.
+              Dengan menjadi perpanjangan tangan, diharapkan HALMAS dapat menjalin kerjasama dengan mitra di luar lingkup Fakultas Hukum, seperti organisasi mahasiswa di luar fakultas, alumni, dan berbagai pihak terkait, guna membangun
+              hubungan yang baik, harmonis, dan memberikan makna yang signifikan dalam upaya memperkuat silaturahmi.
             </div>
 
           </div>
@@ -236,14 +250,17 @@
             <div class="title">BEM FH</div>
             <div class="topic">HSP</div>
             <div class="des">
-              Bidang Hukum, Sosial dan Politik Badan Eksekutif Mahasiswa merupakan salah satu bidang yang merujuk pada esensi pergerakan mahasiswa. Bidang Hukum, Sosial, Politik menjadi patron pembumian serta pengawalan isu hukum, sosial maupun politik baik sektor regional maupun nasional di Fakultas Hukum Universitas Diponegoro maupun secara luas di ranah Universitas Diponegoro. Lebih lanjut bidang Hukum, Sosial dan Politik berupaya memberikan pencerdasan pula melalui hasil karya tulis maupun media melalui disiplin ilmu, yakni secara yuridis, filosofis, maupun empiris guna menunjang validitas tulisan yang dihadirkan oleh Bidang Hukum, Sosial dan Politik.
+              Bidang Hukum, Sosial, dan Politik BEM FH Undip berfokus pada pengawalan isu hukum, sosial, dan politik baik di tingkat fakultas maupun nasional. Bidang ini juga berupaya memberikan pencerdasan melalui karya tulis dan media,
+              dengan pendekatan yuridis, filosofis, dan empiris untuk memastikan validitasnya.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">HSP</div>
             <div class="des">
-              Bidang Hukum, Sosial dan Politik Badan Eksekutif Mahasiswa merupakan salah satu bidang yang merujuk pada esensi pergerakan mahasiswa. Bidang Hukum, Sosial, Politik menjadi patron pembumian serta pengawalan isu hukum, sosial maupun politik baik sektor regional maupun nasional di Fakultas Hukum Universitas Diponegoro maupun secara luas di ranah Universitas Diponegoro. Lebih lanjut bidang Hukum, Sosial dan Politik berupaya memberikan pencerdasan pula melalui hasil karya tulis maupun media melalui disiplin ilmu, yakni secara yuridis, filosofis, maupun empiris guna menunjang validitas tulisan yang dihadirkan oleh Bidang Hukum, Sosial dan Politik.
+              Bidang Hukum, Sosial dan Politik Badan Eksekutif Mahasiswa merupakan salah satu bidang yang merujuk pada esensi pergerakan mahasiswa. Bidang Hukum, Sosial, Politik menjadi patron pembumian serta pengawalan isu hukum, sosial
+              maupun politik baik sektor regional maupun nasional di Fakultas Hukum Universitas Diponegoro maupun secara luas di ranah Universitas Diponegoro. Lebih lanjut bidang Hukum, Sosial dan Politik berupaya memberikan pencerdasan pula
+              melalui hasil karya tulis maupun media melalui disiplin ilmu, yakni secara yuridis, filosofis, maupun empiris guna menunjang validitas tulisan yang dihadirkan oleh Bidang Hukum, Sosial dan Politik.
             </div>
 
           </div>
@@ -254,22 +271,21 @@
             <div class="title">BEM FH</div>
             <div class="topic">IPM</div>
             <div class="des">
-              Inspektorat Penjamin Mutu (IPM) merupakan tubuh dari BEM FH Undip Kabinet Juang Asa yang bertanggungjawab dalam memanifestasikan BEM FH Undip yang ideal sesuai dengan nilai dan budaya yang ada di dalam Grand Design Organization Juang Asa.
-              dst.
+              Inspektorat Penjamin Mutu (IPM) BEM FH Undip Kabinet Juang Asa bertanggung jawab memastikan BEM FH Undip berjalan sesuai nilai dan budaya dalam Grand Design Organization Juang Asa.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
             <div class="title">IPM</div>
             <div class="des">
-              Inspektorat Penjamin Mutu (IPM) merupakan tubuh dari BEM FH Undip Kabinet Juang Asa yang bertanggungjawab dalam memanifestasikan BEM FH Undip yang ideal sesuai dengan nilai dan budaya yang ada di dalam Grand Design Organization Juang Asa.
+              Inspektorat Penjamin Mutu (IPM) merupakan tubuh dari BEM FH Undip Kabinet Juang Asa yang bertanggungjawab dalam memanifestasikan BEM FH Undip yang ideal sesuai dengan nilai dan budaya yang ada di dalam Grand Design Organization
+              Juang Asa.
               dst.
             </div>
 
           </div>
         </div>
 
-        
       </div>
       <div class="arrows">
         <button id="prev">
