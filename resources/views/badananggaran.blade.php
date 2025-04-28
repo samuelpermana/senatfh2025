@@ -38,14 +38,20 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melakukan sosialisasi atas kebijakan anggaran tahunan</h4>
+          <h4>Melakukan sosialisasi dan advokasi mengenai mekanisme anggaran</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Membahas segala bentuk proposal program kerja dan LPPK</h4>
+          <h4>Membahas pengolahan dan analisis data anggaran pada Proposal dan LPPK oleh Ormawa FH Undip</h4>
         </div>
       </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Mengadakan Raker FH Undip, SUPA FH Undip, Rapat Evaluasi FH Undip, dan LPJ FH Undip</h4>
+        </div>
+      </div>
+      
 
     </div>
   </section>
@@ -107,7 +113,7 @@
         <div class="content1">
           <h2>Tegar Fachrezi Majid</h2>
           <p class="deskripsi">
-            Ketua Badan Anggaran</br>FH UNDIP 2022
+            Ketua Badan Anggaran</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -118,7 +124,7 @@
         <div class="content1">
           <h2>Aaliyah Davalynn Setiawan</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -131,7 +137,7 @@
         <div class="content1">
           <h2>Alisha Fathiya</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -142,7 +148,7 @@
         <div class="content1">
           <h2>Kms M Fadhlurrohman Fayyadh</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -155,7 +161,7 @@
         <div class="content1">
           <h2>Alda Hamidatuz Zahrah</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2023
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -166,7 +172,7 @@
         <div class="content1">
           <h2>Dhiyasyahba Muzhafara</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -179,7 +185,7 @@
         <div class="content1">
           <h2>Ferdito Rohman</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -190,7 +196,7 @@
         <div class="content1">
           <h2>Kholifah Eliyani Dwi Sumaryanti</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -203,7 +209,7 @@
         <div class="content1">
           <h2>Megawati Dwi Putria Syafril</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -214,7 +220,7 @@
         <div class="content1">
           <h2>Muhamad Rayhan</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -227,7 +233,7 @@
         <div class="content1">
           <h2>Najwa Aqila Ardiyanto</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -238,7 +244,7 @@
         <div class="content1">
           <h2>Nayla Sausan Sativa Widagdo</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -251,7 +257,7 @@
         <div class="content1">
           <h2>Revalina Putri Pringgodigdo</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -262,7 +268,7 @@
         <div class="content1">
           <h2>Vanessa Laura Patricia</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

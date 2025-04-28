@@ -203,7 +203,7 @@ section .header {
     font-weight: 700;
     line-height: 4rem;
     text-align: center;
-    margin-top: -4rem;
+    margin-top: -20rem;
 }
 
 .card_wrapper {
@@ -565,8 +565,8 @@ footer .column .socials a {
 
 footer .column .socials a:hover {
     color: #fff;
-    background-color: #cfb53b;
-    border-color: #cfb53b;
+    background-color: #2b5c6b;
+    border-color: #2b5c6b;
 }
 
 footer .column h4 {
@@ -584,7 +584,7 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color: #2b5c6b;
 }
 
 .copyright {

@@ -105,7 +105,7 @@
         <div class="content1">
           <h2>Faranisa Syifa Aulia Wibowo</h2>
           <p class="deskripsi">
-            Ketua Badan Kehormatan</br>FH UNDIP 2023
+            Ketua Badan Kehormatan</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -116,7 +116,7 @@
         <div class="content1">
           <h2>Andi Siradjuddin</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -129,7 +129,7 @@
         <div class="content1">
           <h2>Andre Ikdan</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -138,9 +138,9 @@
           <img class="img-coba" src="img/badan-kehormatan/senator/Immanuerla Sharleen Baragita Panunggal.jpg" />
         </div>
         <div class="content1">
-          <h2>Immanuerla Sharleen Baragita Panunggal</h2>
+          <h2>Immanuela Sharleen Baragita Panunggal</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2023
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

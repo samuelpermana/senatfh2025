@@ -33,22 +33,22 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan rapat koordinasi dengan mitra kerja dalam bidang hukum dan hubungan publik</h4>
+          <h4>Melaksanakan rapat koordinasi dengan mitra kerja dalam bidang Hukum dan Hubungan Publik</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menampung aspirasi dari mitra kerja dalam bidang hukum dan hubungan publik serta melakukan advokasi kepada pihak terkait</h4>
+          <h4>Menampung aspirasi dari mitra kerja dalam bidang Hukum dan Hubungan Publik serta melakukan advokasi kepada pihak terkait</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan fungsi pengawasan dan fungsi legislasi terhadap mitra kerja dalam bidang hukum dan hubungan publik</h4>
+          <h4>Melaksanakan fungsi pengawasan dan fungsi legislasi terhadap mitra kerja dalam bidang Hukum dan Hubungan Publik</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menjembatani hubungan mitra kerja dalam bidang hukum dan hubungan publik dengan Dekanat</h4>
+          <h4>Menjembatani hubungan mitra kerja dalam bidang Hukum dan Hubungan Publik dengan Dekanat</h4>
         </div>
       </div>
       <div class="modern-card">
@@ -290,7 +290,7 @@
         <div class="content1">
           <h2>Alisha Fathiya</h2>
           <p class="deskripsi">
-            Ketua Komisi III</br>FH UNDIP 2022
+            Ketua Komisi III</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -301,7 +301,7 @@
         <div class="content1">
           <h2>Amanda Nadhiyatus Shalikhah</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -314,7 +314,7 @@
         <div class="content1">
           <h2>Andi Siradjuddin</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2023
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -325,7 +325,7 @@
         <div class="content1">
           <h2>Gola Arpanji Cahyono</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2023
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -338,7 +338,7 @@
         <div class="content1">
           <h2>Alexa Putri Rullyanta Tarigan</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -349,7 +349,7 @@
         <div class="content1">
           <h2>Dina Safira Khairina</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -362,7 +362,7 @@
         <div class="content1">
           <h2>Faqih Nuris Shiba</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -373,7 +373,7 @@
         <div class="content1">
           <h2>Naila Rahma Putri Kurniawan</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -386,7 +386,7 @@
         <div class="content1">
           <h2>Naura Kamila Dewi</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -397,7 +397,7 @@
         <div class="content1">
           <h2>Nina Khairina Kuswanda</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -410,7 +410,7 @@
         <div class="content1">
           <h2>Syahda Rachma Aulia</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -421,7 +421,7 @@
         <div class="content1">
           <h2>Yova Phedra Ambarita</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

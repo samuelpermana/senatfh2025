@@ -199,7 +199,7 @@
         <div class="slide-item" style="background-image: url(/img/pimpinan-inti/foto-grup/IMG_3546.JPG);">
           <div class="content9">
             <div class="name">PIMPINAN INTI</div>
-            <div class="des">Komisi I adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
+            <div class="des">Pimpinan inti adalah Pimpinan struktural tertinggi di Senat Mahasiswa yang terdiri atas Ketua, Wakil Ketua Bidang Anggaran dan pengawasan, Wakil Ketua Bidang Aspirasi dan Legislasi, Sekretaris Jenderal</div>
             <a href="{{ url("/pimpinaninti") }}"><button>Selengkapnya</button></a>
           </div>
         </div>

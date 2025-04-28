@@ -46,7 +46,7 @@
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Memberikan saran atau surat kepada pimpinan SM FH Undip ke luar FH Undip</h4>
+          <h4>Memelihara seluruh akun media sosial SM FH Undip 2025</h4>
         </div>
       </div>
       <div class="modern-card">
@@ -116,7 +116,7 @@
         <div class="content1">
           <h2>Muhammad Yusuf Atabik Azis</h2>
           <p class="deskripsi">
-            Ketua BKSAP</br>FH UNDIP 2024
+            Ketua BKSAP</br>FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -127,7 +127,7 @@
         <div class="content1">
           <h2>Laksita Satyaning Kuncoro</h2>
           <p class="deskripsi">
-            Senator Biro Infografis</br>FH UNDIP 2022
+            Senator Biro Media</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -138,9 +138,9 @@
           <img class="img-coba" src="img/bksap/senator/biro-videografi/Dayinda Shofia Nabila.jpg" />
         </div>
         <div class="content1">
-          <h2>Dayinda Shofia Nabila</h2>
+          <h2>Dayinta Shofia Nabila</h2>
           <p class="deskripsi">
-            Senator Biro Videografi</br>FH UNDIP 2022
+            Senator Biro Humas</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -151,7 +151,7 @@
         <div class="content1">
           <h2>Rendra Haksatriya Pradhana</h2>
           <p class="deskripsi">
-            Ketua Biro Humas</br>FH UNDIP 2023
+            Ketua Biro Humas</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -164,7 +164,7 @@
         <div class="content1">
           <h2>Dindra Lintang Hapsari</h2>
           <p class="deskripsi">
-            Ketua Biro Infografis</br>FH UNDIP 2022
+            Ketua Biro Infografis</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -175,7 +175,7 @@
         <div class="content1">
           <h2>Muh. Luqman Hakim</h2>
           <p class="deskripsi">
-            Ketua Biro Videografi</br>FH UNDIP 2022
+            Ketua Biro Videografi</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -188,7 +188,7 @@
         <div class="content1">
           <h2>Anggie Wiyaniputri Prayogo</h2>
           <p class="deskripsi">
-            Staff Biro Humas</br>FH UNDIP 2022
+            Staff Biro Humas</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -199,7 +199,7 @@
         <div class="content1">
           <h2>Kayla Safiranisa</h2>
           <p class="deskripsi">
-            Staff Biro Humas</br>FH UNDIP 2023
+            Staff Biro Humas</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -210,9 +210,9 @@
           <img class="img-coba" src="img/bksap/staff/staff-biro-infografis/Gabriela Aloine Morinata.jpg" />
         </div>
         <div class="content1">
-          <h2>Gabriela Aloine Morinata</h2>
+          <h2>Gabriela Aloine Morianta</h2>
           <p class="deskripsi">
-            Staff Biro Infografis</br>FH UNDIP 2023
+            Staff Biro Infografis</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -223,7 +223,7 @@
         <div class="content1">
           <h2>Tawaffany Andara Putri Hawary</h2>
           <p class="deskripsi">
-            Staff Biro Infografis</br>FH UNDIP 2023
+            Staff Biro Infografis</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -236,7 +236,7 @@
         <div class="content1">
           <h2>Aulia Fitrianisa Sujai</h2>
           <p class="deskripsi">
-            Staff Biro Videografi</br>FH UNDIP 2023
+            Staff Biro Videografi</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -247,7 +247,7 @@
         <div class="content1">
           <h2>Muhammad Al-Khawarizmi</h2>
           <p class="deskripsi">
-            Staff Biro Videografi</br>FH UNDIP 2023
+            Staff Biro Videografi</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

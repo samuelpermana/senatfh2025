@@ -584,7 +584,7 @@ footer .column > a {
 }
 
 footer .column > a:hover {
-    color: #cfb53b;
+    color: #2b5c6b;
 }
 
 .copyright {
@@ -907,6 +907,7 @@ footer .column > a:hover {
         rgba(50, 95, 111, 1) 100%
     );
     border-radius: 8px;
+    text-align: justify;
 }
 
 h4 {

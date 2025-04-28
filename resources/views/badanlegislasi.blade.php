@@ -10,7 +10,7 @@
         <div class="item" style="background-image: url(/img/foto-grup/Badan-Legislasi.jpg);">
           <div class="content">
             <div class="name">Badan Legislasi</div>
-            <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM FH Undip 2022. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
+            <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM SM FH UNDIP 2025. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
               organisasi yang jelas dan mempermudah pembahasan produk hukum sesuai fokus komisi</div>
             <a href="http://127.0.0.1:8000/komisi1" target="_blank">
               <button>Selengkapnya</button>
@@ -20,7 +20,7 @@
         <div class="item" style="background-image: url(/img/foto-grup/Badan-Legislasi.jpg);">
           <div class="content">
             <div class="name">Badan Legislasi</div>
-            <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM FH Undip 2022. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
+            <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM SM FH UNDIP 2025. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
               organisasi yang jelas dan mempermudah pembahasan produk hukum sesuai fokus komisi</div>
 
           </div>
@@ -38,27 +38,27 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Bertanggungjawab terhadap seluruh produk legislasi SM FH Undip 2023</h4>
+          <h4>Bertanggung jawab terhadap seluruh Produk Hukum SM SM FH UNDIP 2025</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menyusun Program Legislasi bersama seluruh fungsionaris SM FH Undip</h4>
+          <h4>Menyusun Produk Hukum bersama seluruh fungsionaris SM FH Undip</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melakukan asistensi dalam penyusunan produk legislasi pada setiap komisi atau badan</h4>
+          <h4>Melakukan asistensi dalam penyusunan Produk Hukum pada setiap komisi atau badan</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menyusun, merumuskan, dan melakukan pembahasan mengenai produk legislasi SM FH Undip 2023</h4>
+          <h4>Membentuk, Membahas, dan Mengkoordinasikan mengenai Produk Hukum SM SM FH UNDIP 2025</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Bertanggungjawab melakukan pengarsipan produk legislasi melalui Arsip Produk Hukum SM FH Undip 2023</h4>
+          <h4>Bertanggung jawab melakukan pengarsipan Produk Hukum melalui Arsip Produk Hukum SM SM FH UNDIP 2025</h4>
         </div>
       </div>
     </div>
@@ -121,7 +121,7 @@
         <div class="content1">
           <h2>Amanda Nadhiyatus Shalikhah</h2>
           <p class="deskripsi">
-            Ketua Badan Legislasi</br>FH UNDIP 2022
+            Ketua Badan Legislasi</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -132,7 +132,7 @@
         <div class="content1">
           <h2>Gading Kain Timoer</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2023
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -145,7 +145,7 @@
         <div class="content1">
           <h2>Gola Arpanji Cahyono</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -156,7 +156,7 @@
         <div class="content1">
           <h2>Helena Puruhita Saraswati</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -169,7 +169,7 @@
         <div class="content1">
           <h2>Ardhi Ardhana</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -180,7 +180,7 @@
         <div class="content1">
           <h2>Enggar Hadi Massardi</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -193,7 +193,7 @@
         <div class="content1">
           <h2>Eva Farida</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -204,7 +204,7 @@
         <div class="content1">
           <h2>Kezia Natalia Simamora</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -217,7 +217,7 @@
         <div class="content1">
           <h2>Laksana Mutiara Sandy</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -226,9 +226,9 @@
           <img class="img-coba" src="img/badan-legislasi/staff/Ristianti Simaptupang.jpg" />
         </div>
         <div class="content1">
-          <h2>Ristianti Simaptupang</h2>
+          <h2>Ristianti Simatupang</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -241,7 +241,7 @@
         <div class="content1">
           <h2>Roikhanatul Izza Tamawwulan</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

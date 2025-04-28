@@ -231,9 +231,9 @@
         </div>
 
         <div class="content1">
-          <h2>Immanuerla Sharleen Baragita Panunggal</h2>
+          <h2>Immanuela Sharleen Baragita Panunggal</h2>
           <p class="deskripsi">
-            Ketua Komisi I</br>FH UNDIP 2022
+            Ketua Komisi I</br>FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -245,7 +245,7 @@
         <div class="content1">
           <h2>Helena Puruhita Saraswati</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -259,7 +259,7 @@
         <div class="content1">
           <h2>Tegar Fachrezi Majid</h2>
           <p class="deskripsi">
-            Senator Anggota</br>FH UNDIP 2022
+            Senator Anggota</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -270,7 +270,7 @@
         <div class="content1">
           <h2>Agatha Febriyani Situmorang</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -283,7 +283,7 @@
         <div class="content1">
           <h2>Balqis Ivonna Rajwa</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -294,7 +294,7 @@
         <div class="content1">
           <h2>Diandra Kalifa</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -307,7 +307,7 @@
         <div class="content1">
           <h2>Muhammad Raihan Fajari</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2022
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -318,7 +318,7 @@
         <div class="content1">
           <h2>Nicholas Christian Adhyaksa Prabandaru</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -329,9 +329,9 @@
           <img class="img-coba" src="img/komisi-1/staff/Putri Dhiya Zahrani.jpg" />
         </div>
         <div class="content1">
-          <h2>Putri Dhiya Zahrani</h2>
+          <h2>Puti Dhiya Zahrani</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -342,7 +342,7 @@
         <div class="content1">
           <h2>Veline Fitria Ramadhani</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

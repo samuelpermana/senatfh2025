@@ -28,7 +28,7 @@
 
     </div>
   </section>
-  <!--
+  
       <section class="container">
         <div class="section-header6">
           <h2 class="modern-header">Tugas Pokok dan Wewenang BURT</h2>
@@ -36,27 +36,22 @@
         <div class="modern-wewenang">
           <div class="modern-card">
             <div class="content">
-              <h4>Mengembangkan, membina, dan meningkatkan hubungan persahabatan dan kerja sama antara SM FH Undip dan parlemen lain, baik secara bilateral maupun multilateral, termasuk organisasi nasional</h4>
+              <h4>membantu tugas kesekretariatan dan kebendaharaan dari sekretaris jendral</h4>
             </div>
           </div>
           <div class="modern-card">
             <div class="content">
-              <h4>Menerima kunjungan delegasi parlemen organisasi lainnya yang menjadi tamu SM FH Undip</h4>
+              <h4>mengkoordinasi dengan komisi dan badan terkait kesekretariatan dan kebendaharaan melalui sekretaris jendral</h4>
             </div>
           </div>
           <div class="modern-card">
             <div class="content">
-              <h4>Memberikan saran atau surat kepada pimpinan SM FH Undip ke luar FH Undip</h4>
-            </div>
-          </div>
-          <div class="modern-card">
-            <div class="content">
-              <h4>Mengoordinasikan kunjungan kerja alat kelengkapan SM FH Undip ke luar FH Undip</h4>
+              <h4>membantu menjalankan kebirokrasian Ormawa FH Undip</h4>
             </div>
           </div>
 
         </div>
-      </section> -->
+      </section> 
 
   <section class="container-k">
     <h2 class="header">Agenda Kerja</h2>
@@ -116,7 +111,7 @@
         <div class="content1">
           <h2>Alya Safira</h2>
           <p class="deskripsi">
-            Sekertaris Jendral</br>FH UNDIP 2023
+            Sekertaris Jendral</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -127,7 +122,7 @@
         <div class="content1">
           <h2>Amalia Adi Prameswari</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -140,7 +135,7 @@
         <div class="content1">
           <h2>Ayalla Handi Cahaya Salsabila</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -151,7 +146,7 @@
         <div class="content1">
           <h2>Fathiyya Yasarah Az-Zahra</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>
@@ -164,7 +159,7 @@
         <div class="content1">
           <h2>Nabila Maharani Putri Sibali</h2>
           <p class="deskripsi">
-            Staff Ahli</br>FH UNDIP 2023
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

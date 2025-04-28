@@ -84,8 +84,6 @@ nav {
   font-size: 1rem;
   color: #fff;
   background-color: #2b5c6b;
-  background-color: #96a659;
-  background-color: #e4c89b;
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -468,7 +466,7 @@ tbody tr.hide td img {
   padding: 0.5rem 1rem;
   font-size: 1rem;
   color: #fff;
-  background-color: #800000;
+  background-color: #2b5c6b;
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -683,6 +681,7 @@ footer .column > a:hover {
   text-align: center;
   display: block;
   font-family: "Poppins", sans-serif;
+  background-color: #2b5c6b;
 }
 
 .finalis {
