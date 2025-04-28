@@ -41,20 +41,19 @@
 }
 
 .logo-container {
-  display: flex;
+  display: block;
   justify-content: center;
   align-items: center;
-  width: 200px; /* Sesuaikan ukuran */
+  width: 100%; /* Sesuaikan ukuran */
   height: auto;
-  margin-left: 150px;
 }
 
 .logo-container img {
-  width: 400%;
+  width: 100%;
   display: block;
   animation: flameMotion 3s infinite ease-in-out,
     pulseGlow 2s infinite ease-in-out;
-  margin-left: 80px;
+  margin: 0;
 }
 
 a {
@@ -1223,23 +1222,6 @@ footer .column > a:hover {
   100% {
     filter: brightness(1);
   }
-}
-
-.logo-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 200px; /* Sesuaikan ukuran */
-  height: auto;
-  margin-left: 150px;
-}
-
-.logo-container img {
-  width: 400%;
-  display: block;
-  animation: flameMotion 3s infinite ease-in-out,
-    pulseGlow 2s infinite ease-in-out;
-  margin-left: 80px;
 }
 
 body {

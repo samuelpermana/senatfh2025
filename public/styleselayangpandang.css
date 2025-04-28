@@ -583,7 +583,7 @@ footer .column > a:hover {
 
 .custom-container {
   position: relative;
-  width: clamp(95%, 90%, 80%);
+  width: clamp(0px, 90%, 1000px);
   overflow: hidden;
   max-width: 2200px;
   margin: auto;
@@ -646,7 +646,6 @@ footer .column > a:hover {
 .custom-image img {
   max-width: 65%; /* Lebar gambar */
   height: auto; /* Mengatur ketinggian gambar sesuai proporsi aslinya */
-  float: middle; /* Menggeser gambar ke sisi kiri */
   margin-right: auto;
 }
 
