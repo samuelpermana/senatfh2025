@@ -20,8 +20,9 @@ body {
   background: rgb(128, 0, 0);
   background: linear-gradient(
     90deg,
-    rgba(96, 0, 0, 1) 0%,
-    rgba(128, 0, 0, 1) 55%
+    rgba(50, 95, 111, 1) 0%,
+    rgba(98, 124, 130, 1) 20%,
+    rgba(120, 152, 159, 1) 40%
   );
   border-radius: 30px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);

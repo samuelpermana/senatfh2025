@@ -244,63 +244,36 @@
         }, 500);
       });
     </script>
+    <script>
+      let currentIndex = 0;
+      const slides = document.querySelectorAll('.slide');
 
-  </section>
-
-  <script>
-    const showMenu = (headerToggle, navbarId) => {
-      const toggleBtn = document.getElementById(headerToggle),
-        nav = document.getElementById(navbarId);
-
-      // Validate that variables exist
-      if (toggleBtn && nav) {
-        toggleBtn.addEventListener('click', () => {
-          // Toggle the show-menu class
-          nav.classList.toggle('show-menu');
-          // Change icon
-          toggleBtn.classList.toggle('bx-x');
+      function showSlide(index) {
+        slides.forEach((slide, i) => {
+          slide.classList.toggle('active', i === index);
         });
       }
-    };
-    showMenu('header-toggle', 'navbar');
 
-    /*==================== LINK ACTIVE ====================*/
-    const linkColor = document.querySelectorAll('.nav-links');
+      function nextSlide() {
+        currentIndex = (currentIndex + 1) % slides.length;
+        showSlide(currentIndex);
+      }
 
-    function colorLink() {
-      linkColor.forEach(l => l.classList.remove('active'));
-      this.classList.add('active');
-    }
+      function prevSlide() {
+        currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+        showSlide(currentIndex);
+      }
 
-    linkColor.forEach(l => l.addEventListener('click', colorLink));
+      // Ensure no slides have "active" class initially
+      slides.forEach(slide => slide.classList.remove('active'));
 
-    let currentIndex = 0;
-    const slides = document.querySelectorAll('.slide');
+      // Optionally, activate the first slide dynamically
+      if (slides.length > 0) {
+        showSlide(0);
+      }
+    </script>
 
-    function showSlide(index) {
-      slides.forEach((slide, i) => {
-        slide.classList.toggle('active', i === index);
-      });
-    }
-
-    function nextSlide() {
-      currentIndex = (currentIndex + 1) % slides.length;
-      showSlide(currentIndex);
-    }
-
-    function prevSlide() {
-      currentIndex = (currentIndex - 1 + slides.length) % slides.length;
-      showSlide(currentIndex);
-    }
-
-    // Ensure no slides have "active" class initially
-    slides.forEach(slide => slide.classList.remove('active'));
-
-    // Optionally, activate the first slide dynamically
-    if (slides.length > 0) {
-      showSlide(0);
-    }
-  </script>
+  </section>
 
   <script src="js-aktivitas-legislasi.js"></script>
   <script src="js-aktivitas-sm-fh.js"></script>

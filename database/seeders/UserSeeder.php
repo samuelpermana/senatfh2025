@@ -105,14 +105,14 @@ class UserSeeder extends Seeder
         
         User::create([
             'name' => 'Pemberdayaan Perempuan BEM FH',
-            'email' => 'ppbemfhundip2024@gmail.com',
+            'email' => 'ppbemfhundip25@gmail.com',
             'password' => Hash::make('password'),
             'role_id' => 2,
         ]);
         
         User::create([
             'name' => 'Hubungan antar Lembaga dan Masyarakat BEM FH Undip',
-            'email' => 'halmasbemfhundip2024@gmail.com',
+            'email' => 'halmasbemfhundip2025@gmail.com',
             'password' => Hash::make('password'),
             'role_id' => 2,
         ]);
@@ -140,7 +140,7 @@ class UserSeeder extends Seeder
         
         User::create([
             'name' => 'Tim Penjamin Mutu Organisasi BEM FH Undip',
-            'email' => 'tpmobemfhundip@gmail.com',
+            'email' => 'inspektoratpenjaminmutubemfh@gmail.com',
             'password' => Hash::make('password'),
             'role_id' => 2,
         ]);
@@ -161,14 +161,14 @@ class UserSeeder extends Seeder
         
         User::create([
             'name' => 'Kantor Media dan Informasi BEM FH Undip',
-            'email' => 'kmibemfhundip2024@gmail.com',
+            'email' => 'kmibemfhundip2025@gmail.com',
             'password' => Hash::make('password'),
             'role_id' => 2,
         ]);
         
         User::create([
             'name' => 'Pengabdian Masyarakat BEM FH Undip',
-            'email' => 'dimasbemfhundip@gmail.com',
+            'email' => 'dimasbemfhundip2025@gmail.com',
             'password' => Hash::make('password'),
             'role_id' => 2,
         ]);
@@ -280,7 +280,7 @@ class UserSeeder extends Seeder
         
         User::create([
             'name' => 'UKM-F LPM Gema Keadilan FH Undip Tahun 2024',
-            'email' => 'lpmgemakeadilan2024@gmail.com',
+            'email' => 'persmagemakeadilan@gmail.com',
             'password' => Hash::make('password'),
             'role_id' => 2,
         ]);
