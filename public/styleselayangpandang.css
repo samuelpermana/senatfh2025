@@ -583,7 +583,7 @@ footer .column > a:hover {
 
 .custom-container {
   position: relative;
-  width: 70%;
+  width: clamp(95%, 90%, 80%);
   overflow: hidden;
   max-width: 2200px;
   margin: auto;
@@ -623,9 +623,9 @@ footer .column > a:hover {
   margin-bottom: 3rem;
   font-size: 3rem;
   font-weight: 700;
-  line-height: 1rem;
+  line-height: 3rem;
   text-align: right;
-  margin-left: -100px;
+  margin-right: 5%;
 }
 
 .custom-slide p {
@@ -1043,7 +1043,7 @@ section .header3 {
 .content9 {
   position: absolute;
   top: 50%;
-  left: 100px;
+  left: 5%;
   width: 300px;
   text-align: left;
   color: #eee;
