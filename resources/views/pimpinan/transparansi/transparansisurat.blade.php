@@ -69,11 +69,11 @@
               <form action="{{ route(auth()->user()->role->role_slug . '.proposal.komisi-approve', $proposal['id']) }}" method="POST" enctype="multipart/form-data">
                     @csrf
                     @method('PUT')
-                    <div class="form-group">
+                    <div class="form-group"style="margin-bottom: 1rem;">
                         <label for="file_final_sekjen">File Final Sekjen (doc, docx, pdf)</label>
                         <input type="file" class="form-control" id="file_final_sekjen" name="file_final_sekjen" accept=".doc, .docx, application/pdf" required>
                     </div>
-                    <button class="btn btn-warning" type="submit">Setujui</button>
+                    <button class="btn btn-warning" type="submit"style="margin-top: 0.5rem;">Setujui</button>
                 </form>
               
               @else
