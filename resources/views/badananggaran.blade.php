@@ -161,7 +161,7 @@
         <div class="content1">
           <h2>Alda Hamidatuz Zahrah</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2025
           </p>
         </div>
       </div>

@@ -202,6 +202,14 @@ section .header {
   font-weight: 600;
   align-items: center; /* Mengatur vertikal ke tengah */
 }
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  margin-left: -50px;
+}
 
 .btn-as {
   padding: 1rem 2rem;
@@ -939,8 +947,8 @@ footer {
 footer .column .logo {
   max-width: 100px;
   margin-bottom: 2rem;
-  align-items: center;
-  gap: 10px;
+  align-items: center; 
+  gap: 10px; 
 }
 
 footer .column p {
@@ -1242,6 +1250,8 @@ footer .column > a:hover {
   margin-left: 80px;
 }
 
+
+
 body {
   font-family: "Poppins", sans-serif;
   background-color: #fff6ea;
@@ -1362,6 +1372,7 @@ section .header {
 
 .nav-logo img {
   max-width: 100px;
+  
 }
 
 .nav-logo1 {
@@ -2344,7 +2355,6 @@ footer .column > a:hover {
   background: rgba(0, 0, 0, 0.3);
   padding: 8px;
   border-radius: 4px;
-  margin-top: -100px;
 }
 
 .main-news .info .tag {
@@ -2354,6 +2364,7 @@ footer .column > a:hover {
   padding: 8px 12px;
   margin: 0 8px;
   border-radius: 4px;
+  
 }
 
 .main-news .info h2 {
