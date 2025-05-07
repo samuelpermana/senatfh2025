@@ -14,15 +14,15 @@ class FaqController extends Controller
      */
     public function index()
     {
-        $faqs = Faq::all();
+        $faqs = Faq::orderBy('created_at', 'desc')->get();
         return view('cms.faq.index', compact('faqs'));
     }
-
+    
     public function indexWeb()
     {
-        $faqs = Faq::all();
+        $faqs = Faq::orderBy('created_at', 'desc')->get();
         return view('faq', compact('faqs'));
-    }
+    }    
 
     /**
      * Show the form for creating a new resource.
