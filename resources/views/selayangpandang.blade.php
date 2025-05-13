@@ -171,21 +171,21 @@
         <div class="warna"></div>
         <div class="content">
           <h4>EMAS</h4>
-          <h5>Melambangkan nilai kewibawaan dan Kebijaksanaan yang dibawakan oleh SM FH Undip Tahun 2024</h5>
+          <h5>Melambangkan nilai kewibawaan dan Kebijaksanaan yang dibawakan oleh SM FH Undip Tahun 2025</h5>
         </div>
       </div>
       <div class="card1">
         <div class="warna1"></div>
         <div class="content">
           <h4>BIRU</h4>
-          <h5>Melambangkan arti Humanisme yang digaungkan oleh SM FH Undip Tahun 2024</h5>
+          <h5>Warna biru mempresentasikan kepercayaan. Hal ini berarti SM FH Undip 2025 memiliki kepercayaan antar fungsionaris yang tinggi.</h5>
         </div>
       </div>
       <div class="card2">
         <div class="warna2"></div>
         <div class="content">
           <h4>PUTIH</h4>
-          <h5>Melambangkan Budaya Kebermanfaatan yang dapat diberikan oleh SM FH Undip Tahun 2024</h5>
+          <h5>Warna putih mempresentasikan kebaikan. Hal ini berarti SM FH Undip 2025 melandaskan keputusan pada kebaikan untuk mahasiswa.</h5>
         </div>
       </div>
     </div>

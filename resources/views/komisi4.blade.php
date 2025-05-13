@@ -118,7 +118,7 @@
           <img src="img/mitra-kerja4/bemkapro.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
-            <div class="topic">ADVO KESMA</div>
+            <div class="topic">Advokesma</div>
             <div class="des">
               Advokesma BEM FH Undip berfungsi sebagai "jembatan penghubung" antara mahasiswa dan pemangku kebijakan, dengan fokus pada pelayanan, pengawalan, dan pergerakan untuk memberikan kebermanfaatan dan dampak positif bagi mahasiswa
               Fakultas Hukum Undip.
