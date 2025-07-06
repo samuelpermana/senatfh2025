@@ -167,6 +167,18 @@ h1 {
     text-decoration: none; /* hilangkan underline */
 }
 
+.long-paragraphs {
+  
+  margin: 0 auto;           /* Tengahkan kontainer */
+  text-align: justify;      /* Biar rapi kiri-kanan */
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.long-paragraphs p {
+  text-indent: 2em;         /* Paragraf menjorok di awal */
+  margin-bottom: 1em;       /* Jarak antar paragraf */
+}
 
 /* ======== Responsiveness ======== */
 @media (max-width: 768px) {

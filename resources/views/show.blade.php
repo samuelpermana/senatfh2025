@@ -16,7 +16,14 @@
       @else
         <p class="no-picture">No Picture</p>
       @endif
-      <p class="news-content">{{ $berita->content }}</p>
+      <div class="news-content long-paragraphs">
+  @foreach (explode("\n", trim($berita->content)) as $paragraph)
+    @if (!empty(trim($paragraph)))
+      <p>{{ $paragraph }}</p>
+    @endif
+  @endforeach
+</div>
+
     </section>
 
     <section class="news-footer">

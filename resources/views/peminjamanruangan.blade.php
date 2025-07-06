@@ -70,7 +70,7 @@
         <h2 class="header">TAMPILAN EXCEL</h2>
         <p class="sub-header">Berisikan tentang data ruangan yang meminjam tempat di FH dalam bentuk exel</p>
         <main class="table4" id="customers_table">
-          <a href="https://docs.google.com/spreadsheets/d/1nihgrk4kaxd9PXdV1AcGlUIzPX78aVp4FnBBOjjdVSE/edit?usp=drivesdk">Link Tampilan Excel</a>
+          <a href="https://docs.google.com/spreadsheets/d/1vZ3eiIGnM4WKs1QzTP83FNfjVvdpf2wkiKWh7skvsI0/edit?usp=drivesdk">Link Tampilan Excel</a>
         </main>
       </section>
 
