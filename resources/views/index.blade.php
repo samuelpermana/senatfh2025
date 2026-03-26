@@ -39,26 +39,6 @@
     <div class="blob-bg">
     </div>
   </div>
-  {{-- Ini buatan rajen --}}
-
-  {{-- <section class="latest-news">
-    <h2>Latest Berita</h2>
-    <div class="news-container">
-      @foreach (App\Models\Berita::latest()->take(3)->get() as $berita)
-        <div class="news-item">
-          <h3><a href="/beritapublic/{{ $berita->id }}">{{ $berita->title }}</a></h3>
-          <p>{{ Str::limit($berita->content, 100) }}</p>
-          <p><i class="fas fa-calendar-alt"></i> {{ $berita->created_at->format("d F Y") }}</p>
-          @if ($berita->picture)
-            <img src="{{ asset("storage/" . $berita->picture) }}" alt="Picture" style="max-width: 100px;">
-          @endif
-        </div>
-      @endforeach
-    </div>
-    <a class="btn" href="{{ url("/beritamore") }}">More Berita</a>
-  </section> --}}
-
-  {{-- Akhir dari buatan rajen --}}
 
   <section class="container9" class="latest-news">
     <div class="flex">
@@ -107,7 +87,7 @@
       <span class="blur"></span>
       <span class="blur"></span>
       <h4 style="font-size: 2rem;">SENAT MAHASISWA FAKULTAS HUKUM UNIVERSITAS DIPONEGORO</h4>
-      <h1 style="color:#2B5C6B;">GEMILANG PEMRAKARSA</h1>
+      <h1 style="color:#432e6e;">GEMILANG PEMRAKARSA</h1>
       <p>
         Selamat datang di portal resmi Senat Fakultas Hukum Universitas Diponegoro! Kami bangga menjadi wadah bagi mahasiswa-mahasiswa FH Undip untuk berpartisipasi aktif dalam proses pembelajaran, pengembangan diri, serta pengabdian kepada
         mahasiswa Fakultas Hukum Universitas Diponegoro.
@@ -121,12 +101,107 @@
     </div>
     <div class="logo-container">
       <img src="img/kabinetridho.png" alt="Logo Api">
-
     </div>
-
-    </div>
-
   </header>
+
+  <section class="info-akademik">
+    <h2 class="header">INFO AKADEMIK</h2>
+    <div class="event-container-infoakademis">
+      <div class="event-card-infoakademis">
+        <!-- Left Section - Carousel -->
+        <div class="carousel-section-infoakademis">
+          <div class="date-badge-infoakademis">
+            <div class="year-infoakademis">2026</div>
+            <div class="day-infoakademis">2</div>
+            <div class="month-infoakademis">Feb</div>
+          </div>
+
+          <div class="carousel-container-infoakademis">
+            <!-- Carousel Slides -->
+            <div class="carousel-slide-infoakademis active-infoakademis">
+              <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop" alt="Event audience 1" />
+            </div>
+            <div class="carousel-slide-infoakademis">
+              <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&h=600&fit=crop" alt="Event audience 2" />
+            </div>
+            <div class="carousel-slide-infoakademis">
+              <img src="https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=600&fit=crop" alt="Event audience 3" />
+            </div>
+            <div class="carousel-slide-infoakademis">
+              <img src="https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop" alt="Event audience 4" />
+            </div>
+            <div class="carousel-slide-infoakademis">
+              <img src="https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&h=600&fit=crop" alt="Event audience 5" />
+            </div>
+
+            <!-- Previous Button -->
+            <button class="carousel-nav-infoakademis carousel-prev-infoakademis" aria-label="Previous slide">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="15 18 9 12 15 6"></polyline>
+              </svg>
+            </button>
+
+            <!-- Next Button -->
+            <button class="carousel-nav-infoakademis carousel-next-infoakademis" aria-label="Next slide">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="9 18 15 12 9 6"></polyline>
+              </svg>
+            </button>
+
+            <!-- Carousel Dots -->
+            <div class="carousel-dots-infoakademis">
+              <span class="dot-infoakademis active-infoakademis" data-slide="0"></span>
+              <span class="dot-infoakademis" data-slide="1"></span>
+              <span class="dot-infoakademis" data-slide="2"></span>
+              <span class="dot-infoakademis" data-slide="3"></span>
+              <span class="dot-infoakademis" data-slide="4"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Section - Info -->
+        <div class="info-section-infoakademis">
+          <div>
+            <span class="tag-infoakademis">IRS</span>
+            <h1 class="event-title-infoakademis">Info IRS</h1>
+            <p class="event-description-infoakademis">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus dolores non sequi nostrum rerum nihil pariatur nobis in ipsam.
+            </p>
+
+            <div class="event-details-infoakademis">
+              <div class="detail-item-infoakademis">
+                <svg class="detail-icon-infoakademis" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <circle cx="12" cy="12" r="10" />
+                  <polyline points="12 6 12 12 16 14" />
+                </svg>
+                <div class="detail-text-infoakademis">Feb 2 | 6:00 - 9:00 pm ET</div>
+              </div>
+
+              <div class="detail-item-infoakademis">
+                <svg class="detail-icon-infoakademis" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                  <circle cx="12" cy="10" r="3" />
+                </svg>
+                <div class="detail-text-infoakademis">Gedung FH - Fakultas FH, Universitas Diponegoro, Semarang</div>
+              </div>
+
+              <div class="detail-item-infoakademis">
+                <svg class="detail-icon-infoakademis" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
+                  <line x1="16" y1="2" x2="16" y2="6" />
+                  <line x1="8" y1="2" x2="8" y2="6" />
+                  <line x1="3" y1="10" x2="21" y2="10" />
+                </svg>
+                <div class="detail-text-infoakademis">General Admission | Free for Members</div>
+              </div>
+            </div>
+          </div>
+
+          <button class="event-button-infoakademis">Event Details</button>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <section class="container">
     <h2 class="header">AKTIVITAS LEGISLATIF</h2>
@@ -190,7 +265,7 @@
                 borderColor = '#f7ffdf';
                 break;
               case 'primary':
-                backgroundColor = '#b09782';
+                backgroundColor = '#fdf4e6';
                 borderColor = '#b09782';
                 break;
               case 'secondary':
@@ -236,9 +311,9 @@
       document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
           document.querySelectorAll('.fc-day-today').forEach(el => {
-            el.style.backgroundColor = "#2B5C6B";
+            el.style.backgroundColor = "#4a396e";
 
-            el.style.color = "#2B5C6B";
+            el.style.color = "#4a396e";
 
           });
         }, 500);
@@ -277,4 +352,76 @@
 
   <script src="js-aktivitas-legislasi.js"></script>
   <script src="js-aktivitas-sm-fh.js"></script>
+
+  <script>
+    // Carousel functionality
+    let currentSlide = 0;
+    const slidesinfo = document.querySelectorAll(".carousel-slide-infoakademis");
+    const dots = document.querySelectorAll(".dot-infoakademis");
+    const prevButton = document.querySelector(".carousel-prev-infoakademis");
+    const nextButton = document.querySelector(".carousel-next-infoakademis");
+
+    function showSlideInfo(index) {
+      // Remove active class from all slides and dots
+      slidesinfo.forEach((slide) => slide.classList.remove("active-infoakademis"));
+      dots.forEach((dot) => dot.classList.remove("active-infoakademis"));
+
+      // Add active class to current slide and dot
+      slidesinfo[index].classList.add("active-infoakademis");
+      dots[index].classList.add("active-infoakademis");
+      currentSlide = index;
+    }
+
+    function nextSlideInfo() {
+      currentSlide = (currentSlide + 1) % slidesinfo.length;
+      showSlideInfo(currentSlide);
+    }
+
+    function prevSlideInfo() {
+      currentSlide = (currentSlide - 1 + slidesinfo.length) % slidesinfo.length;
+      showSlideInfo(currentSlide);
+    }
+
+    // Previous button click
+    prevButton.addEventListener("click", prevSlideInfo);
+
+    // Next button click
+    nextButton.addEventListener("click", nextSlideInfo);
+
+    // Dot click functionality
+    dots.forEach((dot, index) => {
+      dot.addEventListener("click", () => {
+        showSlideInfo(index);
+      });
+    });
+
+    // Auto-advance carousel every 4 seconds
+    // let autoSlideInterval = setInterval(nextSlideInfo, 4000);
+
+    // Pause auto-advance when user interacts with carousel
+    const carouselContainer = document.querySelector(".carousel-container-infoakademis");
+
+    // carouselContainer.addEventListener("mouseenter", () => {
+    //   clearInterval(autoSlideInterval);
+    // });
+
+    // carouselContainer.addEventListener("mouseleave", () => {
+    //   autoSlideInterval = setInterval(nextSlideInfo, 4000);
+    // });
+
+    // Optional: Keyboard navigation
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowLeft") {
+        prevSlideInfo();
+        // Reset auto-advance timer
+        clearInterval(autoSlideInterval);
+        autoSlideInterval = setInterval(nextSlideInfo, 4000);
+      } else if (e.key === "ArrowRight") {
+        nextSlideInfo();
+        // Reset auto-advance timer
+        clearInterval(autoSlideInterval);
+        autoSlideInterval = setInterval(nextSlideInfo, 4000);
+      }
+    });
+  </script>
 @endsection

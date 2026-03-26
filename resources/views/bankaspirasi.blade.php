@@ -19,7 +19,91 @@
             </div>
             <button class="btn3">Selengkapnya</button>
             <div class="panel">
-              <p>{{ $aspirasi->answer }}</p>
+              <div class="response-box">
+                <p>Jawaban: {{ $aspirasi->answer }}</p>
+              </div>
+              <div class="tracking-container">
+                <div class="tracking-title">Status Tracking</div>
+
+                <div class="tracking-steps">
+                  <div class="tracking-step">
+                    <div class="step-circle">
+                      <svg viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                      </svg>
+                    </div>
+                    <div class="step-line"></div>
+                    <div class="step-content">
+                      <div class="step-label">Pertanyaan terkirim</div>
+                      <div class="step-status">✓ Selesai</div>
+                    </div>
+                  </div>
+
+                  <div class="tracking-step">
+                    <div class="step-circle">
+                      <svg viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                      </svg>
+                    </div>
+                    <div class="step-line"></div>
+                    <div class="step-content">
+                      <div class="step-label">Sedang diperiksa admin</div>
+                      <div class="step-status">✓ Selesai</div>
+                    </div>
+                  </div>
+
+                  <div class="tracking-step">
+                    <div class="step-circle">
+                      <svg viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                      </svg>
+                    </div>
+                    <div class="step-line"></div>
+                    <div class="step-content">
+                      <div class="step-label">Diverifikasi</div>
+                      <div class="step-status">✓ Selesai</div>
+                    </div>
+                  </div>
+
+                  <div class="tracking-step">
+                    <div class="step-circle">
+                      <svg viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                      </svg>
+                    </div>
+                    <div class="step-line"></div>
+                    <div class="step-content">
+                      <div class="step-label">Diteruskan ke pihak terkait</div>
+                      <div class="step-status">✓ Selesai</div>
+                    </div>
+                  </div>
+
+                  <div class="tracking-step">
+                    <div class="step-circle">
+                      <svg viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                      </svg>
+                    </div>
+                    <div class="step-line"></div>
+                    <div class="step-content">
+                      <div class="step-label">Menunggu jawaban</div>
+                      <div class="step-status">✓ Selesai</div>
+                    </div>
+                  </div>
+
+                  <div class="tracking-step">
+                    <div class="step-circle">
+                      <svg viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                      </svg>
+                    </div>
+                    <div class="step-content">
+                      <div class="step-label">Pertanyaan terjawab</div>
+                      <div class="step-status">✓ Selesai</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         @endforeach
@@ -66,6 +150,6 @@
       @endif
     </div>
     <script src="js-bankaspirasi.js"></script>
-    
+
   </section>
 @endsection

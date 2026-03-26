@@ -107,7 +107,7 @@ nav {
 
 .pricing-JD .card-JD1 {
     padding: 2rem 1rem;
-    background: linear-gradient(90deg, rgba(50, 95, 111, 1) 0%, rgba(98, 124, 130, 1) 20%, rgba(120, 152, 159, 1) 40%, rgba(120, 152, 159, 1) 60%, rgba(98, 124, 130, 1) 80%, rgba(50, 95, 111, 1) 100%);
+    background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
     display: flex;
     flex-direction: column;
     border: 2px solid transparent;

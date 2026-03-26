@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" rel="stylesheet">
-    <link href="styletransparansi.css" rel="stylesheet">
-
     <link href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" rel="stylesheet">
     <link href="stylepeminjamanruangan.css" rel="stylesheet">
     <title>SENAT FH UNDIP</title>
@@ -34,6 +32,16 @@
             </div>
           </div>
         </section>
+        {{-- <div class="header">
+          <div class="button-container">
+            <button class="sheet-button active" onclick="switchSheet(1)">Sheet 1</button>
+            <button class="sheet-button" onclick="switchSheet(2)">Sheet 2</button>
+          </div>
+        </div> --}}
+
+        {{-- <div class="iframe-container">
+          <iframe id="sheetFrame" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU1-dG48adFkSeVM3e-w5fr5Dmpgqb6yZD4ji4YYx9Fhzge869ReodilZ0xeLNx9BqsM8V-EW6KNV2/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
+        </div> --}}
         <section class="table__body">
           <table>
             <thead>
@@ -75,4 +83,26 @@
       </section>
 
       <script src="js-peminjamanruangan.js"></script>
+      {{-- <script>
+        const sheetUrls = {
+          1: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQU1-dG48adFkSeVM3e-w5fr5Dmpgqb6yZD4ji4YYx9Fhzge869ReodilZ0xeLNx9BqsM8V-EW6KNV2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false",
+          2: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQU1-dG48adFkSeVM3e-w5fr5Dmpgqb6yZD4ji4YYx9Fhzge869ReodilZ0xeLNx9BqsM8V-EW6KNV2/pubhtml?gid=1753518757&single=true&widget=true&headers=false",
+        };
+
+        function switchSheet(sheetNumber) {
+          // Update iframe source
+          const iframe = document.getElementById("sheetFrame");
+          iframe.src = sheetUrls[sheetNumber];
+
+          // Update button states
+          const buttons = document.querySelectorAll(".sheet-button");
+          buttons.forEach((button, index) => {
+            if (index + 1 === sheetNumber) {
+              button.classList.add("active");
+            } else {
+              button.classList.remove("active");
+            }
+          });
+        }
+      </script> --}}
     @endsection

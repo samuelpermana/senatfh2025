@@ -76,7 +76,7 @@ nav {
 }
 
 section .header {
-  color: #2b5c6b;
+  color: #4C376B;
   margin-bottom: 4rem;
   font-size: 3rem;
   font-weight: 700;
@@ -104,20 +104,11 @@ section .header {
 }
 
 .accordion {
-  color: #18181b;
+  color: #fff;
   font-size: 1.2rem;
   padding: 3rem 2rem;
   width: 100%;
-  background: rgb(50, 95, 111);
-  background: linear-gradient(
-    90deg,
-    rgba(50, 95, 111, 1) 0%,
-    rgba(98, 124, 130, 1) 20%,
-    rgba(120, 152, 159, 1) 40%,
-    rgba(120, 152, 159, 1) 60%,
-    rgba(98, 124, 130, 1) 80%,
-    rgba(50, 95, 111, 1) 100%
-  );
+  background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -129,10 +120,10 @@ section .header {
 }
 
 .panel {
-  color: #18181b;
+  color: white;
   padding: 0 18px;
   border-radius: 15px;
-  background-color: #7A9A9F;
+  background-color: #4C376B;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.5s ease-out;

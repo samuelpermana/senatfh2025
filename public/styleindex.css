@@ -41,19 +41,21 @@
 }
 
 .logo-container {
-  display: block;
+  display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%; /* Sesuaikan ukuran */
+  width: 200px; /* Sesuaikan ukuran */
   height: auto;
+  margin-left: 150px;
 }
 
 .logo-container img {
-  width: 100%;
+  width: 400%;
   display: block;
-  animation: flameMotion 3s infinite ease-in-out,
+  animation:
+    flameMotion 3s infinite ease-in-out,
     pulseGlow 2s infinite ease-in-out;
-  margin: 0;
+  margin-left: 80px;
 }
 
 a {
@@ -200,6 +202,14 @@ section .header {
   color: #cfb53b;
   font-weight: 600;
   align-items: center; /* Mengatur vertikal ke tengah */
+}
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  margin-left: -50px;
 }
 
 .btn-as {
@@ -1224,6 +1234,24 @@ footer .column > a:hover {
   }
 }
 
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px; /* Sesuaikan ukuran */
+  height: auto;
+  margin-left: 150px;
+}
+
+.logo-container img {
+  width: 400%;
+  display: block;
+  animation:
+    flameMotion 3s infinite ease-in-out,
+    pulseGlow 2s infinite ease-in-out;
+  margin-left: 80px;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   background-color: #fff6ea;
@@ -1328,7 +1356,7 @@ header .content p {
 }
 
 section .header {
-  color: #2b5c6b;
+  color: #4c376b;
   margin-bottom: 4rem;
   font-size: 3rem;
   font-weight: 700;
@@ -2166,16 +2194,7 @@ footer .column > a:hover {
 
 /* Ganti latar belakang kalender */
 #calendar {
-  background: rgb(50, 95, 111);
-  background: linear-gradient(
-    90deg,
-    rgba(50, 95, 111, 1) 0%,
-    rgba(98, 124, 130, 1) 20%,
-    rgba(120, 152, 159, 1) 40%,
-    rgba(120, 152, 159, 1) 60%,
-    rgba(98, 124, 130, 1) 80%,
-    rgba(50, 95, 111, 1) 100%
-  );
+  background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
   padding: 20px; /* Berikan padding agar konten kalender tidak terlalu dekat dengan tepi */
   border-radius: 20px;
   margin-top: -5rem;
@@ -2189,9 +2208,9 @@ footer .column > a:hover {
 /* Atur tampilan tombol navigasi kalender */
 .fc-prev-button,
 .fc-next-button {
-  background-color: #78989f; /* Warna latar tombol */
+  background-color: #4c376b; /* Warna latar tombol */
   color: #fff; /* Warna teks tombol */
-  border-color: #78989f; /* Warna garis batas tombol */
+  border-color: #4c376b; /* Warna garis batas tombol */
   border-radius: 5px; /* Ubah sudut tombol */
   padding: 5px 10px; /* Atur padding tombol */
   margin: 0 5px; /* Atur margin antara tombol */
@@ -2208,7 +2227,7 @@ footer .column > a:hover {
 .fc-toolbar-title {
   font-size: 20px; /* Ukuran teks bulan dan tahun */
   font-weight: bold; /* Beri teks bulan dan tahun bold */
-  color: #333; /* Warna teks bulan dan tahun */
+  color: #fff; /* Warna teks bulan dan tahun */
 }
 
 /* Atur tampilan hari-hari di kalender */
@@ -2226,7 +2245,7 @@ footer .column > a:hover {
 }
 
 .fc-today-button {
-  background-color: #78989f;
+  background-color: #4c376b;
   padding: 6px 10px;
   border-radius: 5px;
   color: white;
@@ -2326,11 +2345,10 @@ footer .column > a:hover {
   background: rgba(0, 0, 0, 0.3);
   padding: 8px;
   border-radius: 4px;
-  margin-top: -100px;
 }
 
 .main-news .info .tag {
-  background-color: #1d4ed8;
+  background-color: #4c376b;
   font-size: 12px;
   font-weight: bold;
   padding: 8px 12px;
@@ -2361,7 +2379,7 @@ footer .column > a:hover {
 .popular-news h2 {
   font-size: 20px;
   font-weight: bold;
-  border-bottom: 2px solid #2b5c6b;
+  border-bottom: 2px solid #4c376b;
   padding-bottom: 8px;
 }
 
@@ -2486,11 +2504,11 @@ footer .column > a:hover {
 }
 /* CSS untuk menyesuaikan tampilan kalender */
 .fc-toolbar h2 {
-  color: #18181b; /* Mengubah warna teks bulan */
+  color: #fff; /* Mengubah warna teks bulan */
 }
 
 .fc-daygrid-day-number {
-  color: black; /* Mengubah warna teks tanggal */
+  color: white; /* Mengubah warna teks tanggal */
 }
 
 .fc,
@@ -2498,7 +2516,7 @@ footer .column > a:hover {
 .fc :after,
 .fc :before {
   box-sizing: border-box;
-  color: #18181b;
+  color: #fff;
 }
 @media screen and (max-width: 768px) {
   #calendar {
@@ -2527,5 +2545,415 @@ footer .column > a:hover {
   .fc .fc-col-header-cell-cushion {
     padding: 1px 2px;
     font-size: 13px;
+  }
+}
+
+/* Style Info Akademik*/
+
+.info-akademik {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 40px 20px; 
+  width: 100%;
+}
+
+.event-container-infoakademis {
+  background: linear-gradient(135deg, #4a3f7a 0%, #2d5a6f 50%, #3a7a7a 100%);
+  border-radius: 30px;
+  padding: 40px;
+  max-width: 1200px;
+  width: 100%;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+.event-card-infoakademis {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  align-items: stretch;
+}
+
+/* Left Section - Image Carousel */
+.carousel-section-infoakademis {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  background: #000;
+  min-height: 400px;
+}
+
+.date-badge-infoakademis {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: white;
+  border-radius: 15px;
+  padding: 15px 20px;
+  text-align: center;
+  z-index: 10;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.date-badge-infoakademis .year-infoakademis {
+  font-size: 14px;
+  font-weight: 500;
+  color: #666;
+}
+
+.date-badge-infoakademis .day-infoakademis {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+}
+
+.date-badge-infoakademis .month-infoakademis {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+}
+
+.carousel-container-infoakademis {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+}
+
+.carousel-slide-infoakademis {
+  display: none;
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-slide-infoakademis.active-infoakademis {
+  display: block;
+}
+
+.carousel-slide-infoakademis img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+}
+
+/* Carousel Navigation Buttons */
+.carousel-nav-infoakademis {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-nav-infoakademis:hover {
+  background: white;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.carousel-nav-infoakademis svg {
+  width: 20px;
+  height: 20px;
+  stroke: #000;
+}
+
+.carousel-prev-infoakademis {
+  left: 15px;
+}
+
+.carousel-next-infoakademis {
+  right: 15px;
+}
+
+.carousel-dots-infoakademis {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  z-index: 10;
+}
+
+.dot-infoakademis {
+  width: 30px;
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.4);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.dot-infoakademis.active-infoakademis {
+  background: white;
+  width: 40px;
+}
+
+/* Right Section - Event Info */
+.info-section-infoakademis {
+  background: linear-gradient(135deg, #f5f9e8 0%, #e8f5f0 100%);
+  border-radius: 20px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.tag-infoakademis {
+  display: inline-block;
+  background: #d4ff5c;
+  color: #000;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  width: fit-content;
+}
+
+.event-title-infoakademis {
+  font-size: 48px;
+  font-weight: 400;
+  color: #000;
+  margin-bottom: 20px;
+  font-family: Georgia, serif;
+}
+
+.event-description-infoakademis {
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  font-size: 16px;
+}
+
+.event-details-infoakademis {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.detail-item-infoakademis {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.detail-icon-infoakademis {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.detail-text-infoakademis {
+  font-size: 16px;
+  font-weight: 600;
+  color: #000;
+  line-height: 1.5;
+}
+
+.event-button-infoakademis {
+  background: white;
+  color: #000;
+  border: 2px solid #000;
+  padding: 15px 40px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 30px;
+  width: fit-content;
+}
+
+.event-button-infoakademis:hover {
+  background: #000;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive Design */
+@media (max-width: 968px) {
+  .event-card-infoakademis {
+    grid-template-columns: 1fr;
+  }
+
+  .carousel-section-infoakademis {
+    min-height: 350px;
+  }
+
+  .event-title-infoakademis {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 576px) {
+  .event-container-infoakademis {
+    padding: 20px;
+  }
+
+  .info-section-infoakademis {
+    padding: 25px;
+  }
+
+  .event-title-infoakademis {
+    font-size: 28px;
+  }
+
+  .date-badge-infoakademis .day-infoakademis {
+    font-size: 36px;
+  }
+
+  .carousel-nav-infoakademis {
+    width: 38px;
+    height: 38px;
+  }
+
+  .carousel-prev-infoakademis {
+    left: 10px;
+  }
+
+  .carousel-next-infoakademis {
+    right: 10px;
+  }
+}
+
+/* Popular News Section */
+.div-popular-news0 {
+  background: #e8f5e4;
+  border-radius: 24px;
+  padding: 30px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+}
+
+.location-tag0 {
+  display: inline-block;
+  background: #d4f542;
+  color: #000;
+  padding: 6px 16px;
+  border-radius: 16px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.popular-news0 h2 {
+  font-size: 36px;
+  font-weight: 400;
+  color: #000;
+  margin-bottom: 15px;
+  font-family: "Georgia", serif;
+}
+
+.news-description0 {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+.news-item0 {
+  display: flex;
+  gap: 12px;
+  padding: 15px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.news-item0:last-child {
+  border-bottom: none;
+}
+
+.news-icon0 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+
+.news-item0 .info {
+  flex: 1;
+}
+
+.news-item0 h3 {
+  font-size: 14px;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 4px;
+  line-height: 1.4;
+  margin-top: 6px;
+}
+
+.news-item0 p {
+  font-size: 13px;
+  color: #666;
+  margin: 0;
+}
+
+.news-item0 a {
+  color: #000;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.news-item0 a:hover {
+  color: #666;
+}
+
+.event-button0 {
+  display: inline-block;
+  background: white;
+  color: #000;
+  padding: 12px 28px;
+  border-radius: 24px;
+  border: 2px solid #000;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 8px;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.event-button0:hover {
+  background: #000;
+  color: white;
+}
+
+@media (max-width: 968px) {
+  .flex0 {
+    grid-template-columns: 1fr;
+  }
+
+  .news-card0 {
+    height: 400px;
+  }
+
+  .div-popular-news0 {
+    height: auto;
+  }
+
+  .popular-news0 h2 {
+    font-size: 28px;
   }
 }

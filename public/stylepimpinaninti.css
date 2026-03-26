@@ -197,7 +197,7 @@ header .image img {
 }
 
 section .header {
-    color: #2b5c6b;
+    color: #432e6e;
     margin-bottom: 6rem;
     font-size: 3rem;
     font-weight: 700;
@@ -720,7 +720,7 @@ footer .column > a:hover {
 }
 
 .j-header4 {
-    color: #2b5c6b;
+    color: #432e6e;
     margin-top: 1rem;
     font-size: 3.2rem;
     font-weight: 700;
@@ -864,15 +864,7 @@ footer .column > a:hover {
 .modern-card {
     color: #18181b;
     width: 35%;
-    background: linear-gradient(
-        90deg,
-        rgba(50, 95, 111, 1) 0%,
-        rgba(98, 124, 130, 1) 20%,
-        rgba(120, 152, 159, 1) 40%,
-        rgba(120, 152, 159, 1) 60%,
-        rgba(98, 124, 130, 1) 80%,
-        rgba(50, 95, 111, 1) 100%
-    );
+    background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
     border-radius: 8px;
     margin: 15px 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -1054,15 +1046,7 @@ h4 {
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
     transition: 0.3s;
     padding: 30px 50px;
-    background: linear-gradient(
-        90deg,
-        rgba(50, 95, 111, 1) 0%,
-        rgba(98, 124, 130, 1) 20%,
-        rgba(120, 152, 159, 1) 40%,
-        rgba(120, 152, 159, 1) 60%,
-        rgba(98, 124, 130, 1) 80%,
-        rgba(50, 95, 111, 1) 100%
-    );
+    background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
     cursor: pointer;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5),
         /* Bayangan utama */ 1px 1px 5px rgba(0, 0, 0, 0.5),

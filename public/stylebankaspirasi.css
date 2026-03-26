@@ -82,10 +82,7 @@ nav {
 }
 
 section .header {
-  color: #2b5c6b;
-
-  color: #2b5c6b;
-
+  color: #4c376b;
   margin-bottom: 4rem;
   font-size: 3rem;
   font-weight: 700;
@@ -104,10 +101,7 @@ section .header {
 }
 
 section .header-BA {
-  color: #2b5c6b;
-
-  color: #2b5c6b;
-
+  color: #4c376b;
   margin-bottom: 2rem;
   font-size: 3rem;
   font-weight: 700;
@@ -124,26 +118,7 @@ section .header-BA {
 }
 
 .pricing .card .content {
-  background: rgb(50, 95, 111);
-  background: linear-gradient(
-    90deg,
-    rgba(50, 95, 111, 1) 0%,
-    rgba(98, 124, 130, 1) 20%,
-    rgba(120, 152, 159, 1) 40%,
-    rgba(120, 152, 159, 1) 60%,
-    rgba(98, 124, 130, 1) 80%,
-    rgba(50, 95, 111, 1) 100%
-  );
-  background: rgb(50, 95, 111);
-  background: linear-gradient(
-    90deg,
-    rgba(50, 95, 111, 1) 0%,
-    rgba(98, 124, 130, 1) 20%,
-    rgba(120, 152, 159, 1) 40%,
-    rgba(120, 152, 159, 1) 60%,
-    rgba(98, 124, 130, 1) 80%,
-    rgba(50, 95, 111, 1) 100%
-  );
+  background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -152,7 +127,7 @@ section .header-BA {
 
 .pricing .card h4 {
   margin-bottom: 1rem;
-  color: #18181b;
+  color: #fff;
   font-size: 1.2rem;
   font-weight: 500;
   margin-top: 1rem;
@@ -164,8 +139,8 @@ section .header-BA {
   font-size: 1rem;
   padding: 1rem 2rem;
   width: 100%;
-  background: #325f6f;
-  background: #325f6f;
+  background: #4c376b;
+  background: #4c376b;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -269,6 +244,88 @@ footer .column > a:hover {
 .slobeh {
   justify-content: center;
   text-align: center;
+}
+
+.tracking-container {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.tracking-title {
+  color: #1a4040;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.tracking-steps {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.tracking-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 1;
+}
+
+.step-circle {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #2d5f5d;
+  border: 3px solid #2d5f5d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 2;
+  position: relative;
+}
+
+.step-circle svg {
+  width: 16px;
+  height: 16px;
+  stroke: white;
+  fill: none;
+  stroke-width: 3;
+}
+
+.step-line {
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  right: -50%;
+  height: 3px;
+  background: #2d5f5d;
+  z-index: 1;
+}
+
+.tracking-step:last-child .step-line {
+  display: none;
+}
+
+.step-content {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.step-label {
+  color: #1a4040;
+  font-weight: 500;
+  font-size: 13px;
+  margin-bottom: 3px;
+}
+
+.step-status {
+  color: #2d5f5d;
+  font-size: 12px;
 }
 
 @media (width < 1000px) {

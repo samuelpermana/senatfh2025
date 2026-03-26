@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
-
 * {
   margin: 0;
   padding: 0;
@@ -78,13 +77,7 @@ body {
 }
 
 .container form {
-  background: rgb(50, 95, 111);
-  background: linear-gradient(
-    90deg,
-    rgba(50, 95, 111, 1) 0%,
-    rgba(98, 124, 130, 1) 20%,
-    rgba(120, 152, 159, 1) 40%
-  );
+  background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -228,13 +221,7 @@ body {
 
 .toggle-right {
   right: 0;
-  background: rgb(120, 152, 159);
-  background: linear-gradient(
-    90deg,
-    rgba(120, 152, 159, 1) 60%,
-    rgba(98, 124, 130, 1) 80%,
-    rgba(50, 95, 111, 1) 100%
-  );
+  background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
 }
 
 .container.active .toggle-right {

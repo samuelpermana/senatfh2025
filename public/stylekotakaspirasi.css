@@ -85,30 +85,21 @@ nav {
   /* Menyesuaikan lebar border */
   border-radius: 15px; /* Menambahkan radius sudut untuk border */
   transition: all 0.3s ease; /* Efek transisi untuk perubahan hover */
-  background: rgb(50, 95, 111);
-  background: linear-gradient(
-    90deg,
-    rgba(50, 95, 111, 1) 0%,
-    rgba(98, 124, 130, 1) 20%,
-    rgba(120, 152, 159, 1) 40%,
-    rgba(120, 152, 159, 1) 60%,
-    rgba(98, 124, 130, 1) 80%,
-    rgba(50, 95, 111, 1) 100%
-  );
+  background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
   width: 50%; /* Menyesuaikan lebar elemen dengan textarea */
   margin: auto; /* Menengahkan elemen */
 }
 
 #contact h2 {
   margin-bottom: 20px;
-  color: #18181b;
+  color: #fff;
 }
 
 #contact label {
   display: block;
   margin-bottom: 8px;
   font-weight: bold;
-  color: #18181b;
+  color: #fff;
 }
 
 #contact input[type="text"],
@@ -145,7 +136,7 @@ nav {
 
 #contact button {
   padding: 10px 20px;
-  background: #2b5c6b;
+  background: #4C376B;
   color: #fff;
   border: none;
   border-radius: 3px;
